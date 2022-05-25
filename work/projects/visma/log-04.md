@@ -2,7 +2,7 @@
 
 This is GSoC log-04 (view log-03 [here](log-03). Here I will cover on what I have done in week 08-09 and a gist of what has been accomplished in Phase II coding period and what is to be done in the final coding period.
 
-![visma-banner](banner.jpg)
+![visma-banner](assets/banner.jpg)
 
 ## Done so far
 

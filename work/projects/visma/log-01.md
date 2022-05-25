@@ -2,7 +2,7 @@
 
 I came across [AerospaceResearch.net](https://aerospaceresearch.net) when browsing through GSoC organizations. It offered projects both in my field of interests and academic domain. I had to make a hard choice between **DirectDemod** and **VisMa** and I finally chose **VisMa** as my project for GSoC.
 
-![visma-banner](banner.jpg)
+![visma-banner](assets/banner.jpg)
 
 This is my first GSoC dev log (more to come). Here I will be logging about what I learned, what I have done and what I will do. So following is the work I have done in VisMa. This log covers on what I have done in week#01-02.
 

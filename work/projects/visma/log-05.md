@@ -2,7 +2,7 @@
 
 This is GSoC'18 log-05. Here I will cover on what I have done in week 10-11. Link to the [previous log](log-04). The work during this period is mostly done in [visma/gui](https://github.com/aerospaceresearch/visma/blob/master/visma/gui).
 
-![visma-banner](banner.jpg)
+![visma-banner](assets/banner.jpg)
 
 ## Done so far
 

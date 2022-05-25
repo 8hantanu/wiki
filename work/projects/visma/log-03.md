@@ -3,7 +3,7 @@
 
 This is GSoC'18 log 03. Here I will cover on what I have done in week 06-07. Link to the [previous log](log-02.md).
 
-![visma-banner](banner.jpg)
+![visma-banner](assets/banner.jpg)
 
 ## Done so far
 

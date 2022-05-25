@@ -2,7 +2,7 @@
 
 This is GSoC'18 log 06. Here I will cover on what I have done in week 12-13. Link to the [previous log](log-05). The work in these two weeks involved packaging and documenting the code.
 
-![visma-banner](banner.jpg)
+![visma-banner](assets/banner.jpg)
 
 ## Done so far
 

@@ -27,7 +27,7 @@ $$c_{2,n} = c_{2,n-1} + n$$
 
 where $c_{2,n}$ represent the number of maximum pieces obtained with $n$ cuts with $c_{2,1} = 2$.
 
-Solving the above series[^hint], we obtain:
+Solving the above series[^hint1], we obtain:
 
 $$
 \begin{align}
@@ -94,15 +94,15 @@ $$\lim_{m \to \infty} c_{m,n} = 2^n$$
 [^book]: Suggested Reading: [Hyperspace - Michio Kaku](https://www.goodreads.com/book/show/722419.Hyperspace)
 [^idea]: A formal way to go about proving this would be to prove
 [^1]: [https://oeis.org/A000124](https://oeis.org/A000124)
-[^hint]: **Hint**: Sum of first n positive integers = $\frac{n(n+1)}{2}$
+[^hint1]: **Hint**: Sum of first n positive integers = $\frac{n(n+1)}{2}$
 [^2]: [https://oeis.org/A000125](https://oeis.org/A000125)
 [^hint2]: **Hint**: Sum of squares of first n positive integers = $\frac{n(n+1)(2n+1)}{6}$
 [^shots]: Take a shot everytime hyper is mentioned.
-[^proof]: Read next: [[Solving the Hypercake Series]]
 
-# Solving the Hypercake Series
 
-In the [[Hypercake Number\| previous post]] about hypercake numbers, we obtained a recurrence relation for the hypercake number:
+## Solving the Hypercake Series
+
+Above we obtained a recurrence relation for the hypercake number:
 
 $$c_{m,n} = c_{m,n-1} + c_{m-1,n-1}$$
 
@@ -118,7 +118,7 @@ One way to go about this and generally about solving recurrence relations is to 
 
 $$f(x,y)=\sum_{i,j=0}^{\infty}c_{i,j} x^i y^j$$
 
-a formal powers series which encodes coefficients of our sequence. To find a generating function for this $f(x,y)$ was not so straightforward[^hint] for me, so I had to seek help from a good samaritan at Math SE[^mse].
+a formal powers series which encodes coefficients of our sequence. To find a generating function for this $f(x,y)$ was not so straightforward[^hint3] for me, so I had to seek help from a good samaritan at Math SE[^mse].
 
 $$
 \begin{align}
@@ -192,7 +192,7 @@ $$
 \dots + \left(\binom{j}{i}+\binom{j}{i-1}+\dots+\binom{j}{0}\right) x^i y^j + \dots
 $$
 
-Therefore we have (as speculated in [previous post](/geek-streak/2016/12/18/hypercake-number))
+Therefore we have (as speculated above)
 
 $$c_{i,j} =\binom{j}{i}+\binom{j}{i-1}+\dots+\binom{j}{0} =\sum_{k=0}^{i}\binom{j}{k}$$
 
@@ -202,7 +202,7 @@ $$\text{Hypercake Number:} ~~ c_{m,n} =\sum_{i=0}^{m}\binom{n}{i}$$
 
 [^gf]: [http://discrete.openmathbooks.org/dmoi2/section-27.html](http://discrete.openmathbooks.org/dmoi2/section-27.html)
 [^bc]: [http://discrete.openmathbooks.org/dmoi3/sec_counting-binom.html](http://discrete.openmathbooks.org/dmoi3/sec_counting-binom.html#UCc)
-[^hint]: **Hint**: $f(x,y)=\frac{1}{(x-1)(xy+y-1)}$
+[^hint3]: **Hint**: $f(x,y)=\frac{1}{(x-1)(xy+y-1)}$
 [^mse]: [https://math.stackexchange.com/a/2065193](https://math.stackexchange.com/a/2065193)
 [^gf1]: Proof:
     $$
@@ -212,5 +212,3 @@ $$\text{Hypercake Number:} ~~ c_{m,n} =\sum_{i=0}^{m}\binom{n}{i}$$
     (1-x)S & = 1
     \end{align*}
     $$
-
-#draft
