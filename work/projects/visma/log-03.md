@@ -1,15 +1,9 @@
----
-title: ViSMA log 03
-season: summer
-tags: hack-stack
----
-
-##  Finding the Unknown"
+# Log 03 - Finding the Unknown
 
 
-This is GSoC'18 log#03. Here I will cover on what I have done in week #06-07. Link to the [[ViSMA log 02\|previous log]]).
+This is GSoC'18 log 03. Here I will cover on what I have done in week 06-07. Link to the [previous log](log-02.md).
 
-![visma-banner](/assets/img/visma/banner.jpg)
+![visma-banner](banner.jpg)
 
 ## Done so far
 
@@ -42,7 +36,7 @@ While working on these I learned a lot about unit-tests and code-coverage. I use
 
 I fiddled a little with the stylesheets in PyQt4 and made the GUI a little cleaner. Below is the solver in action.
 
-![visma-demo3](/assets/images/demos/visma/demo3.gif){: .align-center}
+![visma-demo3](demos/log-03.gif)
 
 ## What I will be doing next
 
@@ -52,4 +46,4 @@ Also for multi-variable linear equations, matrix modules will be created and Gau
 
 Since I have just initialized testing using pytest, there are many test cases left to be written. Tests for specifically each module will be created.
 
-Link to [project source](https://github.com/aerospaceresearch/visma "visma") and [to-do board](https://github.com/aerospaceresearch/visma/projects/1 "Project Progress"). Link to [[ViSMA log 04\|next log]].
+Link to [project source](https://github.com/aerospaceresearch/visma "visma") and [to-do board](https://github.com/aerospaceresearch/visma/projects/1 "Project Progress"). Link to [next log](log-04.md).

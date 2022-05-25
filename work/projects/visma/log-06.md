@@ -1,26 +1,8 @@
----
-title: ViSMA log 06
-season: summer
-tags: hack-stack
----
+# Log 06 - Packing Up
 
----
-title: "GSoC'18 log#06: Packing Up"
-categories:
-  - hack-stack
-tags:
-  - gsoc
-  - visma
-  - opensource
-  - python
-  - math
-last_modified_at: 2018-08-11T12:30:00+05:30
----
+This is GSoC'18 log 06. Here I will cover on what I have done in week 12-13. Link to the [previous log](log-05). The work in these two weeks involved packaging and documenting the code.
 
-
-This is GSoC'18 log#06. Here I will cover on what I have done in week #12-13. Link to the [previous log](/hack-stack/2018/07/28/gsoc-log05-dynamic-simplification-and-plotting.html "GSoC'18 log#05"). The work in these two weeks involved packaging and documenting the code.
-
-![visma-banner](/assets/img/visma/banner.jpg)
+![visma-banner](banner.jpg)
 
 ## Done so far
 
@@ -60,7 +42,7 @@ The _plotter_ has been divided into two separate tabs i.e. 2D plot and 3D plot. 
 
 Plotting an equation in different axis ranges helps in visualizing it in a better way. The below demo justifies the previous statement.
 
-![visma-demo6](/assets/images/demos/visma/demo6.gif){: .align-center}
+![visma-demo6](demos/log-06.gif)
 
 ## What I will be doing next
 

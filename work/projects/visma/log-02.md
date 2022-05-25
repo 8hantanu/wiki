@@ -1,14 +1,8 @@
----
-title: ViSMA log 02
-season: summer
-tags: hack-stack
----
+# Log 02 - Integrating the Integrator
 
-## Integrating the Integrator
+This is GSoC log 02 (view [previous log](log-01)). Here I will cover on what I have done in week 03-05 and a gist of what has been accomplished in Phase I coding period.
 
-This is GSoC log#02 (view [[ViSMA log 01\|previous log]]). Here I will cover on what I have done in week #03-05 and a gist of what has been accomplished in Phase I coding period.
-
-![visma-banner](/assets/img/visma/banner.jpg)
+![visma-banner](banner.jpg)
 
 ## Done so far
 
@@ -23,7 +17,7 @@ The differentiation.py works for all functions. The integration.py is a tough on
 
 The below demo shows the newly added functionalities like factorizing polynomials, differentiating and integrating expressions with respect to a variable.
 
-![visma-demo](/assets/images/demos/visma/demo2.gif){: .align-center}
+![visma-demo](demos/log-02.gif)
 
 ## Phase - 1 deliverables
 
@@ -46,4 +40,4 @@ Also as the number of functions are increasing, the cases to test are increasing
 
 Most of the time of phase II period will be spent on working on all kinds of solvers. Also, calculus functionalities will be enhanced and support for more types of functions will be added.
 
-Link to [project source](https://github.com/aerospaceresearch/visma "visma") and [to-do board](https://github.com/aerospaceresearch/visma/projects/1 "Project Progress"). Link to [[ViSMA log 03\|next log]].
+Link to [project source](https://github.com/aerospaceresearch/visma "visma") and [to-do board](https://github.com/aerospaceresearch/visma/projects/1 "Project Progress"). Link to [next log](log-03).

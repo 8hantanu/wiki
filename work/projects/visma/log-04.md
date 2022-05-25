@@ -1,26 +1,8 @@
----
-title: ViSMA log 04
-season: summer
-tags: hack-stack
----
+# Log 04 - Develop, Test, Repeat
 
----
-title: "GSoC'18 log#04: Develop, Test, Repeat"
-categories:
-  - hack-stack
-tags:
-  - gsoc
-  - visma
-  - opensource
-  - python
-  - math
-last_modified_at: 2018-07-14T12:30:00+05:30
----
+This is GSoC log-04 (view log-03 [here](log-03). Here I will cover on what I have done in week 08-09 and a gist of what has been accomplished in Phase II coding period and what is to be done in the final coding period.
 
-
-This is GSoC log#04 (view log#03 [here](/hack-stack/2018/06/30/gsoc-log03-finding-the-unknown.html)). Here I will cover on what I have done in week #08-09 and a gist of what has been accomplished in Phase II coding period and what is to be done in the final coding period.
-
-![visma-banner](/assets/img/visma/banner.jpg)
+![visma-banner](banner.jpg)
 
 ## Done so far
 
@@ -75,7 +57,7 @@ Most of the time of final period will be spent on working on the missing test ca
 
 GUI will be enhanced. Logger will be added and plotter will be modified to support equations in multiple variables. Here is a sneak peek of the dynamic simplifier I am working on.
 
-![visma-demo4](/assets/images/demos/visma/demo4.gif){: .align-center}
+![visma-demo4](demos/log-04.gif)
 
 Link to [project source](https://github.com/aerospaceresearch/visma "visma") and [to-do board](https://github.com/aerospaceresearch/visma/projects/1 "Project Progress").
 

@@ -1,26 +1,8 @@
----
-title: ViSMA log 05
-season: summer
-tags: hack-stack
----
+# Log 05 - Dynamic Simplification and Plotting
 
----
-title: "GSoC'18 log#05: Dynamic Simplification and Plotting"
-categories:
-  - hack-stack
-tags:
-  - gsoc
-  - visma
-  - opensource
-  - python
-  - math
-last_modified_at: 2018-07-28T12:30:00+05:30
----
+This is GSoC'18 log-05. Here I will cover on what I have done in week 10-11. Link to the [previous log](log-04). The work during this period is mostly done in [visma/gui](https://github.com/aerospaceresearch/visma/blob/master/visma/gui).
 
-
-This is GSoC'18 log#05. Here I will cover on what I have done in week #10-11. Link to the [previous log](/hack-stack/2018/07/14/gsoc-log04-develop-test-repeat.html "GSoC'18 log#04"). The work during this period is mostly done in [visma/gui](https://github.com/aerospaceresearch/visma/blob/master/visma/gui).
-
-![visma-banner](/assets/img/visma/banner.jpg)
+![visma-banner](banner.jpg)
 
 ## Done so far
 
@@ -51,7 +33,7 @@ For example:
 
 Below the _qsolver_ and _plotter_ can be seen in action.
 
-![visma-demo5](/assets/images/demos/visma/demo5.gif){: .align-center}
+![visma-demo5](demos/log-05.gif)
 
 ## What I will be doing next
 

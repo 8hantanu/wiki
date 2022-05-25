@@ -2,7 +2,7 @@
 
 I came across [AerospaceResearch.net](https://aerospaceresearch.net) when browsing through GSoC organizations. It offered projects both in my field of interests and academic domain. I had to make a hard choice between **DirectDemod** and **VisMa** and I finally chose **VisMa** as my project for GSoC.
 
-![visma-banner](/assets/img/visma/banner.jpg)
+![visma-banner](banner.jpg)
 
 This is my first GSoC dev log (more to come). Here I will be logging about what I learned, what I have done and what I will do. So following is the work I have done in VisMa. This log covers on what I have done in week#01-02.
 
@@ -25,7 +25,7 @@ While everything worked perfectly with objects, the steps animator didn't comply
 
 An equation plotter was built with the help of matplotlib. The plotter supports plotting equations in one and two variables. While working on the GUI I learned a lot about PyQT4, a GUI library for python. I have updated the GUI so that the plotter and step-animator are embedded in the main window itself. Here is the new GUI in action.
 
-![visma-demo](/assets/img/visma/demos/log01.gif)
+![visma-demo](demos/01.gif)
 
 ## What I will be doing next
 
@@ -33,7 +33,7 @@ The above example is one of the test cases of the input equations. The animator 
 
 The next thing to do will be integrating the token IDing module. The rules of calculus will be based on this IDing module. The code can be optimized by converting some functions to class methods. Also, some work relating to equation solvers will be initiated.
 
-From now on I will be updating the log on a fortnightly basis (read on [AerospaceResearch.net](https://aerospaceresearch.net/?p=691)). The project progress can be viewed here. Link to [[ViSMA log 02\|next log]]. BTW I added a new VisMa logo.
+From now on I will be updating the log on a fortnightly basis (read on [AerospaceResearch.net](https://aerospaceresearch.net/?p=691)). The project progress can be viewed here. Link to next log. BTW I added a new VisMa logo.
 
 <p align="center"><b>VisMa, now classy and sassy !!</b>
 
