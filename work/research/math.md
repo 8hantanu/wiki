@@ -1,4 +1,4 @@
 # Math research
 
-- [Hypercake numbers](math/hypercake-numbers)
+- [Hypercake Numbers](math/hypercake-number)
 

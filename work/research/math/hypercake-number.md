@@ -99,3 +99,118 @@ $$\lim_{m \to \infty} c_{m,n} = 2^n$$
 [^hint2]: **Hint**: Sum of squares of first n positive integers = $\frac{n(n+1)(2n+1)}{6}$
 [^shots]: Take a shot everytime hyper is mentioned.
 [^proof]: Read next: [[Solving the Hypercake Series]]
+
+# Solving the Hypercake Series
+
+In the [[Hypercake Number\| previous post]] about hypercake numbers, we obtained a recurrence relation for the hypercake number:
+
+$$c_{m,n} = c_{m,n-1} + c_{m-1,n-1}$$
+
+with $c_{m,1} = 2$ and $c_{1,m} = m+1$.
+
+To move forward, some basic understanding of generating functions[^gf] and binomial coefficients[^bc] is required. <!--more--> For the sake of completeness and simplifying things let us also consider the case of 0 cuts which yield $c_{m,0} = 1$ (max cake slices with $0$ cuts) and $c_{0,n} = 1$ (a point cannot be sliced further). Now the new initial conditions are:
+
+$$c_{m,n} = c_{m,n-1} + c_{m-1,n-1}$$
+
+with $c_{m,0} = 1$ and $c_{0,n} = 1$.
+
+One way to go about this and generally about solving recurrence relations is to use generating functions, in our case, it will lead to a generating function in two variables. Let's suppose we have
+
+$$f(x,y)=\sum_{i,j=0}^{\infty}c_{i,j} x^i y^j$$
+
+a formal powers series which encodes coefficients of our sequence. To find a generating function for this $f(x,y)$ was not so straightforward[^hint] for me, so I had to seek help from a good samaritan at Math SE[^mse].
+
+$$
+\begin{align}
+f(x,y)&=\sum_{i,j=0}^{\infty}c_{i,j} x^i y^j \\
+&=c_{0,0}+\sum_{i=1}^{\infty}c_{i,0} x^i+\sum_{j=1}^{\infty}c_{0,j} y^j + \sum_{i,j=1}^{\infty}c_{i,j} x^i y^j \\
+\end{align}
+$$
+
+We separate the terms where either $i$ or $j$ equals $0$, since we can write recurrence for $c_{i,j}$ iff $i, j \geq 1$. For second and third sums above[^gf1],
+
+$$
+\sum_{i=1}^{\infty}c_{i,0} x^i = x+x^2+x^3+\dots = \frac{x}{1-x}
+$$
+
+So overall we have
+
+$$
+f(x,y) = 1+\frac{x}{1-x}+\frac{y}{1-y}+\sum_{i,j=1}^{\infty}c_{i,j} x^i y^j
+$$
+
+Now for the last sum, we can apply our recurrence relation
+
+$$
+\begin{align}
+\sum_{i,j=1}^{\infty}c_{i,j} x^i y^j &= \sum_{i,j=1}^{\infty}(c_{i,j-1}+c_{i-1,j-1}) x^i y^j \\
+    &= \sum_{i,j=1}^{\infty}c_{i,j-1} x^i y^j+\sum_{i,j=1}^{\infty}c_{i-1,j-1} x^i y^j \\
+    &= y\sum_{i,j=1}^{\infty}c_{i,j-1} x^i y^{j-1}+xy\sum_{i,j=1}^{\infty}c_{i-1,j-1} x^{i-1} y^{j-1}\\
+\end{align}
+$$
+
+Rearranging the limits and product in the sums so that we can obtain it in the $f(x,y)$ form
+
+$$
+\begin{align}
+\sum_{i,j=1}^{\infty}c_{i,j} x^i y^j &= y\sum_{i=1,j=0}^{\infty}c_{i,j} x^i y^{j}+xy\sum_{i,j=0}^{\infty}c_{i,j} x^{i} y^{j}\\
+    &= y\left(\sum_{i=0,j=0}^{\infty}c_{i,j} x^i y^{j}-\sum_{j=0}^{\infty}c_{0,j}\right)+xy\sum_{i,j=0}^{\infty}c_{i,j} x^{i} y^{j}\\
+    &= y\left(f(x,y)-\sum_{j=0}^{\infty}c_{0,j}\right)+xyf(x,y)\\
+    &= y\left(f(x,y)-\frac{1}{1-y}\right)+xyf(x,y)\\
+\end{align}
+$$
+
+Plugging in the last sum $\sum_{i,j=1}^{\infty}c_{i,j} x^i y^j$, in the original definition of $f(x,y)$ we have
+
+$$
+\begin{align}
+         f(x,y) &=1+\frac{x}{1-x}+\frac{y}{1-y}+ y\left(f(x,y)-\frac{1}{1-y}\right)+xyf(x,y)\\
+(1-y-xy) f(x,y) &= 1+\frac{x}{1-x}+\frac{y}{1-y}-y\left(\frac{1}{1-y}\right)\\
+         f(x,y) &= \frac{1}{(1-x)(1-y-xy)}\\
+\end{align}
+$$
+
+Now that we have the generating function of $f(x,y)$, it encodes all of the coefficients compactly.
+
+Notice that in $f(x,y)=\frac{1}{1-x}.\frac{1}{1-y-xy}$ the first term is
+
+$\frac{1}{1-x}=1+x+x^2+x^3+\dots$
+
+Also, the second expression is a well known generating function
+
+$$\frac{1}{1-y-xy}=\frac{1}{1-y(1+x)}=\sum_{i,j=0}^{\infty}\binom{j}{i} x^i y^j$$
+
+So we can view our function in this form as a product
+
+$$
+f(x,y) = (1+x+x^2+x^3+\dots) \left(\sum_{i,j=0}^{\infty}\binom{j}{i} x^i y^j\right)
+$$
+
+Coming to the showdown we need to find the value of $$c_{i,j}$$ which will be the same as the coefficient of $$x^i y^j$$ is in the above product. It is not hard to see that it will be
+
+$$
+\dots + \left(\binom{j}{i}+\binom{j}{i-1}+\dots+\binom{j}{0}\right) x^i y^j + \dots
+$$
+
+Therefore we have (as speculated in [previous post](/geek-streak/2016/12/18/hypercake-number))
+
+$$c_{i,j} =\binom{j}{i}+\binom{j}{i-1}+\dots+\binom{j}{0} =\sum_{k=0}^{i}\binom{j}{k}$$
+
+Finally the Hypercake Numbers $c_{m,n}$ which represents the number of maximum pieces a $m$D-hypercake can be sliced into with $n$ cuts made by a slicer of dimension $\geq (m-1)$.
+
+$$\text{Hypercake Number:} ~~ c_{m,n} =\sum_{i=0}^{m}\binom{n}{i}$$
+
+[^gf]: [http://discrete.openmathbooks.org/dmoi2/section-27.html](http://discrete.openmathbooks.org/dmoi2/section-27.html)
+[^bc]: [http://discrete.openmathbooks.org/dmoi3/sec_counting-binom.html](http://discrete.openmathbooks.org/dmoi3/sec_counting-binom.html#UCc)
+[^hint]: **Hint**: $f(x,y)=\frac{1}{(x-1)(xy+y-1)}$
+[^mse]: [https://math.stackexchange.com/a/2065193](https://math.stackexchange.com/a/2065193)
+[^gf1]: Proof:
+    $$
+    \begin{align*}
+    S & = 1 + x + x^2 + x^3 + \cdots\\
+    \underline{- xS} & \underline{\,\, = ~~ - x - x^2 - x^3 - \cdots}\\
+    (1-x)S & = 1
+    \end{align*}
+    $$
+
+#draft
