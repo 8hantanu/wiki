@@ -1,7 +1,7 @@
 # VisMa
 **visma - VISualMAth**, an equation solver and visualizer, which aims at showing the step-by-step solution and interactive plots of a given equation.
 
-![visma-cover](assets/cover.jpg)
+![visma-cover](visma/assets/cover.jpg)
 
 ## Deliverables
 
