@@ -1,2 +1,5 @@
 title: Shantanu's wiki
 author: Shantanu Mishra
+markdown: kramdown
+kramdown:
+   math_engine: mathjax
