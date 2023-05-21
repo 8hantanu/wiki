@@ -1,9 +1,10 @@
 title: shantanu's wiki
 author: shantanu mishra
 description: shantanu's wiki
+
 baseurl: ""
-plugins:
-  - jekyll-remote-theme
+url: "https://wiki.8hantanu.net"
+
 remote_theme: 8hantanu/theme
 
 theme_config:
