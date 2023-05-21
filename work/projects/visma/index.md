@@ -1,7 +1,7 @@
 # VisMa
 **visma - VISualMAth**, an equation solver and visualizer, which aims at showing the step-by-step solution and interactive plots of a given equation.
 
-![visma-cover](visma/assets/cover.jpg)
+![visma-cover](assets/cover.jpg)
 
 ## Deliverables
 
@@ -40,16 +40,16 @@ visma
 
 Below is a real quick demo of some of the features like calculus, solver, plotter etc which were implemented in visma. To experience **visma** and explore all features, go to the [install guide](https://github.com/aerospaceresearch/visma/blob/master/README.md#installation) or [code wiki](https://github.com/aerospaceresearch/visma/wiki).
 
-![visma-demo](visma/demos/final.gif)
+![visma-demo](demos/final.gif)
 
 There were many new things I came across while working on this project. I learned about integrating UI elements (using **_PyQt_**), unit-testing (using **_pytest_**) and packaging python apps (using **_PyPI_**). To get a deep insight into my progress and learnings throughout the completion of the project check out the GSoC devlogs -
 
-- **Week 01-02: [Making ViSMA 'classy'](visma/log-01)** - Changed code to follow object-oriented style
-- **Week 03-05: [Integrating the Integrator](visma/log-02)** - Added the calculus modules
-- **Week 06-07: [Finding the Unknown](visma/log-03)** - Implemented solvers
-- **Week 08-09: [Develop, Test, Repeat](visma/log-04)** - Added unit testing for all modules
-- **Week 10-11: [Dynamic Simplification and Plotting](visma/log-05)** - Enhanced the GUI
-- **Week 12-13: [Packing Up](visma/log-06)** - Finishing touches, packaging code, documentation
+- **Week 01-02: [Making ViSMA 'classy'](log-01)** - Changed code to follow object-oriented style
+- **Week 03-05: [Integrating the Integrator](log-02)** - Added the calculus modules
+- **Week 06-07: [Finding the Unknown](log-03)** - Implemented solvers
+- **Week 08-09: [Develop, Test, Repeat](log-04)** - Added unit testing for all modules
+- **Week 10-11: [Dynamic Simplification and Plotting](log-05)** - Enhanced the GUI
+- **Week 12-13: [Packing Up](log-06)** - Finishing touches, packaging code, documentation
 
 ## Future work
 

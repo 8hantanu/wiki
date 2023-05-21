@@ -1,3 +1,0 @@
-# Research
-
-- [math](research/math)
