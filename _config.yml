@@ -1,10 +1,11 @@
-title: shantanu's wiki
-author: shantanu mishra
+title: Shantanu's wiki
+author: Shantanu Mishra
+email: hey@8hantanu.net
 
 baseurl: ""
 url: "https://wiki.8hantanu.net"
 
-remote_theme: 8hantanu/theme
+remote_theme: 8hantanu/mold
 
 plugins:
   - jekyll-feed
