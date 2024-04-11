@@ -2,3 +2,4 @@
 
 - [projects](projects)
 - [research](research)
+- [notes](notes)
