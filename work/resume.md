@@ -4,13 +4,13 @@
 ## Experience
 
 ### Advanced Micro Devices - Hyderabad, India
-Hyderabad, India Software Engineer II (Feb 2022 - present)
+Hyderabad, IndiaSoftware Engineer II (Feb 2022 - present)
 - Achieved emulation speedup with a 10-100x factor with a
 ### Xilinx - Hyderabad, India
-    * Software Engineer II (Nov 2021 - Feb 2022) asdasd
-    * Software Engineer I (Aug 2020 - Sept 2021) sdfsf
+    * Software Engineer II (Nov 2021 - Feb 2022)asdasd
+    * Software Engineer I (Aug 2020 - Sept 2021)sdfsf
 * Intel - Bangalore, India
-    * Undegrad Intern (Jul 2019 - Jul 2020) Driver Develop
+    * Undegrad Intern (Jul 2019 - Jul 2020)Driver Develop
 
 Publications
 * Compiler based approach to generate transactions (patent pending)
@@ -19,7 +19,7 @@ Publications
 
 Projects
 * CytoCube
-    * Indian Institute of Technology and Science (Apr 2019 - June 2019) as
+    * Indian Institute of Technology and Science (Apr 2019 - June 2019)as
 * VisMa
 
 Education
