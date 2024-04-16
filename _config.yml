@@ -6,3 +6,7 @@ baseurl: ""
 url: "https://wiki.8hantanu.net"
 
 remote_theme: yree/mold
+footer_content: >
+  ##### © 2024 [8hantanu](https://8hantanu.net) | 📜 [Disclaimer](https://8hantanu.net/disclaimer) | 📬 [Comment](javascript:window.location='mailto:hey@8hantanu.net?subject='+encodeURIComponent(document.title)) | ⬅️ [go back](..)
+
+favicon: favicon.ico
