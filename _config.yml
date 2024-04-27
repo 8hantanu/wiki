@@ -2,12 +2,12 @@ title: Shantanu's wiki
 author: Shantanu Mishra
 email: hey@8hantanu.net
 
-baseurl: ""
-url: "https://8hantanu.net/wiki"
+url: https://8hantanu.net
+baseurl: /wiki
 
 remote_theme: yree/mold
 
 footer_content: >
-  ##### © 2024 [8hantanu](https://8hantanu.net) | 📬 [Comment](javascript:window.location='mailto:hey@8hantanu.net?subject='+encodeURIComponent(document.title)) | ⬅️ [previous](..)
+  ##### © 2024 [8hantanu](https://8hantanu.net) | 📬 [comment](javascript:window.location='mailto:hey@8hantanu.net?subject='+encodeURIComponent(document.title)) | ⬅️ [previous](..)
 
-favicon: favicon.ico
+favicon: favicon.svg
