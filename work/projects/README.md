@@ -1,8 +1,14 @@
 # Projects 🏗️
 
-## Active projects
+## Active
 
 - 🌳 [Yree](https://yree.io)
+
+## Personal
+
+- 🔌 [plug](/plug)
+- ⚓️ [dock](/dock)
+- ⚙️ [dots](/dots)
 
 ## Archived
 
