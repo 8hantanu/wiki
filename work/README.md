@@ -1,5 +1,6 @@
-# Work
+# Work 🌱
 
-- [projects](projects)
-- [research](research)
-- [notes](notes)
+- 🌳 [Yree](https://yree.io)
+- 🏗️ [Projects](projects)
+- 🔬 [Research](research)
+- 📝 [Notes](notes)

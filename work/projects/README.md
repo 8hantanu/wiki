@@ -1,4 +1,4 @@
-# Projects
+# Projects 🏗️
 
 - [visma](visma)
 - [cytocube](cytocube)

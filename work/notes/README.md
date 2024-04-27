@@ -1,4 +1,5 @@
-# Notes
+# Notes 📝
 
-- [Computer Science](compsci)
-- [Math](math)
+- 🤖 [Computer Science](compsci)
+- 📐 [Math](math)
+- 📈 [Finance](finance)

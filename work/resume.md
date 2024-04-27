@@ -1,6 +1,6 @@
 # Shantanu Mishra’s resume
 
-**Software Engineer | Hyderabad, India | @8hantanu**
+**Software Engineer | Hyderabad, India | @8hantanu** 
 
 ## Experience
 
