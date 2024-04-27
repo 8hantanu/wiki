@@ -1,4 +1,4 @@
-# Hypercake Number
+# Hypercake Number 🔬
 
 Cake number, as defined in mathematics is the number of maximum pieces a cake can be cut into with a given number of cuts. In this post, we will try to do the same with a cake (a Hypercake if you may) in higher dimensions.
 
