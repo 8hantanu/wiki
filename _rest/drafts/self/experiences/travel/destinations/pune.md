@@ -1,14 +1,14 @@
-9th Aug ‘23 — Pune Trip
+# 9th Aug ‘23 — Pune Trip
 
 Trekking places
     Rajgad
     Lohagad
     Sinhagad
-    Khadakwasla 
+    Khadakwasla
     Rajmachi
     Devkund
     Malshej ghats
-    Tamhini ghats 
+    Tamhini ghats
 
 Cafes
     Murphies
@@ -16,7 +16,7 @@ Cafes
     Daily all day
     Chafa
     Paash
-    Boho 
+    Boho
     Santa spa
 
 Clubs
