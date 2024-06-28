@@ -1,6 +1,7 @@
 # C++
 
-## Concepts 
+## Concepts
+
 Linkers
 Pointer
 

@@ -1,20 +1,23 @@
-# Yree 
+# Yree
 
 ## Acquire
+
 Freeletics
 Stoic
 Minimalist
 IKEA?
 
-##  Rino Rapid I/O
+## Rino Rapid I/O
+
 A fast rust based simulator
 
 ### Features
+
 Multi-thread graph based moore machine
 Prebuilt modules - Memory, Controllers, Interconnects
 Bindings for systemC wrappers
 Easy driver support
-Stop anytime start anywhere 
+Stop anytime start anywhere
 
 ## Svif
 
@@ -35,34 +38,34 @@ About Page for Investors:
 - With strategic partnerships and efficient supply chain management, we deliver cost-effective yet trendy fashion products.
 - Join us in redefining the future of fashion and creating long-term value for our shareholders.
 
-Please remember that these bullet points provide a brief overview and can be further expanded or customized to fit the specific needs and branding of your fictional company.
-
 ## mdfy
 
 Browser plug-in to generate on-the-fly markdown text for web elements
 
-### Features
 Smart Links (permalinks with Gist)
 Smart Images with descriptions
 Smart code snippets
 Equations to LaTeX
 Flow-Diagrams in Mermaid
 
-## Motifs 
+## Motifs
+
 Evergreen apps (write once, forget) just like nasa rocket engineering
 
 ## Byte (mdow see also mdfy)
+
 A simple powerful note-taking editor (wysiwyg).
 A simple note taking app
 Auto-organize
 Auto summarize
-
 Atomic Notes
 
 ## Bee Hive
+
 Autonomous Glider for Inspection and Law Enforcement
 
 ## FiSh
+
 Partitions
 Local pin
 Global Pin
@@ -72,10 +75,12 @@ Padded shorts like padded bras where sanitary napkins can be inserted
 Book now service later
 
 ## Forest
+
 IPFS based browser
 Transfer https content to IPFS when live browsing
 
 ## Silo
+
 repository for grains
 intermediary for markets and farmers
 services
@@ -83,12 +88,14 @@ services
 ## Orgs
 
 ### Against
-Plastics
-Child labor
-Hunger
 
-### For 
+Hunger
+Child Labor
+One-time Use Plastics
+
+### For
+
 Child edu
 Midday meal
 
-``#draft``
+`#draft`

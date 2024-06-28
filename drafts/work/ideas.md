@@ -72,7 +72,6 @@ ATMs option for UPI scan
 
 UPI on watch
 
-
 ## The more advanced a civilization, the easier it is to simulate
 
 Primitive -> more chaos -> difficult to capture

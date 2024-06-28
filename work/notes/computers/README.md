@@ -1,5 +1,5 @@
 # Computers 🖥️
 
-- ⛏️ [tools](tools)
+- ⛏️ tools
   - [vim](tools/vim)
   - [tmux](tools/tmux)

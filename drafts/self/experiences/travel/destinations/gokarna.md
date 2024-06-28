@@ -1,6 +1,6 @@
 # Gokarna
 
-## 8th April 2023 
+## 8th April 2023
 
 ### Day 01
 
@@ -14,12 +14,8 @@
 
 ### Day 02
 
-    
-
-
 ### Day 03
 
     zostel
-    
 
 `#draft`
