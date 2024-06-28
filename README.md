@@ -6,10 +6,12 @@ This wiki documents my notes and some useful stuff I come across. I also curate 
 >
 > -- Douglas Adam, _The Hitchhiker's Guide to the Galaxy_
 
-The pages are categorized into ([_why?_](self/lifestyle/work-over-self)):
+The pages are categorized into:
 
 - 🌱 **[work](work)**
 - ☀️ **[over](over)**
 - 🌺 **[self](self)**
+
+See [_why?_](self/lifestyle/work-over-self)
 
 I've poured my heart and soul into curating this space. I hope you find it both enjoyable and relevant. 😊

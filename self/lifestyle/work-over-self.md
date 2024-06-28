@@ -1,6 +1,6 @@
 # Work Over Self
 
-The _"Work over self (and rest)!"_ is a way of life I came up with, based on which I organize my space, time and stuff and live through it.
+The _"Work over self (and rest)!"_ is a way of life I came up with, based on which I organize my space, time and matter and live through it.
 
 ## The Philosophy
 
@@ -14,11 +14,11 @@ In essence, "work over self" encompasses both the internal process of self-impro
 
 ## Organizing Time
 
-Life's much easier to manage when time is organised. I try to categorise most of the time into one of the four categories. Each day is divided into multiple 4-hour zones as seen in this daily schedule:
+Life's much easier to manage when time is organised. I try to categorise most of the time into one of the four categories. Each day is divided into multiple 4-hour blocks as seen in this daily schedule:
 
-| Time  | Zone | Main Tasks                        |
+| Time  | Zone | Tasks                             |
 |-------|------|-----------------------------------|
-| **Block I** |
+| **Block I**  | 
 | 05:00 | Self | Study, Fitness, Growth            |
 | 08:00 | Over | Breakfast, Commute, Plan          |
 | **Block II** |
@@ -30,12 +30,20 @@ Life's much easier to manage when time is organised. I try to categorise most of
 | **Block IV** |
 | 17:00 | Self | Hobbies, Family Time, Relaxation  |
 | 20:00 | Over | Journaling, Reading, Hydrating    |
-| **Block V** |
+| **Block V**  |
 | 21:00 | Rest | Sleep                             |
 
-Below is the composition for a 24-hr day.
+Below is the composition for the 24-hour day.
 
 - **Work (6 hours)**: Split into two 3-hour chunks focusing on professional tasks and responsibilities.
 - **Over (4 hours)**: Divided into four 1-hour transitions, crucial for shifting between different zones and activities, ensuring smooth adjustments and mental preparation.
 - **Self (6 hours)**: Reserved 3-hour in morning and in evening for personal growth, fitness, hobbies, and family time to foster individual well-being and fulfillment.
 - **Rest (8 hours)**: Dedicated solely to restorative sleep and relaxation, vital for maintaining physical and mental health.
+
+## Separating Spaces
+
+`#draft`
+
+## Breaking Matter
+
+`#draft`
