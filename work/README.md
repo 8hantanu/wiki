@@ -1,5 +1,5 @@
 # Work 🌱
 
-- 🏗️ [Projects](projects)
-- 🔬 [Research](research)
-- 📝 [Notes](notes)
+- 🏗️ [projects](projects)
+- 🔬 [research](research)
+- 📝 [notes](notes)
