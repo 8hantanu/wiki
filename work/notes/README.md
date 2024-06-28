@@ -1,5 +1,5 @@
 # Notes 📝
 
-- 🤖 [Computer Science](compsci)
-- 📐 [Math](math)
-- 📈 [Finance](finance)
+- 🖥️ [computers](computers)
+- 📐 [math](math)
+- 📈 [finance](finance)
