@@ -2,7 +2,7 @@
 
 Just all kinds of lists:
 
-- 📚 [Reading](reading)
-- 🏕️ [Travel](travel)
-- 🔖 [Bookmarks](bookmarks)
-- 🍿 [Watchlist](watchlist)
+- 📚 [reading](reading)
+- 🏕️ [travel](travel)
+- 🔖 [bookmarks](bookmarks)
+- 🍿 [watchlist](watchlist)
