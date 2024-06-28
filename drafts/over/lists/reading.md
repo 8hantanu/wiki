@@ -6,18 +6,19 @@ Contains summaries and reviews of some of the books I read. To see my complete r
 
 ### Enforce
 
-Get disciplined 
-    set your environment 
+Get disciplined
+    set your environment
     Mental contrasting
     Implementation Intention (if X then Y)
     Track and feedback
     Make it enjoyable
 
 Decision Filter
-    Create questions    
+    Create questions
 
 ### Fears
-what other might think about 
+
+what other might think about
     wearing
     failure of?
 
@@ -51,18 +52,19 @@ Overcome
 Diet
 
 - Change
-    - slow change
-    - fast change/ burn the bridge
+  - slow change
+  - fast change/ burn the bridge
 
-Networking 
+Networking
     cold mail everyday/week to your idols or people who made your life better
 
 ## Fear
+
 Change the role of fear from controlling to commentating on your life
 
 Recognize and understand your fear.
 Avoidance prevents you from discovering whether the risk is real, and robs you of a learning experience.
-Try this reflection on your own life. Start by drawing a horizontal line on a blank page, with your date of birth at one end and today at the other. Mark it out into 5-year chunks. Above the line, write down the important events that happened in each period. Below the line, comment on how these events have shaped your fear. Take as long as you need. 
+Try this reflection on your own life. Start by drawing a horizontal line on a blank page, with your date of birth at one end and today at the other. Mark it out into 5-year chunks. Above the line, write down the important events that happened in each period. Below the line, comment on how these events have shaped your fear. Take as long as you need.
 
 Next, look at your timeline as if you’re an outsider. Do you see any patterns or themes? Are there clear episodes related to fear? Are there stories that continue from childhood to the present day? Are these truths?
 
@@ -81,7 +83,7 @@ Nowadays, her preferred term isn’t risk, but a word with more positive connota
 
 ## Breaks
 
-Researchers from Harvard Business School identified four typical types of pauses. Type one is the social break – like talking to your coworkers. Then, there’s the nutritional break that often involves a snack and maybe a glass of water. The relaxation break is time spent daydreaming or doing gentle exercise. Finally, there are cognition breaks, where you read a book or browse social media. 
+Researchers from Harvard Business School identified four typical types of pauses. Type one is the social break – like talking to your coworkers. Then, there’s the nutritional break that often involves a snack and maybe a glass of water. The relaxation break is time spent daydreaming or doing gentle exercise. Finally, there are cognition breaks, where you read a book or browse social media.
 
 ## Time
 

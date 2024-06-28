@@ -8,6 +8,7 @@ IKEA?
 
 ##  Rino Rapid I/O
 A fast rust based simulator
+
 ### Features
 Multi-thread graph based moore machine
 Prebuilt modules - Memory, Controllers, Interconnects
@@ -15,7 +16,7 @@ Bindings for systemC wrappers
 Easy driver support
 Stop anytime start anywhere 
 
-##  Svif
+## Svif
 
 About Page for Customers:
 
@@ -47,7 +48,6 @@ Smart code snippets
 Equations to LaTeX
 Flow-Diagrams in Mermaid
 
-
 ## Motifs 
 Evergreen apps (write once, forget) just like nasa rocket engineering
 
@@ -70,7 +70,6 @@ Scratch Space
 
 Padded shorts like padded bras where sanitary napkins can be inserted
 Book now service later
-
 
 ## Forest
 IPFS based browser

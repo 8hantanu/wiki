@@ -6,6 +6,7 @@
 
 - Beetroot juice - increasing aerobic performance
 - Spinach (iron) - for replenishing iron level depleted during workout
+- Hot ginger tea
 
 ### Fitness
 - [A 3 Minute Neck Drill That Will Change Your Life
