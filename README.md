@@ -6,7 +6,7 @@ This wiki documents my notes and some useful stuff I come across. I also curate 
 >
 > -- Douglas Adam, _The Hitchhiker's Guide to the Galaxy_
 
-The pages are categorized into:
+The pages are categorized into ([_why?_](self/lifestyle/work-over-self)):
 
 - 🌱 **[work](work)**
 - ☀️ **[over](over)**
