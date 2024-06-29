@@ -4,6 +4,10 @@
 
 ### Goa 🏖️
 
+### Haryana 🐂
+
+- Gurgaon 🛣️
+
 ### Kerala 🌴
 
 - 🚤 Alleppey
@@ -27,6 +31,10 @@
 
 - 📿 Hyderabad
 
+### Union Territories 🏛️
+
+- 🚇 Delhi
+
 ## United States 🗽
 
 ### California ☀️
@@ -34,3 +42,5 @@
 - 🏞️ San Jose
 - 🌉 San Francisco
 - 🌊 Half-moon Bay
+
+`#draft`

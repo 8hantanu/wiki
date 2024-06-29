@@ -23,7 +23,6 @@
 
 ## Incorporate
 
-
 Don’t criticize people
 Compliment others (genuinely)
 Smile at everyone

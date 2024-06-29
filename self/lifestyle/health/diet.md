@@ -1,3 +1,3 @@
-# Distill
+# Diet
 
 `#draft`

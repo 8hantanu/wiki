@@ -1,32 +1,33 @@
 # Things
 
-## Daily Carry
+## Everyday Carry
+
+- Glasses
+- iPhone 12 mini (want: iPhone 13 mini)
+- Magsafe Wallet
+- Keys
+- Garmin Instinct 2 Solar
+- AirPods
+
+### The Backpack
 
 - MacBook Air 13"
 - Kindle Scribe
-- Photochromic Glasses
 - Water Bottle
-- Garmin Instinct 2 Solar Watch
-- iPhone 12 mini
-- Magsafe Wallet
-- AirPods
 - Chargers
 
 ## Travel Carry
 
 - Nike Utility Backpack
-- Bulb
-- HomePod
 
 ## Desk Setup
 
 - Malm Desk
 - Bleckberget Chair (want: Långfjäll chair)
-- LG Ultra-wide 29” Monitor (^ Studio Display)
-- HomePod mini (^ HomePod Pro)
-- Keychron K2 (^ Keychron K6)
+- LG Ultra-wide 29” Monitor (want: Studio Display)
+- HomePod mini (want: HomePod Pro)
+- Keychron K2 (want: Keychron K6)
 - Logitech Pebble Mouse
-- (^ Documents Folder)
 - Casiotone CT-S100
 
 ## Wardrobe
@@ -41,10 +42,10 @@
 - Cardigan
 - 3 DNMX Polos
 - 3 Almo tanks
+- 3 H&M Tees
+- 3 Graphic Tees
 - Levis white tank
 - White Oxford Shirt
-- 3 H&M T-shirts
-- 3 Graphic Tees
 
 ### Bottoms
 
@@ -58,14 +59,14 @@
 
 - 3 ankle socks
 - 3 long socks
-- Nike Pegasus Trail 3
-- Nike Court Vision
-- Nike Free Run 5
-- Nike Calm
-- Nike Victori One Shower Slides
+- Andune Barefoot Trek (want: Altra Lone Peak 6)
+- Birkenstock Dupes (want: Birkenstock Arizona CT)
 - (want: Craft&Glory Leather Boots)
-- Nivia Football soes (^Nike Academy Football Turf)
-- Misc
+- Nivia Football Shoes (want: Nike Academy Football Turf)
+- Nivia Badmintion Shoes
+
+## Misc
+
 - Bandana
 
 ### Fitness
@@ -77,14 +78,13 @@
 - (want: Badminton Racket)
 - (want: Tennis Racket)
 
-### Home
+## Home
 
+- Bulb
 - (want: Turbo/Mulig Clothes Rack)
 - (want: Skubb Storage Boxes)
 - Knapper Standing Mirror
 - (want: Kränga Hangers)
-- (want: Chinos Pants)
-- (want: Wool&Oak Toiletry Kit)
 - Bathrobe (want: Must Robe)
 - Towel (want: Must Towel)
 - Tusk Toothbrush
@@ -110,15 +110,18 @@
 - Kettle
 - Cooker
 - Washing Machine
+
+### Garage
+
 - Ninety One Defeatr 29T Cycle
 - Ola S1 Pro Scooter
 
 <https://youtu.be/JAmw-TTG2Ds?si=YXDjGvnl9EU07sF4jk>
 
-## Want
+## Splurge
 
 - Wool&Oak Voyager set, Laptop sleeve, Sling bag, Toiletry bag
-Suzuki Jimny
+- Suzuki Jimny
 
 ## Digital
 

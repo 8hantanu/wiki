@@ -1,6 +1,8 @@
-# 06/05/23 - Pondicherry (3D/2N)
+# Pondicherry 🍰
 
-## Day 01
+## 2023-05-23 - Pondicherry (3D/2N)
+
+### Day 01
 
 Visited Auroville Bakery and Auroville Restaurant
 Headed to French colony
@@ -11,7 +13,7 @@ Went for some water activities
 Returned back to guest house
 Went to bikes and barrels for dinner
 
-## Day 02
+### Day 02
 
 Had an awesome breakfast spread
 Drove to Auroville Ashram
@@ -25,7 +27,7 @@ Mixi got stung by a Jellyfish
 Went to the Bay of Buddha for dinner
 Walked along the beach on the footpath
 
-## Day 03
+### Day 03
 
 Awesome breakfast once again
 Went to the shopping street
@@ -34,4 +36,6 @@ Went to the mall; to decide where to go
 Went cafe-hopping, decided to go to Coromandel Cafe in the Maison Rose
 Returned back to guest house and dozed on the hammocks to the sound of waves crashing
 Rode back to return the rental scooties
-Were getting late for our return bus to Hyderabad at 1700
+Barely made it to the return bus to Hyderabad at 1700
+
+`#draft`

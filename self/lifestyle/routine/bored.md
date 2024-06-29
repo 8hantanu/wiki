@@ -1,4 +1,4 @@
-# Bored?!
+# Bored?
 
 Things to do when doing nothing
 
@@ -17,9 +17,9 @@ Organization
 
 Relaxing
     Sketch
-    Read 
+    Read
     Paint
 
-https://podcasts.apple.com/ee/podcast/a-mega-recommendations-episode-for-the-summer/id1363110130?i=1000568100449
+<https://podcasts.apple.com/ee/podcast/a-mega-recommendations-episode-for-the-summer/id1363110130?i=1000568100449>
 
 `#draft`
