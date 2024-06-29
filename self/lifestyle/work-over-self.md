@@ -29,19 +29,19 @@ Life's much easier to manage when time is organised. I try to time block my day 
 
 | Time  | Zone  | Tasks                             |
 |-------|-------|-----------------------------------|
-| **Block I**   | 🌇 |
+| **Block I**   | 🌇 | **Dawn**                     |
 | 05:00 | Self  | Study, Fitness, Growth            |
 | 08:00 | Over  | Breakfast, Commute, Plan          |
-| **Block II**  | 🏙️ |
+| **Block II**  | 🏙️ | **Morning**                  |
 | 09:00 | Work  | Projects, Tasks, Assignments      |
-| 12:00 | Over  | Lunch, Walk, Meditation           |
-| **Block III** | 🏙️ |
+| 12:00 | Over  | Lunch, Walk, Powernap             |
+| **Block III** | 🏙️ | **Afternoon**                |
 | 13:00 | Work  | Meetings, Collaborations          |
 | 16:00 | Over  | Log Tasks, Commute, Dinner        |
-| **Block IV**  | 🌆 |
+| **Block IV**  | 🌆 | **Evening**                  |
 | 17:00 | Self  | Hobbies, Family Time, Relaxation  |
 | 20:00 | Over  | Journaling, Reading, Hydrating    |
-| **Block V**   | 🌃 |
+| **Block V**   | 🌃 | **Night**                    |
 | 21:00 | Rest  | Sleep                             |
 
 Below is the composition for the 24-hour day.
