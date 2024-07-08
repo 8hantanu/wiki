@@ -17,6 +17,7 @@
 
 ### Karnataka 🐚
 
+- 🏰 Bidar
 - 🌅 Gokarna
 
 ### Maharashtra 🥭
