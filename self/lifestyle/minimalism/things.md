@@ -1,5 +1,3 @@
-Here's the list with emojis added to the end of the headings:
-
 # Things 📦
 
 **Note:** "->" denotes a possible upgrade in near future.
@@ -82,6 +80,7 @@ Here's the list with emojis added to the end of the headings:
 - -> Tennis Racket
 - Nivia Football Shoes -> Nike Academy Football Turf
 - Nivia Badminton Shoes
+- Nike Court Vision -> Nike Air Force 1
 
 ### Apparel 🏃
 
