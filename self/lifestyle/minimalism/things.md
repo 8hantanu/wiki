@@ -1,104 +1,113 @@
-# Things
+Here's the list with emojis added to the end of the headings:
 
-## Everyday Carry
+# Things 📦
+
+**Note:** "->" denotes a possible upgrade in near future.
+
+## EDC 🕶️
+
+### Self 📱
 
 - Glasses
-- iPhone 12 mini (want: iPhone 13 mini)
-- Magsafe Wallet
+- iPhone 12 mini -> iPhone 13 mini
+- Magsafe wallet
 - Keys
-- Garmin Instinct 2 Solar
+- Garmin Instinct 2 Solar watch
 - AirPods
 
-### The Backpack
+### The Backpack 🎒
 
+- Leather backpack
 - MacBook Air 13"
 - Kindle Scribe
 - Water Bottle
 - Chargers
 
-## Travel Carry
+## Travel 🗺️
 
-- Nike Utility Backpack
+- Nike Utility Power backpack
 
-## Desk Setup
+## Desk Setup 🖥️
 
 - Malm Desk
-- Bleckberget Chair (want: Långfjäll chair)
-- LG Ultra-wide 29” Monitor (want: Studio Display)
-- HomePod mini (want: HomePod Pro)
-- Keychron K2 (want: Keychron K6)
+- Bleckberget Chair -> Långfjäll chair
+- LG Ultra-wide 29” Monitor -> Studio Display
+- HomePod mini -> HomePod Pro
+- Keychron K2
 - Logitech Pebble Mouse
 - Casiotone CT-S100
+- Vault Soprano Ukulele -> Baritone Ukulele
 
-## Wardrobe
+## Wardrobe 🧺
 
-### Tops
+### Tops 👕
 
-- Wrangler Jacket
-- Suede Jacket
-- Indian Garage Co Jacket
-- Indian Garage Co Hoodie
-- Leather Jacket
-- Cardigan
-- 3 DNMX Polos
+- 3 Jackets (Denim/Corduroy/Leather)
+- 3 DNMX polos
 - 3 Almo tanks
-- 3 H&M Tees
-- 3 Graphic Tees
-- Levis white tank
-- White Oxford Shirt
+- 3 H&M tees
+- 3 Graphic tees
+- Levi's white tank
+- White Oxford shirt
 
-### Bottoms
+### Bottoms 👖
 
-- 4 Levi’s Trunks
-- Levi’s 512 Jeans
-- 2 Ardeur Shorts
-- Cargos
-- Indian Garage Co Track
+- 4 Levi’s trunks
+- Levi’s 511/512 jeans
+- 2 Ardeur shorts
+- 2 Pants
+- 1 Cargos
 
-### Footwear
+### Footwear 👟
 
 - 3 ankle socks
 - 3 long socks
-- Andune Barefoot Trek (want: Altra Lone Peak 6)
-- Birkenstock Dupes (want: Birkenstock Arizona CT)
-- (want: Craft&Glory Leather Boots)
-- Nivia Football Shoes (want: Nike Academy Football Turf)
-- Nivia Badmintion Shoes
+- Andune Barefoot Trek -> Altra Lone Peak 6
+- Birkenstock Dupes -> Birkenstock Arizona CT
+- -> Craft&Glory Leather boots
 
-## Misc
+## Fitness 💪
 
-- Bandana
+### Equipment 🏋️‍♂️
 
-### Fitness
-
-- Amazon Basics Yoga Mat (want: Must Mat)
-- 5 KG Dumbbells
+- Yoga Mat
+- Yoga Blocks
+- 5kg Dumbbells
 - Pull-up Bar
-- (want: Jump Rope)
-- (want: Badminton Racket)
-- (want: Tennis Racket)
+- -> Jump Rope
 
-## Home
+### Sports 🏸
+
+- Badminton Racket
+- -> Tennis Racket
+- Nivia Football Shoes -> Nike Academy Football Turf
+- Nivia Badminton Shoes
+
+### Apparel 🏃
+
+- Running shorts
+- Running top
+- Sweatshirt
+- Head band
+
+## Home 🏠
 
 - Bulb
-- (want: Turbo/Mulig Clothes Rack)
-- (want: Skubb Storage Boxes)
+- -> Turbo/Mulig Clothes Rack
+- -> Skubb Storage Boxes
 - Knapper Standing Mirror
-- (want: Kränga Hangers)
-- Bathrobe (want: Must Robe)
-- Towel (want: Must Towel)
-- Tusk Toothbrush
-- Phillips Oneblade Trimmer (want: USB-C Trimmer)
-- (want: Wool&Oak Duffle)f
-- Vault Soprano Ukulele (want: Baritone Ukulele)
+- -> Kränga Hangers
+- Bathrobe
+- Towel
+- Tusk toothbrush
+- Phillips Oneblade Trimmer -> USB-C Trimmer
 - FreshUp Sofa-Bed
 - Evali Throw
 - 2 Dvala Fitted Bedsheets
 - Pillows
 - Fjällmott Picnic blanket
-- Door mat (want: Stone Mat, Dog Mat)
-- (want: Fridge)
-- Containers,
+- Stone Mat
+- Containers
 - Plate Set
 - Bowl Set
 - Mugs
@@ -111,22 +120,30 @@
 - Cooker
 - Washing Machine
 
-### Garage
+## Garage 🛞
 
-- Ninety One Defeatr 29T Cycle
-- Ola S1 Pro Scooter
+### Wheels 🚴‍♂️
 
-<https://youtu.be/JAmw-TTG2Ds?si=YXDjGvnl9EU07sF4jk>
+- Ninety One Defeatr 29T cycle
+- Ola S1 Pro scooter
 
-## Splurge
+### Gear 🧢
 
-- Wool&Oak Voyager set, Laptop sleeve, Sling bag, Toiletry bag
-- Suzuki Jimny
+- Helmet
+- 2 Bandanas
 
-## Digital
+## Digital 🌐
 
 - Website
 - Domain
 - Hosting
+
+## Wants 🛍️
+
+- -> Chompi sampler
+- -> Corgi Butt Carpet
+- -> Wool&Oak Voyager set, Laptop sleeve, Sling bag, Toiletry bag
+- -> Dyson V8
+- -> Suzuki Jimny
 
 `#draft`
