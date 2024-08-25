@@ -8,8 +8,8 @@
 
 #### Sr. Software Engineer / Dec 2022 - Present / Hyderabad
 
-- As part of AIG, implemented faster functionally-accurate simulation flow by leveraging a compiler-based approach to generate a functional core which replaces the cycle-accurate core while maintaining register information throughout the AI inference cluster.
-- Achieved a significant milestone with over 100x acceleration (days to minutes) in simulating ML networks on AI inference accelerators, thereby accelerating the iteration cycles for developers working on the FlexML compiler.
+- As part of AIG (Artificial Intelligence Group), implemented faster functionally-accurate simulation flow by leveraging a compiler-based approach to generate a functional core which replaces the cycle-accurate core while maintaining register information throughout the AI inference cluster.
+- Achieved a significant milestone with over 100x speedup (days to minutes) in simulating ML networks on AI inference accelerators, thereby speeding the iteration cycles for developers working on the FlexML compiler.
 
 #### Software Engineer II / Feb 2022 - Nov 2022 / Hyderabad
 
@@ -40,7 +40,7 @@ optimizations and added many features which enabling debugging capabilities like
 
 ### AerospaceResearch.net
 
-#### Open Source Developer / May 2018 - Aug 2019 / Stuttgart (remote)
+#### Open Source Developer / May 2018 - Aug 2019 / Google Summer of Code
 
 - Developer and maintainer of VisMa and contributor to DirectDemod.
 - Added CI, webhooks, and bots for automating workflow, code review, and unit-testing.
@@ -60,8 +60,8 @@ optimizations and added many features which enabling debugging capabilities like
 
 - Created control software for the prototype of CytoCube - a cost-effective, fast, and efficient flow cytometer.
 - Integrated XIMEA cameras, optimized the code for camera and motor-axis movements increasing the speedup of blood scans by 5x, and assisted in PCB design.
-- Automated the device setup flow, which previously required an equipment assistant to caliberate and setup the device.
-- Trained an FRCNN based model to identify various blood cell types using OpenCV.
+- Automated the device setup flow, which previously required an equipment assistant to calibrate and setup the device.
+- Trained an FRCNN based model to identify various blood cell types and get the blood count using OpenCV.
 
 ### 5-stage Pipelined MIPS Processor / Mar 2019 – Apr 2019 / BITS Hyderabad
 
@@ -85,6 +85,8 @@ optimizations and added many features which enabling debugging capabilities like
 - The report expands on the various solar technologies available and how to integrate and optimize them to power machinery and facilities at HAL.
 
 ## Patents
+
+### LLVM-Based Core Model for Functional Simulation of the AI Engine (pending) / 2024
 
 ### A Multi-Threaded Simulator Framework for Cycle-Accurate Performance Modeling / 2022
 
@@ -122,5 +124,3 @@ optimizations and added many features which enabling debugging capabilities like
 
 - Central Board of Secondary Education
 - CGPA: 10
-
-`#draft`
