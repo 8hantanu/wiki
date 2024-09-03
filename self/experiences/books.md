@@ -1,5 +1,10 @@
 # Books 📚
 
+## Currently Reading
+
+- **Contact** by Carl Sagan
+- **Draw** by Jack Spicer
+
 ## 2024
 
 - **Educated** by Tara Westover 3.5/5
