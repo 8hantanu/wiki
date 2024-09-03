@@ -43,7 +43,7 @@
 - 3 Jackets (Denim/Corduroy/Leather)
 - 3 DNMX polos
 - 3 Almo tanks
-- 3 H&M tees
+- 3 H&M plain tees
 - 3 Graphic tees
 - Levi's white tank
 - White Oxford shirt
@@ -139,10 +139,9 @@
 
 ## Wants 🛍️
 
-- -> Chompi sampler
 - -> Corgi Butt Carpet
+- -> BambuLab A1 Mini
+- -> Chompi sampler
 - -> Wool&Oak Voyager set, Laptop sleeve, Sling bag, Toiletry bag
 - -> Dyson V8
-- -> Suzuki Jimny
-
-`#draft`
+- -> Suzuki Jimny/Super Carry
