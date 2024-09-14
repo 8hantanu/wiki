@@ -8,35 +8,35 @@ I'm thinking to get a Suzuki Super Carry which I plan to transform into a micro 
 
 ## Challenges of Van Life in India 🌟
 
-**1. Scarcity of Camper Grounds 🏕️**  
+**1. Scarcity of Camper Grounds 🏕️**:
 In India, the infrastructure for camper grounds is virtually nonexistent. There are no designated spaces where you can park and stay overnight comfortably. This lack of facilities means that van lifers often need to find alternative spots, which can be both challenging and uncertain.
 
-**2. Navigating Local Authorities 🚔**
+**2. Navigating Local Authorities 🚔**:
 With van life being an unconventional lifestyle in India, local authorities may not be familiar with or supportive of the concept. This can lead to frequent checks and requests to move, making it difficult to find a stable and secure place to park for the night. The uncertainty of dealing with police and local regulations adds to the stress of this lifestyle.
 
-**3. Finding Safe Parking 🅿️**
+**3. Finding Safe Parking 🅿️**:
 Safety is a significant concern when parking a van overnight. The risk of theft or vandalism is high, and finding a secure spot can be daunting. The absence of safe and reliable parking options means that van lifers must constantly be on the lookout for safe places to rest.
 
-**4. Social Perceptions 🚫**
+**4. Social Perceptions 🚫**:
 In India, the idea of living in a van is still somewhat unconventional and often met with skepticism. The social stigma associated with this lifestyle can make it challenging to find support and understanding from the community.
 
 ### The Solution 🌟
 
 To tackle these challenges, I’m focusing on creative solutions:
 
-**1. Secure Parking Arrangements 🔐**  
+**1. Secure Parking Arrangements 🔐**:
 I’m exploring partnerships with local businesses such as malls, gyms, and cafes. By offering advertising space on my van in exchange for parking, I aim to secure safe and reliable spots for the night. This arrangement provides a win-win situation: the businesses get exposure, and I get a secure place to park.
 
-**2. Adapting to Local Regulations 🛡️**  
+**2. Adapting to Local Regulations 🛡️**:
 By aligning with businesses for parking, I hope to mitigate issues with local authorities. Having a legitimate reason to park in specific locations will help in maintaining a smooth relationship with local enforcement and ensure that my stay is compliant with regulations.
 
-**3. Stealth and Integration 🎨**  
+**3. Stealth and Integration 🎨**:
 My van will be equipped with window panels that double as advertising spaces. This will not only help in blending in with the surroundings but also turn my van into a moving billboard. The design will be tailored to fit in with the local environment, ensuring a low profile while on the move.
 
-**4. Community and Networking 🌐**  
+**4. Community and Networking 🌐**:
 I plan to connect with other van life enthusiasts and local communities to share experiences and tips. Building a network of like-minded individuals can provide valuable insights and support, helping to navigate the unique challenges of van life in India.
 
-### **A Future Venture: VADE 🚀**
+### **A Future Venture: [VADE](https://yree.io/vade) 🚀**
 
 As part of my van life plans, I'm also working on a future project called **[VADE](https://yree.io/vade)**—a mobile advertising company. Once I hit the road with my Suzuki Super Carry, VADE will aim to address parking and safety challenges by partnering with local businesses. The idea is to offer advertising space on my van in exchange for parking, providing a practical solution to the challenges of van life while supporting local brands.
 
