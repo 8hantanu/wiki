@@ -8,6 +8,7 @@
 ## Personal
 
 - 🔌 [plug](/plug)
+- 🥔 [mash](/mash)
 - ⚓️ [dock](/dock)
 - ⚙️ [dots](/dots)
 
