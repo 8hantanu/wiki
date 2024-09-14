@@ -1,3 +1,3 @@
 # Design 🎛️
 
-- 🚚 [The Van Plan](/self/lifestyle/van-plan)
+- 🚚 [The Van Plan](/wiki/self/lifestyle/van-plan)
