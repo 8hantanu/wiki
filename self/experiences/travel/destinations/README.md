@@ -8,6 +8,12 @@
 
 - Gurgaon 🛣️
 
+### Himachal Pradesh
+
+- 🍏 Kinnaur
+- ⛰️ Shimla
+- 🌄 Spiti
+
 ### Kerala 🌴
 
 - 🚤 Alleppey

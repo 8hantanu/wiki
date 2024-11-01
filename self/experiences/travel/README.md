@@ -4,6 +4,7 @@ See all [destinations](destinations) 🗺️
 
 ## 2024
 
+- **2024-10** [The Himachal Trail](shimla#2024-10-12)
 - **2024-07** [Bidar - A Fortress of Faith](bidar#2024-07-06)
 - **2024-06** [Pune Monsoon Trek](pune)
 - **2024-05** [A Bay-Area Business Retreat](san-jose#2024-05-10)
