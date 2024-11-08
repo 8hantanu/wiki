@@ -2,6 +2,8 @@
 
 **/ˈeɪjoʊ/**
 
+There’s a force within me that defies simplicity. A convergence of energies that shape who I am—this is **æiȢ**. It is a presence that speaks to my unyielding desire to explore every boundary, to move with intention, and to capture every nuance of the world around me.
+
 The essence of **æ** grounds me; it’s a symbol of balance, much like yin-yang—an eternal interplay of light and dark, stillness and movement, strength and softness. It reminds me that I am both rooted and fluid. I carry harmony within me, embracing both sides of my nature to create something whole.
 
 The **i** is my core—the individual, the “I” who dares to carve my own path. It’s my drive to express myself, unapologetically bold and alive. The **i** is my voice and vision, my fierce commitment to authenticity, and my spark of individuality.
