@@ -1,15 +1,18 @@
 # The Page
 
-## The 2024
+## The 2025
 
-- Make an international trip
+- Regular fitness
+- Read 25 books
+- Project Euler 100
+- Earn ₹10k from yree
 - Get sub-30 min 5k
 
-## The November
+## The February
 
 - Run atleast thrice in a week
 - Complete fruit diet for a week
 
-## The Week 
+## The Week
 
 - Complete formalities for the Schengen visa

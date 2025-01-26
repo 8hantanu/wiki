@@ -1,4 +1,4 @@
-# Shantanu's wiki 📖
+# Shantanu's wiki
 
 This wiki documents my notes and some useful stuff I come across. I also curate some of my ideas, experiences, and creations here as well.
 
@@ -8,10 +8,10 @@ This wiki documents my notes and some useful stuff I come across. I also curate 
 
 The pages are categorized into:
 
-- 🌱 **[work](work)**
-- ☀️ **[over](over)**
-- 🌺 **[self](self)**
+- **[work](work)** — notes and projects
+- **[over](over)** — random stuff
+- **[self](self)** — experiences and lifestyle
 
 See [_why?_](self/lifestyle/work-over-self)
 
-I've poured my heart and soul into curating this space. I hope you find it both enjoyable and relevant. 😊
+I've poured my heart and soul into curating this space. I hope you find it both enjoyable and relevant.

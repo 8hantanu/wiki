@@ -1,6 +1,6 @@
 # Self 🌺
 
-- 🌻 [about](about)
-- 🧘 [lifestyle](lifestyle)
-- 🎭 [experiences](experiences)
-- 🖊️ [writings](writings)
+- [about](about)
+- [lifestyle](lifestyle)
+- [experiences](experiences)
+- [writings](writings)

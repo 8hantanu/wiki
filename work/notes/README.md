@@ -1,5 +1,5 @@
 # Notes 📝
 
-- 🖥️ [computers](computers)
-- 📐 [math](math)
-- 📈 [finance](finance)
+- [computers](computers)
+- [math](math)
+- [finance](finance)
