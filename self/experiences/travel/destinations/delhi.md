@@ -2,8 +2,7 @@
 
 A place which has always been grounds for multiple layovers.
 
-## A Long Journey to Shimla 🏔️
-
+## A Long Journey to Shimla 🏔
 ### 2024-10-11
 
 - a flight to delhi from [hyderabad](hyderabad)

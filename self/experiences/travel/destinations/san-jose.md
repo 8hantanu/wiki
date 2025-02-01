@@ -1,5 +1,4 @@
-# San Jose 🏞️
-
+# San Jose 🏞
 ## The Bay-Area Business Retreat
 
 ### 2024-05-10

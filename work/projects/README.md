@@ -1,18 +1,16 @@
-# Projects 🏗️
-
+# Projects 🏗
 ## Active
 
-- 🌳 [Yree](https://yree.io)
-- 🍋 [citrus](/citrus)
+- [Yree](https://yree.io)
+- [citrus](/citrus)
 
 ## Personal
 
-- 🔌 [plug](/plug)
-- 🥔 [mash](/mash)
-- ⚓️ [dock](/dock)
-- ⚙️ [dots](/dots)
+- [plug](/plug)
+- [dock](/dock)
+- [dots](/dots)
 
 ## Archived
 
-- 📐 [visma](visma)
-- 🩸 [cytocube](cytocube)
+- [visma](visma)
+- [cytocube](cytocube)

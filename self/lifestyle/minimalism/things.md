@@ -2,31 +2,29 @@
 
 **Note:** "->" denotes a possible upgrade in near future.
 
-## EDC 🕶️
-
+## EDC 🕶
 ### Self 📱
 
 - Glasses
+- Wallet
 - iPhone 12 mini -> iPhone 13 mini
-- Magsafe wallet
-- Keys
-- Garmin Instinct 2 Solar watch
+- Garmin Instinct 2 Solar
 - AirPods
+- Keys
 
 ### The Backpack 🎒
 
 - Leather backpack
 - MacBook Air 13"
+- Ricoh GR IIIx HDF
 - Kindle Scribe
 - Water Bottle
 - Chargers
 
-## Travel 🗺️
-
+## Travel 🗺
 - Nike Utility Power backpack
 
-## Desk Setup 🖥️
-
+## Desk Setup 🖥
 - Malm Desk
 - Bleckberget Chair -> Långfjäll chair
 - LG Ultra-wide 29” Monitor -> Studio Display
@@ -66,8 +64,7 @@
 
 ## Fitness 💪
 
-### Equipment 🏋️‍♂️
-
+### Equipment 🏋️‍♂
 - Yoga Mat
 - Yoga Blocks
 - 5kg Dumbbells
@@ -121,8 +118,7 @@
 
 ## Garage 🛞
 
-### Wheels 🚴‍♂️
-
+### Wheels 🚴‍♂
 - Ninety One Defeatr 29T cycle
 - Ola S1 Pro scooter
 
@@ -137,8 +133,7 @@
 - Domain
 - Hosting
 
-## Wants 🛍️
-
+## Wants 🛍
 - -> Corgi Butt Carpet
 - -> BambuLab A1 Mini
 - -> Chompi sampler

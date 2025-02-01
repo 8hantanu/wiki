@@ -1,5 +1,4 @@
-# Computers 🖥️
-
+# Computers 🖥
 - 📡 topics
   - 🏛️ [architecture](arch)
   - 📟 [compilers](compilers)

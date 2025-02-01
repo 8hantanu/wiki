@@ -1,9 +1,7 @@
-# Destinations 🗺️
-
+# Destinations 🗺
 ## India 🐅
 
-### Goa 🏖️
-
+### Goa 🏖
 ### Haryana 🐂
 
 - Gurgaon
@@ -38,8 +36,7 @@
 
 - Hyderabad
 
-### Union Territories 🏛️
-
+### Union Territories 🏛
 - Delhi
 
 ## Turkey 
@@ -54,8 +51,7 @@
 
 ## United States 🗽
 
-### California ☀️
-
+### California ☀
 - San Jose
 - San Francisco
 - Half-moon Bay

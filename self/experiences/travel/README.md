@@ -1,7 +1,7 @@
 # Travel 🎒
 
-See all [destinations](destinations) 🗺️
-
+See all [destinations](destinations) 🗺
+- **2025-01** [Panchmarhi Diaries](bhopal#2025-01-18)
 - **2024-12** [The Türkiye Trip](delhi#2024-12-14)
 - **2024-12** [Karnataka's Rich Ruins](hampi#2024-12-06)
 - **2024-10** [The Himachal Trail](shimla#2024-10-12)

@@ -1,7 +1,6 @@
 # Spiti 🌄
 
-## The Spiti Valley 🏞️
-
+## The Spiti Valley 🏞
 ### 2024-10-14
 
 - Reached spiti at 1800, after we had started from [Kinnaur](kinnaur#2024-10-14)

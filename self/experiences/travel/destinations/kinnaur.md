@@ -1,7 +1,6 @@
 # Kinnaur 🍏
 
-## Camping Amidst the mountains in Rakcham 🏕️
-
+## Camping Amidst the mountains in Rakcham 🏕
 ### 2024-10-12
 
 - arrived from [Shimla](shimla#2024-10-12) 
