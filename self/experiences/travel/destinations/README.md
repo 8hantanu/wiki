@@ -6,48 +6,58 @@
 
 ### Haryana 🐂
 
-- Gurgaon 🛣️
+- Gurgaon
 
 ### Himachal Pradesh
 
-- 🍏 Kinnaur
-- ⛰️ Shimla
-- 🌄 Spiti
+- Kinnaur
+- Shimla
+- Spiti
 
 ### Kerala 🌴
 
-- 🚤 Alleppey
-- 🚲 Kochi
-- 🌄 Munnar
-- 🐾 Periyar
+- Alleppey
+- Kochi
+- Munnar
+- Periyar
 
 ### Karnataka 🐚
 
-- 🏰 Bidar
-- 🌅 Gokarna
+- Bidar
+- Gokarna
 
 ### Maharashtra 🥭
 
-- 🏕️ Pune
+- Pune
 
 ### Tamil Nadu 🛕
 
-- 🍰 Pondicherry
+- Pondicherry
 
-### Telangana 🌾
+## Telangana 🌾
 
-- 📿 Hyderabad
+- Hyderabad
 
 ### Union Territories 🏛️
 
-- 🚇 Delhi
+- Delhi
+
+## Turkey 
+
+- Istanbul
+- Çanakkale
+- Ephesus
+- Pamukkale
+- Marmaris
+- Antalya
+- Cappadocia
 
 ## United States 🗽
 
 ### California ☀️
 
-- 🏞️ San Jose
-- 🌉 San Francisco
-- 🌊 Half-moon Bay
+- San Jose
+- San Francisco
+- Half-moon Bay
 
 `#draft`
