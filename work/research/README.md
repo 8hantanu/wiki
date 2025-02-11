@@ -4,9 +4,9 @@
 
 - [Hypercake Numbers](hypercake-number)
 
-## Patents
+## [Patents](https://patents.google.com/?inventor=Shantanu+Mishra)
 
-- [Compiler-Based Generation of Transaction-Accurate Models from High-Level Languages](https://patents.justia.com/patent/20240012629)
-- []()
-
-`#draft`
+- Adaptive Simulation Framework for Switching Between Functional and Cycle-accurate Execution in Real-Time (pending)
+- Compiler-based Core Model for Functional Simulation of the AI Engine (pending)
+- [Multi-threaded Cycle-accurate Architecture Simulation](https://patents.google.com/patent/US20240184616A1)
+- [Compiler-based Generation of Transaction-accurate Models from High-Level Languages](https://patents.google.com/patent/US12032932B2)
