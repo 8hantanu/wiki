@@ -120,7 +120,7 @@ Below is the dev log while I was working on this project.
   5. Fill holes to get pillar areas  
   6. Erode smaller blobs to remove cell clusters  
 
-![Stages involved in pillar detection]()
+![Stages involved in pillar detection](pillar-detection-stages.png)
 
 ### 03/06  
 - Enhanced and implemented RoI selection.  
@@ -252,7 +252,8 @@ $$ v = 1.572 \times 10^{-2} \times \text{mlps} \text{ mm/s} $$
 ### 26/06  
 - Completed PCB design  
 
-![PCB Design]()
+![PCB Design](pcb.png)
+
 ### FIXME  
 - ~~Render QImage in RGB888 format from the XI_IMG RGB24~~  
 - Find another way for syncing serial comm instead of resetting the serial comm link  
