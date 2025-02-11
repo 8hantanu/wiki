@@ -1,10 +1,6 @@
 # Cytocube
 
-# CRS-Cyto-Software-Shantanu
-
-## CytoCube Software  
-**Author:** Shantanu Mishra (8hantanu@gmail.com)  
-
+TODO: Add project description
 
 ---
 
@@ -186,9 +182,9 @@ Added tabbed view in GUI
 
 $$ \text{spt} = 1.23 \times 10^{-4} \text{ mm} $$
 
-$$ t \propto \text{mov\_delay\_coeff} $$
+$$ t \propto \text{mov_delay_coeff} $$
 
-$$ t = k \cdot \text{mov\_delay\_coeff} \times 10^{-3} $$
+$$ t = k \cdot \text{mov_delay_coeff} \times 10^{-3} $$
 
 Where:  
 - $$ s $$ is the distance traveled in a single pulse of the stepper motor  
@@ -202,15 +198,15 @@ Velocity of the pumper:
 
 $$ v = \frac{\text{mlps} \ (\text{mm}^3/s)}{\pi r^2 \ (\text{mm}^2)} $$
 
-$$ v = \frac{\text{spt}}{t} = \frac{\text{spt}}{\text{mov\_delay\_coeff} \times 10^{-3}} $$
+$$ v = \frac{\text{spt}}{t} = \frac{\text{spt}}{\text{mov_delay_coeff} \times 10^{-3}} $$
 
-Rearranging for $$ \text{mov\_delay\_coeff} $$:
+Rearranging for $$ \text{mov_delay_coeff} $$:
 
-$$ \frac{\text{mlps}}{\pi r^2} = \frac{\text{spt}}{\text{mov\_delay\_coeff} \times 10^{3}} $$
+$$ \frac{\text{mlps}}{\pi r^2} = \frac{\text{spt}}{\text{mov_delay_coeff} \times 10^{3}} $$
 
-$$ \text{mov\_delay\_coeff} = \frac{\text{spt} \cdot \pi r^2 \times 10^3}{\text{mlps}} $$
+$$ \text{mov_delay_coeff} = \frac{\text{spt} \cdot \pi r^2 \times 10^3}{\text{mlps}} $$
 
-### In our case:
+In our case:
 
 $$ \text{spt} = 1.23 \times 10^{-4} \text{ mm} $$
 
@@ -227,7 +223,6 @@ Velocity of the pumper:
 $$ v = \frac{\text{mlps} \ (\text{mm}^3/s)}{63.61 \ (\text{mm}^2)} $$
 
 $$ v = 1.572 \times 10^{-2} \times \text{mlps} \text{ mm/s} $$
-
 
 ### 18/06  
 - Arduino code for syringe pump  
@@ -258,41 +253,40 @@ $$ v = 1.572 \times 10^{-2} \times \text{mlps} \text{ mm/s} $$
 - Completed PCB design  
 
 ![PCB Design]()
-
 ### FIXME  
-- [x] Render QImage in RGB888 format from the XI_IMG RGB24  
-- [ ] Find another way for syncing serial comm instead of resetting the serial comm link  
-- [x] Unexpected hanging during autofocus _(possible cause: next signal sent before previous signal is executed)_  
-- [x] Fix channel color RGB/BGR for rendering in QImage  
-- [ ] Requires MATLAB to be opened after reboot before running C++ program  
-- [ ] Optimize image save and capture  
-- [ ] Fix crash when switching from binning to full FoV  
+- ~~Render QImage in RGB888 format from the XI_IMG RGB24~~  
+- Find another way for syncing serial comm instead of resetting the serial comm link  
+- ~~Unexpected hanging during autofocus _(possible cause: next signal sent before previous signal is executed)_~~  
+- ~~Fix channel color RGB/BGR for rendering in QImage~~  
+- Requires MATLAB to be opened after reboot before running C++ program  
+- Optimize image save and capture  
+- Fix crash when switching from binning to full FoV  
 
 ### TODO  
 
 #### Cytocube  
-- [x] Create Ximea camera image handler  
-- [x] Enable serial communication through C++  
-- [x] Add basic navigation  
-- [x] Add autofocus  
-- [x] Add PFScan and Area Scan  
-- [x] Add logger (`QDebug` and on GUI)  
-- [x] Add timers  
-- [x] Pillar detection  
-- [x] Focal stack with PF, FS-I, and FS-II  
-- [ ] Add AF I, II, III in focal stack  
-- [x] OFM navigation based on pillar directions  
-- [x] Bringing OFM slide RoI in FoV  
-- [x] Add buttons for OFM slide I and II  
-- [ ] Disable some buttons until reset is pressed  
-- [ ] Flip image in GUI  
-- [x] Arduino code for syringe pump  
-- [x] Integrate syringe pump with GUI  
-- [x] Automate vial agitation  
-- [x] Optimize motor movements _(code and hardware)_  
+- ~~Create Ximea camera image handler~~  
+- ~~Enable serial communication through C++~~  
+- ~~Add basic navigation~~  
+- ~~Add autofocus~~  
+- ~~Add PFScan and Area Scan~~  
+- ~~Add logger (`QDebug` and on GUI)~~  
+- ~~Add timers~~  
+- ~~Pillar detection~~  
+- ~~Focal stack with PF, FS-I, and FS-II~~  
+- Add AF I, II, III in focal stack  
+- ~~OFM navigation based on pillar directions~~  
+- ~~Bringing OFM slide RoI in FoV~~  
+- ~~Add buttons for OFM slide I and II~~  
+- Disable some buttons until reset is pressed  
+- Flip image in GUI  
+- ~~Arduino code for syringe pump~~  
+- ~~Integrate syringe pump with GUI~~  
+- ~~Automate vial agitation~~  
+- ~~Optimize motor movements _(code and hardware)_~~  
 
 #### Cytodata  
-- [x] Generate image data for creating training model  
-- [x] Data labeling  
-- [x] Identification of RBCs and WBCs
-- [ ] Counting of RBCs and WBCs
+- ~~Generate image data for creating training model~~  
+- ~~Data labeling~~  
+- ~~Identification of RBCs and WBCs~~  
+- Counting of RBCs and WBCs  
