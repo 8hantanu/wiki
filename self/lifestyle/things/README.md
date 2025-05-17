@@ -3,11 +3,12 @@
 **Note:** "->" denotes a possible upgrade in near future.
 
 ## EDC 🕶
+
 ### Self 📱
 
 - Glasses
 - Wallet
-- iPhone 12 mini -> iPhone 13 mini
+- iPhone 16e
 - Garmin Instinct 2 Solar
 - AirPods
 - Keys
@@ -22,9 +23,11 @@
 - Chargers
 
 ## Travel 🗺
+
 - Nike Utility Power backpack
 
 ## Desk Setup 🖥
+
 - Malm Desk
 - Bleckberget Chair -> Långfjäll chair
 - LG Ultra-wide 29” Monitor -> Studio Display
@@ -60,11 +63,11 @@
 - 3 long socks
 - Andune Barefoot Trek -> Altra Lone Peak 6
 - Birkenstock Dupes -> Birkenstock Arizona CT
-- -> Craft&Glory Leather boots
 
 ## Fitness 💪
 
 ### Equipment 🏋️‍♂
+
 - Yoga Mat
 - Yoga Blocks
 - 5kg Dumbbells
@@ -74,7 +77,6 @@
 ### Sports 🏸
 
 - Badminton Racket
-- -> Tennis Racket
 - Nivia Football Shoes -> Nike Academy Football Turf
 - Nivia Badminton Shoes
 - Nike Court Vision -> Nike Air Force 1
@@ -119,6 +121,7 @@
 ## Garage 🛞
 
 ### Wheels 🚴‍♂
+
 - Ninety One Defeatr 29T cycle
 - Ola S1 Pro scooter
 
@@ -127,16 +130,14 @@
 - Helmet
 - 2 Bandanas
 
-## Digital 🌐
-
-- Website
-- Domain
-- Hosting
-
 ## Wants 🛍
-- -> Corgi Butt Carpet
+
+- -> Corgi Butt Mat
 - -> BambuLab A1 Mini
 - -> Chompi sampler
+- -> Squarehood (Ricoh GR IIIx HDF)
 - -> Wool&Oak Voyager set, Laptop sleeve, Sling bag, Toiletry bag
 - -> Dyson V8
 - -> Suzuki Jimny/Super Carry
+- -> Tennis Racket
+- -> Craft&Glory Leather boots

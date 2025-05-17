@@ -1,6 +1,6 @@
 # The Van Plan 🚚
 
-Van life, often celebrated for its freedom and flexibility, is a concept that's yet to fully take root in India. As I prepare to embark on my own van life journey, I’m facing a series of unique challenges that are inherent to this lifestyle in our country. Here's a glimpse into my plans and the hurdles I anticipate, along with how I intend to overcome them.
+Van life, often celebrated for its freedom and flexibility, is a concept that's yet to fully take root in India. As I prepare to embark on my own van life journey, I’m facing a series of unique challenges that are inherent to this lifestyle in my country. Here's a glimpse into my plans and the hurdles I anticipate, along with how I intend to overcome them.
 
 ## Beginning of a Journey 🧳
 

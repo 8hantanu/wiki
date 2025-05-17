@@ -11,9 +11,9 @@ Introspect
     Metanalysis
 
 Organization
-    Calendar
-    Reminders
     Mail
+    Reminders
+    Calendar
 
 Relaxing
     Sketch

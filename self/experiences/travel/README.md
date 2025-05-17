@@ -4,10 +4,12 @@ See all [destinations](destinations) 🗺
 
 ## Upcoming trips
 
-- **2025-03** [Laos and Cambodia](#luang-prabang)
+- **2025-05** [Dubai and Albania](#dubai)
 
 ## Past trips
 
+- **2025-04** [Southern Soujourn in the Nilgiris](#iti)
+- **2025-03** [Laos and Cambodia](#luang-prabang)
 - **2025-02** [Rajasthan — Beyond the Registan](jaipur#2025-02-22)
 - **2025-01** [Panchmarhi Diaries](bhopal#2025-01-18)
 

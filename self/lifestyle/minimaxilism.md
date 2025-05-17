@@ -1,6 +1,4 @@
-# Minimalism
-
-- [Things](things)
+# Minima(xi)lism
 
 For a long time I wanted to pursue minimalism.
 Minimalism doesn’t mean to have the best of each.

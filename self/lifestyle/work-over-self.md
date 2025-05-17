@@ -68,11 +68,12 @@ The home, a space where I can come to anytime and its ready to embrace me in whi
 
 ### Minimize your Matter 🎒
 
-I consider myself a minimalist. I try to have as less of things as possible (and yes I keep [count](minimalism/things) of it).
+I consider myself a minimalist. I try to have as less of things as possible (and yes I keep [count](things) of it).
 
 I organize my stuff both physical and digital into these categories (as seen in my [wiki](https://8hantanu.net/wiki)).
 
 ## How's it going? ✌
+
 In embracing "Work over self" philosophy I've found a harmonious rhythm that defines not just my daily routine but also my approach to life itself.
 
 As I navigate each zone I've come to appreciate the clarity and efficiency that comes from organizing time, space, and matter. Each aspect of my environment, meticulously categorized and curated, is to support my journey towards both professional success and personal fulfillment. It also helped in creating good boundaries between the zones.
