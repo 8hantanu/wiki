@@ -1,7 +1,31 @@
 # Destinations 🗺
+
+## Albania
+
+- Berat
+- Divjakë
+- Durrës
+- Gjirokastër
+- Himarë
+- Ksamil
+- Sarandë
+- Shkodër
+- Theth
+- Tiranë
+- Valbonë
+- Vlorë
+
+## Cambodia
+
+- Chong Khneas
+- Phnom Penh
+- Siem Reap
+- Trapeang Kreal
+
 ## India 🐅
 
 ### Goa 🏖
+
 ### Haryana 🐂
 
 - Gurgaon
@@ -30,16 +54,26 @@
 
 ### Tamil Nadu 🛕
 
+- Coimbatore
 - Pondicherry
+- Ooty
 
-## Telangana 🌾
+### Telangana 🌾
 
 - Hyderabad
 
 ### Union Territories 🏛
 - Delhi
 
-## Turkey 
+## Laos
+
+- 4000 Islands
+- Luang Prabang
+- Pakse
+- Vang Vieng
+- Vientiane
+
+## Turkey
 
 - Istanbul
 - Çanakkale
@@ -48,6 +82,11 @@
 - Marmaris
 - Antalya
 - Cappadocia
+
+## United Arab Emirates
+
+- Abu Dhabi
+- Dubai
 
 ## United States 🗽
 
