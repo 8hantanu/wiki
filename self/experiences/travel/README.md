@@ -15,7 +15,7 @@ See all [destinations](destinations) 🗺
 
 - **2024-12** [The Türkiye Trip](delhi#2024-12-14)
 - **2024-12** [Karnataka's Rich Ruins](hampi#2024-12-06)
-- **2024-10** [The Himachal Trail](shimla#2024-10-12)
+- **2024-10** [The Spiti-Kinnaur Trail](delhi#2024-10-11)
 - **2024-07** [North of North Goa](goa#2024-07-26)
 - **2024-07** [Bidar — A Fortress of Faith](bidar#2024-07-06)
 - **2024-06** [Pune Monsoon Trek](pune)

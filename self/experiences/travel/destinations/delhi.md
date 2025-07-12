@@ -1,8 +1,9 @@
-# Delhi 🚇
+# Delhi
 
 A place which has always been grounds for multiple layovers.
 
-## A Long Journey to Shimla 🏔
+## The Spiti-Kinnaur Trail
+
 ### 2024-10-11
 
 - a flight to delhi from [hyderabad](hyderabad)

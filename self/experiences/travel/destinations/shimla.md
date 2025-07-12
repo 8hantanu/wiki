@@ -1,11 +1,12 @@
 # Shimla 🏔
-## The Himachal Trail 🥾
+
+## The Spiti-Kinnaur Trail
 
 ### 2024-10-12
 
 - arrived from [Delhi](delhi#2024-10-11) 
 - met the gang here with whom I would spend the rest of this trip
-- headed to [Rakcham](kinnaur#2024-10-12)
+- headed to [chitkul](chitkul#2024-10-12)
 
 ### 2024-10-19
 
