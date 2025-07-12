@@ -7,7 +7,9 @@
 coming from [dhankar](dhankar#2024-10-15)
 
 - At 1930 we reached Zostel Kaza out stay for the next three nights
-  - had a lemon honey ginger tea since my fever and throat was getting worse 
+  - had a lemon honey ginger tea since my fever and throat was getting worse
+- The sky was pretty at night
+  ![Night Sky](night.avif)
 
 ## 2024-10-16
 
@@ -20,6 +22,7 @@ coming from [dhankar](dhankar#2024-10-15)
 - I started feeling a little better but still not completely recovered, I decided to join the group
 - We headed for [Chicham](chicham#2024-10-17), our guide Gyallson's village
 - On our way back we went to the Kaza market
+  ![Kaza market](market.avif)
   - bought a set of little porcelain cups and a Tibetan singing bowl
   - had our dinner at Himalayan Cafe, had tingmo with shapta and hot chocolate
 - Surprisingly the kaza market was quite near to the Zostel, came back and slept
