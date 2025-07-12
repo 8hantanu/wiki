@@ -13,3 +13,7 @@ footer_content: >
 favicon: favicon.svg
 
 goat_counter: 8hantanu
+
+theme_config:
+  appearance: "auto"
+  color_emoji: true
