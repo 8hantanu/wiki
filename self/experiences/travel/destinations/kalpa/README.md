@@ -4,7 +4,7 @@
 
 ### 2024-10-18
 
-- The road to Kalpa from [kaza](kaza#2024-10-18) was filled with beautiful views
+- The road to Kalpa from [kaza](../kaza#2024-10-18) was filled with beautiful views
 - All the way all I could see was trucks and tempos filled with boxes of apples
 - At 17:00 we reached Zostel Kalpa
   - The rooms at Kalpa were a luxury
@@ -29,4 +29,4 @@
 - Left for Shimla at 11:00, a day long journey
 ![Reflecting about the journey](reflections.avif)
 - Slept throughout the journey for the most part except stopping and waking up for lunch in between
-- Reached [Shimla](shimla#2024-10-19) in the evening
+- Reached [Shimla](../shimla#2024-10-19) in the evening

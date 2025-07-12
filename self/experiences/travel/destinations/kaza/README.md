@@ -4,7 +4,7 @@
 
 ### 2024-10-15
 
-coming from [dhankar](dhankar#2024-10-15)
+coming from [dhankar](../dhankar#2024-10-15)
 
 - At 1930 we reached Zostel Kaza out stay for the next three nights
   - had a lemon honey ginger tea since my fever and throat was getting worse
@@ -20,7 +20,7 @@ coming from [dhankar](dhankar#2024-10-15)
 ## 2024-10-17
 
 - I started feeling a little better but still not completely recovered, I decided to join the group
-- We headed for [Chicham](chicham#2024-10-17), our guide Gyallson's village
+- We headed for [Chicham](../chicham#2024-10-17), our guide Gyallson's village
 - On our way back we went to the Kaza market
   ![Kaza market](market.avif)
   - bought a set of little porcelain cups and a Tibetan singing bowl
@@ -33,4 +33,4 @@ coming from [dhankar](dhankar#2024-10-15)
 - By 10:30 I had my breakfast sandwiches and we headed for Kalpa
 - In between when the van stopped for a break, I just started towards Kalpa, and at one point I looked around there was no sight of van, any other vehicles, it was just me and the mountains, it was serene, peaceful.
 - At around 2 we stopped for lunch and I had some momos 
-- in the late afternoon we were in [Kalpa](kalpa#2024-10-18)
+- in the late afternoon we were in [Kalpa](../kalpa#2024-10-18)

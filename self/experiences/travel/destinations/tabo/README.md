@@ -5,7 +5,7 @@
 ### 2024-10-14
 
 ![Welcome to Spiti](welcome.avif)
-- Reached Tabo at 1800, after we had started from [nako](nako#2024-10-14)
+- Reached Tabo at 1800, after we had started from [nako](../nako#2024-10-14)
 
 ![This is how we rolled](traveller.avif)
 
@@ -57,4 +57,4 @@ the stay was pretty and cozy
 - there was a beautiful house beside the monastery
   ![Pretty house](house.avif)
 - bought a skull band and necklace made out of yak bone, a memento mori
-- from here we headed towards Kaza, on the way stopped at [Dhankar](dhankar#2024-10-15)
+- from here we headed towards Kaza, on the way stopped at [Dhankar](../dhankar#2024-10-15)

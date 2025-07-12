@@ -4,7 +4,7 @@
 
 ### 2024-10-15
 
-coming from [Tabo](tabo#2024-10-15)
+coming from [Tabo](../tabo#2024-10-15)
 
 - spiti river along the route
 ![Spiti River](spiti_river.avif)
@@ -37,4 +37,4 @@ coming from [Tabo](tabo#2024-10-15)
   ![Stairway to Heaven](stairway.avif)
   - but the climb was worth it for the view
   ![The View](panorama.avif)
-- headed to [kaza](kaza#2024-10-15)
+- headed to [kaza](../kaza#2024-10-15)

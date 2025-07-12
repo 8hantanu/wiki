@@ -4,7 +4,7 @@
 
 ### 2024-10-17
 
-coming from [kaza](kaza#2024-10-17)
+coming from [kaza](../kaza#2024-10-17)
 
 - We headed to chicham
   ![The rivers be like...](caduceus.avif)
@@ -33,4 +33,4 @@ coming from [kaza](kaza#2024-10-17)
   - and just above it a beautiful view point(again a dreaded climb) which was on the postcard
   ![The Postcard](postcard.avif)
 
-back to [kaza](kaza#2024-10-17)
+back to [kaza](../kaza#2024-10-17)

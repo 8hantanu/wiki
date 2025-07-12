@@ -4,7 +4,7 @@
 
 ### 2024-10-12
 
-- arrived from [Shimla](shimla#2024-10-12) 
+- arrived from [Shimla](../shimla#2024-10-12) 
 - stayed at Eskape Camps at Rakchham a few km before Chitkul
 - sat around campfire and heard war stories
 - had a scrumptious dinner of healthy soup and homely made food
@@ -52,4 +52,4 @@ explored around the camp
   - had maggi and siddu (a traditional himachali bun) at the sangam
   ![Sangam Bridge](sangam.avif)
 - amazing roads and views along the way
-- made a pit stop at [Nako](nako#2024-10-14)
+- made a pit stop at [Nako](../nako#2024-10-14)
