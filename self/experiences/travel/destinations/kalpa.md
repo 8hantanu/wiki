@@ -2,7 +2,7 @@
 
 ## The Spiti-Kinnaur Trail
 
-## 2024-10-18
+### 2024-10-18
 
 - The road to Kalpa from [kaza](kaza#2024-10-18) was filled with beautiful views
 - All the way all I could see was trucks and tempos filled with boxes of apples
@@ -15,7 +15,7 @@
 - The group gathered as it was the last day and we played the last mafia game
 - It was late and I went to sleep at 05:00 in the morning
 
-## 2024-10-19
+### 2024-10-19
   
 - Woke up at 07:30 all sleep deprived
 - Left for Shimla at 11:00, a day long journey
