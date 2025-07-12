@@ -1,2 +1,0 @@
-# Gurgaon 🛣
-`#draft`

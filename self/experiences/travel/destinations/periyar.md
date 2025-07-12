@@ -1,3 +1,0 @@
-# Periyar 🐾
-
-`#draft`

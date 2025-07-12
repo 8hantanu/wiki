@@ -1,3 +1,0 @@
-# Munnar 🌄
-
-`#draft`
