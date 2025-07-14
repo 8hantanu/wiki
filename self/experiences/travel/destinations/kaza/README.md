@@ -21,6 +21,9 @@ coming from [dhankar](../dhankar#2024-10-15)
 
 - I started feeling a little better but still not completely recovered, I decided to join the group
 - We headed for [Chicham](../chicham#2024-10-17), our guide Gyallson's village
+
+---
+
 - On our way back we went to the Kaza market
   ![Kaza market](market.avif)
   - bought a set of little porcelain cups and a Tibetan singing bowl

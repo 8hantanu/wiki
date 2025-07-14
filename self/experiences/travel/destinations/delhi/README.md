@@ -26,6 +26,8 @@ Took the tube to the Kashmere Gate bus station
 
 Then a bus to [Shimla](../shimla#2024-10-12)
 
+---
+
 ### 2024-10-20
 
 - returned from [Shimla](../shimla#2024-10-19)

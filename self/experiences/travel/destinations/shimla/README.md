@@ -16,6 +16,8 @@
 
 ![Valley views on the way to Chitkul](valleys.avif)
 
+---
+
 ### 2024-10-19
 
 - Reached back Shimla at 18:00 from [Kalpa](../kinnaur#2024-10-19)
