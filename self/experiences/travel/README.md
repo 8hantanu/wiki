@@ -2,8 +2,13 @@
 
 See all [destinations](destinations) 🗺
 
+## Upcoming
+
+- **2025-08** Leeds Music Festival
+
 ## Past trips
 
+- **2025-07** The Ashtavinayak Circuit
 - **2025-05** Dubai and Albania
 - **2025-04** Southern Soujourn in the Nilgiris
 - **2025-03** Laos and Cambodia

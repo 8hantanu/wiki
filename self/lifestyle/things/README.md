@@ -1,7 +1,5 @@
 # Things 📦
 
-**Note:** "->" denotes a possible upgrade in near future.
-
 ## EDC 🕶
 
 ### Self 📱
@@ -10,21 +8,26 @@
 - Wallet
 - iPhone 16e
 - Garmin Instinct 2 Solar
-- AirPods
-- Keys
+- Moondrop Chu II IEM
+- Keyring
 
-### The Backpack 🎒
+### Daily Backpack 🎒
 
-- Leather backpack
-- MacBook Air 13"
-- Ricoh GR IIIx HDF
+- Leather backpack -> Wool&Oak Weekender
+- MacBook Air M2
 - Kindle Scribe
-- Water Bottle
-- Chargers
+- Ricoh GR IIIx HDF -> Ricoh GR Vx HDF
+- Portronics Luxcell 10k mAH
 
 ## Travel 🗺
 
-- Nike Utility Power backpack
+### Travel Backpack 🎒
+
+- Nike Utility Power backpack -> Patagonia Black Hole Mini MLC
+- Chargers
+- Umbrella
+- Water Bottle
+- Bidet
 
 ## Desk Setup 🖥
 
@@ -32,10 +35,10 @@
 - Bleckberget Chair -> Långfjäll chair
 - LG Ultra-wide 29” Monitor -> Studio Display
 - HomePod mini -> HomePod Pro
-- Keychron K2
-- Logitech Pebble Mouse
+- Keychron K2 -> Keychron Q60 Max
+- Logitech Pebble Mouse -> LoFree Touch PBT Mouse (block)
 - Casiotone CT-S100
-- Vault Soprano Ukulele -> Baritone Ukulele
+- Vault Soprano Ukulele -> Kala Makala MK-T Tenor Ukulele (low-G)
 
 ## Wardrobe 🧺
 
@@ -61,8 +64,8 @@
 
 - 3 ankle socks
 - 3 long socks
-- Andune Barefoot Trek -> Altra Lone Peak 6
-- Birkenstock Dupes -> Birkenstock Arizona CT
+- Nike Pegasus Trail 5 -> Altra Lone Peak 9
+- Birkenstock Arizona EVA
 
 ## Fitness 💪
 
@@ -72,7 +75,7 @@
 - Yoga Blocks
 - 5kg Dumbbells
 - Pull-up Bar
-- -> Jump Rope
+- Jump Rope
 
 ### Sports 🏸
 
@@ -91,10 +94,9 @@
 ## Home 🏠
 
 - Bulb
-- -> Turbo/Mulig Clothes Rack
-- -> Skubb Storage Boxes
+- Mulig Clothes Rack -> Turbo Rack
 - Knapper Standing Mirror
-- -> Kränga Hangers
+- Spruttig Hangers
 - Bathrobe
 - Towel
 - Tusk toothbrush
@@ -116,13 +118,12 @@
 - Pan
 - Kettle
 - Cooker
-- Washing Machine
 
 ## Garage 🛞
 
 ### Wheels 🚴‍♂
 
-- Ninety One Defeatr 29T cycle
+- Ninety One Defeatr 29T cycle -> Fiido Titan
 - Ola S1 Pro scooter
 
 ### Gear 🧢
@@ -130,14 +131,21 @@
 - Helmet
 - 2 Bandanas
 
-## Wants 🛍
+**Note:** _->_ denotes an upgrade in future when current item reaches EoL.
 
-- -> Corgi Butt Mat
-- -> BambuLab A1 Mini
-- -> Chompi sampler
-- -> Squarehood (Ricoh GR IIIx HDF)
-- -> Wool&Oak Voyager set, Laptop sleeve, Sling bag, Toiletry bag
-- -> Dyson V8
-- -> Suzuki Jimny/Super Carry
-- -> Tennis Racket
-- -> Craft&Glory Leather boots
+<hr>
+
+## Wishlist 🛍️
+
+- Lenscap for Ricoh GR IIIx
+- Closest Ally Belt Bag (classic)
+- Peak Design Camera Strap Cuff (sage)
+- Osprey Daylite 26+6 (black)
+- Craft&Glory Himalayan Hikers (black)
+- Mudita Bell 2 (charcoal black)
+- BambuLab A1 Mini
+- Chompi sampler
+- Dyson V8
+- La Boulle
+- LADA Niva/Suzuki Jimny
+- Porsche 911 Targa

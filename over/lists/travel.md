@@ -6,3 +6,4 @@
 - Samudralingapuram
 - Hampi
 - Balkan side of Europe
+- Valley of flowers, Uttarakhand
