@@ -7,8 +7,9 @@
 - Glasses
 - Wallet
 - iPhone 16e
-- Garmin Instinct 2 Solar
+- Garmin Instinct 2 Solar -> Garmin Instinct Crossover
 - Moondrop Chu II IEM
+- Airpods Pro
 - Keyring
 
 ### Daily Backpack 🎒
@@ -65,11 +66,11 @@
 - 3 ankle socks
 - 3 long socks
 - Nike Pegasus Trail 5 -> Altra Lone Peak 9
-- Birkenstock Arizona EVA
+- Birkenstock Arizona EVA -> Teva Hurricane XLT2 Sandal
 
 ## Fitness 💪
 
-### Equipment 🏋️‍♂
+### Equipment 🏋️
 
 - Yoga Mat
 - Yoga Blocks
@@ -121,7 +122,7 @@
 
 ## Garage 🛞
 
-### Wheels 🚴‍♂
+### Wheels 🚴
 
 - Ninety One Defeatr 29T cycle -> Fiido Titan
 - Ola S1 Pro scooter
