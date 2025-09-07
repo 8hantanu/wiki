@@ -46,7 +46,7 @@ This system prevents task list bloat while keeping me honest about what I'm actu
 
 Here's what March 15th looked like:
 
-```txt
+```text
 2025.03.15
 
   - woke up at 0530, felt groggy
@@ -64,7 +64,7 @@ Here's what March 15th looked like:
 
 On same day before bed, when I review the page. I put the title for the day. I cross off the completed tasks. And for the tasks I didnt complete, instead of rewriting them on next day's page, I add `↗` in front of the task. So an end-of-day update looks like this:
 
-```txt
+```text
 2025.03.15 - All work and no play
 
   - woke up at 0530, felt groggy
