@@ -1,8 +1,12 @@
 # Lifestyle 🧘
 
-— [**_"Work over self (and rest)!_**](work-over-self) - My mantra!
+My mantra! - [**_"Work over self (and rest)!_**](work-over-self)
+
+- [Journal](journal) - here I breathe in
+- [Fashion](fashion) - work in progress
 
 ## Stuff
+
 - [Minima(xi)lism](minimaxilism) - less is more
 - [What I have and want](things)
 - [Digital footprint](digital)
@@ -18,7 +22,3 @@
 - [Van life?!](van-plan)
 - [Teeny-tiny home?!](tiny-home)
 - [The Ofha room](ofha)
-
-## Misc
-
-- [Fashion](fashion) - to be updated...
