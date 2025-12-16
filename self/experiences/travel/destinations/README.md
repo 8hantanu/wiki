@@ -29,13 +29,15 @@
 </details>
 
 <details>
-  <summary><strong>🏴󠁧󠁢󠁥󠁮󠁧󠁿 England</strong></summary>
+  <summary><strong>🏴 England</strong></summary>
   <ul>
+    <li><a href="bath">Bath</a></li>
     <li><a href="cambridge">Cambridge</a></li>
+    <li><a href="ely">Ely</a></li>
     <li><a href="leeds">Leeds</a></li>
     <li><a href="london">London</a></li>
   </ul>
-</details>
+  </details>
 
 <details>
   <summary><strong>🇮🇳 India</strong></summary>
@@ -72,6 +74,17 @@
     <li>Pakse</li>
     <li>Vang Vieng</li>
     <li>Vientiane</li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>🇹🇭 Thailand</strong></summary>
+  <ul>
+    <li>Ao Nang</li>
+    <li>Bangkok</li>
+    <li>Krabi</li>
+    <li>Phi Phi</li>
+    <li>Phuket</li>
   </ul>
 </details>
 

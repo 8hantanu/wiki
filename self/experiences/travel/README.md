@@ -2,6 +2,9 @@
 
 See all [destinations](destinations) 🗺
 
+- **2025-12** Thailand Tripception
+- **2025-11** Bath 
+- **2025-10** Ely 
 - **2025-08** Birthday weekend at London
 - **2025-08** Leeds Music Festival
 - **2025-07** The Ashtavinayak Circuit
