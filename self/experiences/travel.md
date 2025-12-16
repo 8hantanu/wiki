@@ -1,6 +1,6 @@
 # Travel 🎒
 
-See all [destinations](destinations) 🗺
+See all [destinations](places) 🗺
 
 - **2025-12** Thailand Tripception
 - **2025-11** Bath 
@@ -16,7 +16,7 @@ See all [destinations](destinations) 🗺
 
 - **2024-12** The Türkiye Trip
 - **2024-12** Karnataka's Rich Ruins
-- **2024-10** [The Spiti-Kinnaur Trail](destinations/delhi#2024-10-11)
+- **2024-10** [The Spiti-Kinnaur Trail](places/delhi#2024-10-11)
 - **2024-07** North of North Goa
 - **2024-07** Bidar — A Fortress of Faith
 - **2024-06** Pune Monsoon Trek

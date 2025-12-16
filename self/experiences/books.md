@@ -7,6 +7,7 @@
 
 ## 2025
 
+- **The Glucose Revolution**, by _Jessie Inchauspé_ 3.5/5
 - **The Alchemist**, by _Paulo Coelho_ — 3.5/5
 - **Small Boat**, by _Vincent Delecroix_ — 3/5
 - **A Thousand Splendid Suns**, by _Khaled Hosseini_ — 4.5/5

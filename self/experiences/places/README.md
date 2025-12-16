@@ -1,4 +1,4 @@
-# Destinations 🗺
+# Places 🗺
 
 <details>
   <summary><strong>🇦🇱 Albania</strong></summary>
