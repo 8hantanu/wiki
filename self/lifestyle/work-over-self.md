@@ -1,4 +1,5 @@
 # Work Over Self 🍱
+**2023-06-17**
 
 The _"Work over self (and rest)!"_ is a way of life I came up with and strive to live by it.
 
