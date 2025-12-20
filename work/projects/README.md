@@ -1,4 +1,4 @@
-# Projects 🏗
+# Projects
 
 ## Active
 

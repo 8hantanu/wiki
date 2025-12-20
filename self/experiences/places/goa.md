@@ -1,4 +1,4 @@
-# Goa 🏖
+# Goa
 Goa-Kerala Travalogue
 
 Day I

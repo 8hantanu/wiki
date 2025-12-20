@@ -1,1 +1,1 @@
-# Hyderabad 📿
+# Hyderabad

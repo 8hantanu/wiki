@@ -1,4 +1,4 @@
-# Work 🌱
+# Work
 
 - [projects](projects)
 - [design](design)

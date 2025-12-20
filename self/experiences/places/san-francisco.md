@@ -1,4 +1,4 @@
-# San Francisco 🌉
+# San Francisco
 
 ## A Late Afternoon Road Trip
 

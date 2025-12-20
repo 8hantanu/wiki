@@ -1,4 +1,4 @@
-# Lifestyle 🧘
+# Lifestyle
 
 My mantra! - [**_"Work over self (and rest)!_**](work-over-self)
 

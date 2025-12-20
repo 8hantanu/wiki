@@ -1,4 +1,4 @@
-# Places 🗺
+# Places
 
 <details>
   <summary><strong>🇦🇱 Albania</strong></summary>
@@ -29,7 +29,7 @@
 </details>
 
 <details>
-  <summary><strong>🏴 England</strong></summary>
+  <summary><strong>🏴󠁧󠁢󠁥󠁮󠁧󠁿 England</strong></summary>
   <ul>
     <li><a href="bath">Bath</a></li>
     <li><a href="cambridge">Cambridge</a></li>

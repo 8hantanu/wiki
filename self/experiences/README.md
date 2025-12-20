@@ -1,5 +1,5 @@
-# Experiences 🎭
+# Experiences
 
-- 🎒 [travel](travel)
-- 📅 [events](events)
-- 📚 [books](books)
+- [travel](travel)
+- [events](events)
+- [books](books)

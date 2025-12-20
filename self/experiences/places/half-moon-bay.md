@@ -1,4 +1,4 @@
-# Half-moon Bay 🌊
+# Half-moon Bay
 
 ## The Luncheon at Ritz-Carlton
 

@@ -1,4 +1,4 @@
-# LLVM 🐉
+# LLVM
 
 LLVM is a set of libraries and components, used to build compilers, optimize existing code etc.
 

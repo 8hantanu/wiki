@@ -1,4 +1,4 @@
-# Self 🌺
+# Self
 
 - [about](about)
 - [experiences](experiences)

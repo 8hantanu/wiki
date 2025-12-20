@@ -1,4 +1,4 @@
-# Kalpa 🍏
+# Kalpa
 
 ## The Spiti-Kinnaur Trail
 

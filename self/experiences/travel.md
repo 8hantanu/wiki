@@ -1,6 +1,6 @@
-# Travel 🎒
+# Travel
 
-See all [destinations](places) 🗺
+See all [destinations](places)
 
 - **2025-12** Thailand Tripception
 - **2025-11** Bath 

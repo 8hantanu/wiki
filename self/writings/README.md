@@ -1,2 +1,2 @@
-# Writings 🖊
-- 🌼 [poems](poems)
+# Writings
+- [poems](poems)

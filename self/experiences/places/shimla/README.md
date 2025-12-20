@@ -1,4 +1,4 @@
-# Shimla 🏔
+# Shimla
 
 ## The Spiti-Kinnaur Trail
 

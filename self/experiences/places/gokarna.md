@@ -1,4 +1,4 @@
-# Gokarna 🌅
+# Gokarna
 
 ## 8th April 2023
 

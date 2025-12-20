@@ -1,18 +1,18 @@
 # Albania 2025
-## 🗺️ Detailed Daily Plan  
+## Detailed Daily Plan  
 
 ### Day 1: Sunday, May 25 – Arrival in Tirana  
 - ...
 - ...
 - ...
 - Fly into Tirana; pick up your rental car and check in.
-- Dinner at Era Blloku in Blloku’s vibrant district 🍽️
+- Dinner at Era Blloku in Blloku’s vibrant district
 - Overnight at 
 
 ### Day 2: Monday, May 26 – Tirana → Kruja → Shkodër  
 - Et’hem Bey Mosque & National History Museum (opens 08:00).  
 - Quick tour of the      Pyramid, Grand Park, Bunk’Art 2, then drive (~45 min) to Kruja.  
-- Kruja Castle + Skanderbeg Museum + Ethnographic Museum 🏛️, bazaar shopping, late lunch.  
+- Kruja Castle + Skanderbeg Museum + Ethnographic Museum, bazaar shopping, late lunch.  
 - Drive to Shkodër (~1.5 hrs), check in.  
 - Savor local cuisine in the Old Town.
 - Overnight at 
@@ -27,7 +27,7 @@
 ### Day 4: Wednesday, May 28 – Valbona → Theth → Shkodër  
 - **Dawn**: Hike Valbona–Theth via Valbona Pass.  
 - **Morning**: Panoramic views at the pass; descend to Theth.  
-- **Afternoon**: Lunch + Blue Eye of Theth + Grunas Waterfall 🌊  ([Albania Packing List: What To Pack For Albania | Chasing the Donkey](https://www.chasingthedonkey.com/what-to-pack-for-albania-travel-blog/?utm_source=chatgpt.com)).  
+- **Afternoon**: Lunch + Blue Eye of Theth + Grunas Waterfall ([Albania Packing List: What To Pack For Albania | Chasing the Donkey](https://www.chasingthedonkey.com/what-to-pack-for-albania-travel-blog/?utm_source=chatgpt.com)).  
 - **Evening**: Theth Church & Lock‑in Tower, then minibus back to Shkodër.  
 - **Night**: Dinner in Shkodër’s cozy eateries.
 
@@ -61,4 +61,4 @@
 
 ### Day 9: Monday, June 2 – Departure  
 - **Dawn**: 04:00 wakeup; transfer to Tirana Airport.  
-- **06:00**: Flight departure.  
+- **06:00**: Flight departure.

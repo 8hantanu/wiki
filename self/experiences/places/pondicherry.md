@@ -1,4 +1,4 @@
-# Pondicherry 🍰
+# Pondicherry
 
 ## 2023-05-23 - Pondicherry (3D/2N)
 

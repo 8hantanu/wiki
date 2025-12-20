@@ -1,4 +1,4 @@
-# Books 📚
+# Books
 
 ## Currently Reading
 

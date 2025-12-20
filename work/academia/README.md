@@ -1,4 +1,4 @@
-# Academia 🎓
+# Academia
 
 ## Computer Science
 
