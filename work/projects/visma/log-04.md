@@ -1,10 +1,10 @@
-# Log 04 - Develop, Test, Repeat
+# log 04 - develop, test, repeat
 
 This is GSoC log-04 (view log-03 [here](log-03). Here I will cover on what I have done in week 08-09 and a gist of what has been accomplished in Phase II coding period and what is to be done in the final coding period.
 
 ![visma-banner](assets/banner.jpg)
 
-## Done so far
+## done so far
 
 - Added tests using pytest
 - Code coverage using coverage.py through pytest
@@ -40,7 +40,7 @@ tests/test_utils.py ...                                                      [10
 ============================ 25 passed in 0.93 seconds =============================
 ```
 
-## Phase - 2 deliverables
+## phase - 2 deliverables
 
 - **Modules created**
   - **Solver** - An equation solver
@@ -51,7 +51,7 @@ tests/test_utils.py ...                                                      [10
   - Ported code base to python3 from python2
   - Moved to PyQt5 from PyQt4
 
-## What I will be doing next
+## what i will be doing next
 
 Most of the time of final period will be spent on working on the missing test cases and integrating the different kinds of solvers and matrices with the GUI. Also, calculus functionalities will be enhanced and support for more functions will be added.
 

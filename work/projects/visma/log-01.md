@@ -1,4 +1,4 @@
-# Log 01 - Making ViSMA 'classy'
+# log 01 - making visma 'classy'
 
 I came across [AerospaceResearch.net](https://aerospaceresearch.net) when browsing through GSoC organizations. It offered projects both in my field of interests and academic domain. I had to make a hard choice between **DirectDemod** and **VisMa** and I finally chose **VisMa** as my project for GSoC.
 
@@ -6,7 +6,7 @@ I came across [AerospaceResearch.net](https://aerospaceresearch.net) when browsi
 
 This is my first GSoC dev log (more to come). Here I will be logging about what I learned, what I have done and what I will do. So following is the work I have done in VisMa. This log covers on what I have done in week#01-02.
 
-## Done so far
+## done so far
 
 I used the community bonding period to fix minor errors and get more familiar with the source. I restructured the code base so that new modules could be accommodated. Code duplication was reduced using proper imports between modules. New modules like calculus, transform, solvers, gui etc were initialized. A token IDing module was written to handle equations during calculus operations.
 
@@ -27,7 +27,7 @@ An equation plotter was built with the help of matplotlib. The plotter supports 
 
 ![visma-demo](demos/01.gif)
 
-## What I will be doing next
+## what i will be doing next
 
 The above example is one of the test cases of the input equations. The animator and plotter have to be fixed to run all cases. Adding animations to the animator is one of the things. I will try to add support for a 3d graph as well(for equations in three variables).
 

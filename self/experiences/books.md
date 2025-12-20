@@ -1,6 +1,6 @@
-# Books
+# books
 
-## Currently Reading
+## currently reading
 
 - **Nuclear War**, by _Annie Jacobsen_
 - **Heads You Win**, by _Jeffrey Archer_

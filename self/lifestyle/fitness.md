@@ -1,14 +1,14 @@
-# Fitness
+# fitness
 
-## Incorporate
+## incorporate
 
-### Diet
+### diet
 
 - Beetroot juice - increasing aerobic performance
 - Spinach (iron) - for replenishing iron level depleted during workout
 - Hot ginger tea
 
-### Fitness
+### fitness
 - [A 3 Minute Neck Drill That Will Change Your Life
 ](https://www.youtube.com/watch?v=K4dmZ5_n6uU)
 - [BEGINNER CALISTHENICS WORKOUT] (https://www.youtube.com/watch?v=geUKI-2uWaY)

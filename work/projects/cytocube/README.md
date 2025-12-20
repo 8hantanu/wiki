@@ -1,10 +1,10 @@
-# Cytocube
+# cytocube
 
 TODO: Add project description
 
 ---
 
-## Developer Logs for CytoCube
+## developer logs for cytocube
 
 Below is the dev log while I was working on this project.
 
@@ -12,13 +12,13 @@ Below is the dev log while I was working on this project.
 - Any new task or improvement required can be added to the TODO list at the end of this document.  
 - Code commits related to the daily logs can be found in the repo. The repos are private. For access, email your GitHub username.
 
-#### Cytocube
+#### cytocube
 
 **Task:** Develop C++ code for Cytocube based on the existing MATLAB code  
 **Tools:** C++, Qt (GUI), OpenCV (Image processing), XiAPI (Image Acquisition)  
 **Repo:** [GitHub - Cytocube](https://github.com/8hantanu/cytocube)
 
-#### Cytodata
+#### cytodata
 
 **Task:** Use deep learning to identify and count the number of blood cells from images acquired from Cytocube  
 **Tools:** Python, Keras (Faster R-CNN), TensorFlow (backend), OpenCV (Image Processing)  
@@ -254,7 +254,7 @@ $$ v = 1.572 \times 10^{-2} \times \text{mlps} \text{ mm/s} $$
 
 ![PCB Design](pcb.png)
 
-### FIXME  
+### fixme  
 - ~~Render QImage in RGB888 format from the XI_IMG RGB24~~  
 - Find another way for syncing serial comm instead of resetting the serial comm link  
 - ~~Unexpected hanging during autofocus _(possible cause: next signal sent before previous signal is executed)_~~  
@@ -263,9 +263,9 @@ $$ v = 1.572 \times 10^{-2} \times \text{mlps} \text{ mm/s} $$
 - Optimize image save and capture  
 - Fix crash when switching from binning to full FoV  
 
-### TODO  
+### todo  
 
-#### Cytocube  
+#### cytocube  
 - ~~Create Ximea camera image handler~~  
 - ~~Enable serial communication through C++~~  
 - ~~Add basic navigation~~  
@@ -286,7 +286,7 @@ $$ v = 1.572 \times 10^{-2} \times \text{mlps} \text{ mm/s} $$
 - ~~Automate vial agitation~~  
 - ~~Optimize motor movements _(code and hardware)_~~  
 
-#### Cytodata  
+#### cytodata  
 - ~~Generate image data for creating training model~~  
 - ~~Data labeling~~  
 - ~~Identification of RBCs and WBCs~~  

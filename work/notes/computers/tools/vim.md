@@ -3,7 +3,7 @@
 - See my `.vimrc` [here](https://github.com/8hantanu/dots/blob/main/.vimrc)
 - [Vim cheatsheet](https://vim.rtorr.com)
 
-## Commands and Shortcuts
+## commands and shortcuts
 
 - Ditch vimwiki
   - Generate index.md
@@ -14,7 +14,7 @@
 - Manage all todos
   - `grep -Ri TODO . > todos`
 
-## Editing Techniques
+## editing techniques
 
 - `f`: Move forward to character
 - `; ,`: Navigate forward and backward
@@ -26,12 +26,12 @@
 
 - Check out relative line number (`:set relativenumber`)
 
-## File Navigation
+## file navigation
 
 - `%`: Jump to matching parenthesis
 - Fuzzy file find: `:e src/**/file_na<tab>`
 
-## Navigation and Window Management
+## navigation and window management
 
 - `Ctrl + ^`: Switch to last file
 - `Ctrl + O/I`: Navigate through jump list

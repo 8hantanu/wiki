@@ -1,4 +1,4 @@
-# Work Over Self
+# work over self
 **2023-06-17**
 
 The _"Work over self (and rest)!"_ is a way of life I came up with and strive to live by it.
@@ -10,7 +10,7 @@ As the phrase suggests, there are four categories:
 - **self** - personal stuff
 - **rest** - everything else
 
-## The Philosophy
+## the philosophy
 
 "Work over self!" embodies two important ideologies:
 
@@ -20,11 +20,11 @@ As the phrase suggests, there are four categories:
 
 In essence, "work over self" encompasses both the internal process of self-improvement and the external commitment to fulfilling responsibilities and achieving goals.
 
-## Time, Space and Matter
+## time, space and matter
 
 Based on this, I also organize my space, time and matter and live through it.
 
-### Take your Time ⏳
+### take your time
 
 Life's much easier to manage when time is organised. I try to time block my day into one of these four zones in which I can tune into. Each day is divided into multiple 4-hour blocks as seen in this daily schedule, with a transitory period between the time blocks:
 
@@ -55,7 +55,7 @@ Below is the composition for the 24-hour day.
 
 **Rest (8 hours)**: Dedicated solely to restorative sleep and relaxation, vital for maintaining physical and mental health.
 
-### Separate your Spaces
+### separate your spaces
 
 In the same way, delineating specific areas for each zone helps me create an environment conducive to productivity and balance.
 
@@ -67,13 +67,13 @@ The park, the home, the retaurant, a place where I like to spend time with my lo
 
 The home, a space where I can come to anytime and its ready to embrace me in whichever state I am, where I can finally **rest**.
 
-### Minimize your Matter
+### minimize your matter
 
 I consider myself a minimalist. I try to have as less of things as possible (and yes I keep [count](things) of it).
 
 I organize my stuff both physical and digital into these categories (as seen in my [wiki](https://8hantanu.net/wiki)).
 
-## How's it going?
+## how's it going?
 
 In embracing "Work over self" philosophy I've found a harmonious rhythm that defines not just my daily routine but also my approach to life itself.
 

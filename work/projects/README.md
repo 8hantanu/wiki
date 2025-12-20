@@ -1,17 +1,17 @@
-# Projects
+# projects
 
-## Active
+## active
 
 - [Yree](https://yree.io)
 - [citrus](/citrus)
 
-## Personal
+## personal
 
 - [plug](/plug)
 - [dock](/dock)
 - [dots](/dots)
 
-## Archived
+## archived
 
 - [visma](visma)
 - [cytocube](cytocube)

@@ -1,4 +1,4 @@
-# Notes
+# notes
 
 - [computers](computers)
 - [math](math)

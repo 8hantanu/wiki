@@ -1,6 +1,6 @@
-# Itinerary
+# itinerary
 
-## Dubai-Albania
+## dubai-albania
 
 | Date  | Dawn | Morn | Noon | Dusk | Dark |
 | 25/05 | ---- | ---- | ---- | Arrive at Tirana airport | ---- |
@@ -13,7 +13,7 @@
 | 01/05 | ---- | ---- | ---- | ---- | ---- |
 | 02/05 | ---- | ---- | ---- | ---- | ---- |
 
-## Bangalore-Coimbatore-O
+## bangalore-coimbatore-o
 
 | Date | Dawn | Morn | Noon | Dusk | Dark |
 | ---- | ---- | ---- | ---- | ---- | ---- |

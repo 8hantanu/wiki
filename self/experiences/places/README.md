@@ -1,4 +1,4 @@
-# Places
+# places
 
 <details>
   <summary><strong>🇦🇱 Albania</strong></summary>

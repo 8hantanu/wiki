@@ -1,3 +1,3 @@
-# Art
+# art
 
 `#draft`

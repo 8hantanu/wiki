@@ -1,23 +1,23 @@
-# C++
+# c++
 
-## Concepts
+## concepts
 
 Linkers
 Pointer
 
-## Syntactic sugar
+## syntactic sugar
 
-## Compile options
+## compile options
 
-### Enable all warnings
+### enable all warnings
 
 Add the following flags to your command line: `-Wall -Weffc++ -Wextra -Wsign-conversion`
 
-### Treat warnings as errors
+### treat warnings as errors
 
 Add the following flag to your command line: `-Werror`
 
-### Disable compiler extensions
+### disable compiler extensions
 
 You can disable compiler extensions by adding the `-pedantic-errors` flag to the compile command line.
 

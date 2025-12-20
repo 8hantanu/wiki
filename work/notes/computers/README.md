@@ -1,4 +1,4 @@
-# Computers
+# computers
 - topics
   - [architecture](arch)
   - [compilers](compilers)

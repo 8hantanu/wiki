@@ -1,8 +1,8 @@
-# Things
+# things
 
-## EDC
+## edc
 
-### Self
+### self
 
 - Glasses
 - Wallet
@@ -11,7 +11,7 @@
 - Moondrop Chu II IEM
 - Keyring
 
-### Backpack
+### backpack
 
 - Alpaka Metro Backpack 12L
 - MacBook Air M2
@@ -21,7 +21,7 @@
 - GameSir X5 Lite Gamepad
 - Portronics Luxcell 10k mAH
 
-## Travel
+## travel
 
 - Chargers
 - Umbrella
@@ -29,7 +29,7 @@
 - Bidet
 - Passport
 
-## Desk
+## desk
 
 - HomePod mini -> HomePod Pro
 - Keychron K2 -> Keychron Q60 Max
@@ -37,9 +37,9 @@
 - Casiotone CT-S100
 - Vault Soprano Ukulele -> Kala Makala MK-T Tenor Ukulele (low-G)
 
-## Wardrobe
+## wardrobe
 
-### Tops
+### tops
 
 - 3 Jackets (Denim/Corduroy/Leather)
 - 3 DNMX polos
@@ -49,7 +49,7 @@
 - Levi's white tank
 - White Oxford shirt
 
-### Bottoms
+### bottoms
 
 - 4 Levi’s trunks
 - Levi’s 511/512 jeans
@@ -57,16 +57,16 @@
 - 2 Pants
 - 1 Cargos
 
-### Footwear
+### footwear
 
 - 3 ankle socks
 - 3 long socks
 - Nike Pegasus Trail 5 -> Nike Pegasus Trail 6
 - Birkenstock Arizona EVA -> Teva Hurricane XLT2 Sandal
 
-## Fitness
+## fitness
 
-### Equipment
+### equipment
 
 - Yoga Mat
 - Yoga Blocks
@@ -74,20 +74,20 @@
 - Pull-up Bar
 - Weighted Jump Rope
 
-### Sports
+### sports
 
 - Badminton Racket
 - Nivia Football Shoes -> Nike Academy Football Turf
 - Nivia Badminton Shoes
 
-### Apparel
+### apparel
 
 - Running shorts
 - Running top
 - Sweatshirt
 - Head band
 
-## Home
+## home
 
 - Bulb
 - Spruttig Hangers
@@ -100,13 +100,13 @@
 - Fjällmott Picnic blanket
 - Stone Mat
 
-## Garage
+## garage
 
-### Wheels
+### wheels
 
 - Ninety One Defeatr 29T cycle -> Fiido Titan
 
-### Gear
+### gear
 
 - Helmet
 - 2 Bandanas

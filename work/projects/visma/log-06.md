@@ -1,10 +1,10 @@
-# Log 06 - Packing Up
+# log 06 - packing up
 
 This is GSoC'18 log 06. Here I will cover on what I have done in week 12-13. Link to the [previous log](log-05). The work in these two weeks involved packaging and documenting the code.
 
 ![visma-banner](assets/banner.jpg)
 
-## Done so far
+## done so far
 
 Deciding which packaging style to choose was a difficult task. Though there were a number of options available for packaging python apps I couldn't find one which makes it simple for packaging it for windows. I managed to convert the source into a single executable file using **pyinstaller** but the performance was compromised.
 
@@ -44,7 +44,7 @@ Plotting an equation in different axis ranges helps in visualizing it in a bette
 
 ![visma-demo6](demos/log-06.gif)
 
-## What I will be doing next
+## what i will be doing next
 
 The github wiki is yet to be updated. It will contain the user and developer manual. Some more inline comments and docstrings can be added.
 

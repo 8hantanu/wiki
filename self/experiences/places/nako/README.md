@@ -1,6 +1,6 @@
-# Nako
+# nako
 
-## The Spiti-Kinnaur Trail
+## the spiti-kinnaur trail
 
 ### 2024-10-14
 

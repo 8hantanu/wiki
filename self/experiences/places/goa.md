@@ -1,4 +1,4 @@
-# Goa
+# goa
 Goa-Kerala Travalogue
 
 Day I

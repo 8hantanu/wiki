@@ -1,8 +1,8 @@
-# Delhi
+# delhi
 
 A place which has always been grounds for multiple layovers.
 
-## The Spiti-Kinnaur Trail
+## the spiti-kinnaur trail
 
 ### 2024-10-11
 

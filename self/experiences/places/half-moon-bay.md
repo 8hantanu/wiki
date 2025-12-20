@@ -1,6 +1,6 @@
-# Half-moon Bay
+# half-moon bay
 
-## The Luncheon at Ritz-Carlton
+## the luncheon at ritz-carlton
 
 ### 2023-05-18
 

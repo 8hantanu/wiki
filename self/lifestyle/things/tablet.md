@@ -1,9 +1,9 @@
-# Tablets
+# tablets
 
-## Kindle Scribe
+## kindle scribe
 
-## iPad Mini A15
+## ipad mini a15
 
-## Lenovo Chromebook
+## lenovo chromebook
 
-## Asus 
+## asus 

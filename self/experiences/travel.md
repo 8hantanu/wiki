@@ -1,4 +1,4 @@
-# Travel
+# travel
 
 See all [destinations](places)
 

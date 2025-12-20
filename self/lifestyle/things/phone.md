@@ -1,11 +1,11 @@
-# Phones
+# phones
 
-## Apple iPhone 16e
+## apple iphone 16e
 
-## Apple iPhone 12 mini
+## apple iphone 12 mini
 
-## Nokia 4.2
+## nokia 4.2
 
-## Lava Iris Win1
+## lava iris win1
 
-## Micromax Canvas 2
+## micromax canvas 2

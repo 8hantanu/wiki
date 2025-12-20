@@ -1,11 +1,11 @@
-# Log 03 - Finding the Unknown
+# log 03 - finding the unknown
 
 
 This is GSoC'18 log 03. Here I will cover on what I have done in week 06-07. Link to the [previous log](log-02.md).
 
 ![visma-banner](assets/banner.jpg)
 
-## Done so far
+## done so far
 
 I have implemented a simple solver which is capable of solving a given variable in terms of other variables and numbers. Below is a simple example of how the solver works.
 
@@ -38,7 +38,7 @@ I fiddled a little with the stylesheets in PyQt4 and made the GUI a little clean
 
 ![visma-demo3](demos/log-03.gif)
 
-## What I will be doing next
+## what i will be doing next
 
 Since the solver for single equation has been implemented, the next thing will be to extend it to solve multiple equations at once. A variable substitution method will be written which will substitute a variable from one equation to the other equation.
 

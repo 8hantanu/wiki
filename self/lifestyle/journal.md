@@ -1,21 +1,21 @@
-# Hibi - Here I Breathe In
+# hibi - here i breathe in
 **My Daily Journaling System**
 
 I've always struggled with consistency in journaling. I'd try different apps, notebooks, and methods, but nothing ever stuck for more than a few weeks. The problem wasn't motivation, it was that most systems felt either too rigid or too chaotic for how my mind works.
 
 Then I discovered the Kindle Scribe and something clicked. The digital paper feel, the ability to organize pages, and the simplicity of black ink on white background appealed to me. I decided to create my own daily journaling system.
 
-## Enter my system: Hibi
+## enter my system: hibi
 
 I named it **hibi** (ひび) - short for "here I breathe in", which is also a Japanese word meaning "daily" or "everyday." The name felt right; this journal has become my daily breathing space for thoughts, plans, and reflections.
 
-### The Structure
+### the structure
 
 Each day gets exactly one page (maybe two sometimes). At the top, I write the date, and next to it, a title, but here's the key - **I don't write the title until the end of the day**. The title emerges from whatever happened, whatever I wrote about, whatever dominated my thoughts.
 
 This end-of-day titling has become one of my favorite parts. It forces me to synthesize the day into its essence.
 
-### My Symbol System
+### my symbol system
 
 Instead of separate sections, I use bullet symbols (inspired from bujo) to indicate what I'm writing about.
 
@@ -34,7 +34,7 @@ Instead of separate sections, I use bullet symbols (inspired from bujo) to indic
 - `=` **list** - header for creating organized lists or categories
 - `.` **list item** - individual items within a list or subcategory
 
-### The Two-Day Lookback System
+### the two-day lookback system
 
 This is where it gets interesting. I only look back two days when planning today. If I had a task scheduled for yesterday that I didn't complete, I don't rewrite it - I just add a `↗` arrow next to the original task, making it `↗☐`. 
 
@@ -42,7 +42,7 @@ If I skip it again the next day, it becomes `↗↗☐`. After three skips, I ma
 
 This system prevents task list bloat while keeping me honest about what I'm actually willing to do.
 
-## A Day in Practice
+## a day in practice
 
 Here's what March 15th looked like:
 
@@ -82,7 +82,7 @@ On same day before bed, when I review the page. I put the title for the day. I c
 
 The arrows tell me I have these tasks carried over from previous days without cluttering up today's page. If I skip them again tomorrow, they'll become `↗↗☐` on March 15th's page.
 
-## What I've learned
+## what i've learned
 
 Mixed content works for me. Having logs, tasks, and reflections all mixed together mirrors how my mind actually works. Life doesn't happen in neat categories.
 

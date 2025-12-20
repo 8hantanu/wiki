@@ -1,9 +1,9 @@
-# Computers
+# computers
 
-## Macbook Air M2
+## macbook air m2
 
-## Mac Mini M1
+## mac mini m1
 
-## Asus Zephyrus G GA502
+## asus zephyrus g ga502
 
-## Lenovo 
+## lenovo 

@@ -1,10 +1,10 @@
-# Log 02 - Integrating the Integrator
+# log 02 - integrating the integrator
 
 This is GSoC log 02 (view [previous log](log-01)). Here I will cover on what I have done in week 03-05 and a gist of what has been accomplished in Phase I coding period.
 
 ![visma-banner](assets/banner.jpg)
 
-## Done so far
+## done so far
 
 - Created parser.py which handles conversion of tokens to LaTeX or strings and vice-versa.
 - Some simplification issues were fixed
@@ -19,7 +19,7 @@ The below demo shows the newly added functionalities like factorizing polynomial
 
 ![visma-demo](demos/log-02.gif)
 
-## Phase - 1 deliverables
+## phase - 1 deliverables
 
 - **Modules created**:
   - **Functions** - All function classes added
@@ -32,7 +32,7 @@ The below demo shows the newly added functionalities like factorizing polynomial
   - Embedded solver into main GUI
   - Reorganized code into smaller modules
 
-## What I will be doing next
+## what i will be doing next
 
 The next thing which I will work on is a basic equation solver. For making the equation solver modules like factorization, expression multiplication and division are required.
 

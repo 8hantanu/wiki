@@ -1,2 +1,2 @@
-# Writings
+# writings
 - [poems](poems)

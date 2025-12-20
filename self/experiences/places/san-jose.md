@@ -1,5 +1,5 @@
-# San Jose
-## The Bay-Area Business Retreat
+# san jose
+## the bay-area business retreat
 
 ### 2024-05-10
 

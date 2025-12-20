@@ -1,8 +1,8 @@
-# Poems
+# poems
 
 <hr>
 
-## Stagnant
+## stagnant
 
 Moved a thousand miles  
 but not a slightest in the mind  
@@ -15,14 +15,14 @@ Yet here I am still feeling stagnant
 
 <hr>
 
-## Bliss
+## bliss
 
 Walking under the shining sun  
 crunching over the dry leaves
 
 <hr>
 
-## Feel or do
+## feel or do
 
 Speak for yourself  
 Or speak for others  

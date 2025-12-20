@@ -1,9 +1,9 @@
-# VisMa
+# visma
 **visma - VISualMAth**, an equation solver and visualizer, which aims at showing the step-by-step solution and interactive plots of a given equation.
 
 ![visma-cover](assets/cover.jpg)
 
-## Deliverables
+## deliverables
 
 The major changes which were proposed for the project **visma** during GSoC'18:
 
@@ -51,7 +51,7 @@ There were many new things I came across while working on this project. I learne
 - **Week 10-11: [Dynamic Simplification and Plotting](log-05)** - Enhanced the GUI
 - **Week 12-13: [Packing Up](log-06)** - Finishing touches, packaging code, documentation
 
-## Future work
+## future work
 
 Though the GSoC'18 period has ended there are a lot of new things which can be added to **visma**. Some of the changes and features I intend to (others can too) add in **visma** after GSoC are:
 
@@ -60,7 +60,7 @@ Though the GSoC'18 period has ended there are a lot of new things which can be a
 - Fix the [issues](https://github.com/aerospaceresearch/visma/issues) created
 - Make a webapp
 
-## Links
+## links
 
 - **Project Source** - [https://github.com/aerospaceresearch/visma](https://github.com/aerospaceresearch/visma)
 - **My Commits** - [https://github.com/aerospaceresearch/visma/commits?author=8hantanu](https://github.com/aerospaceresearch/visma/commits?author=8hantanu)

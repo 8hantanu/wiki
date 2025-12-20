@@ -1,8 +1,8 @@
-# Gokarna
+# gokarna
 
-## 8th April 2023
+## 8th april 2023
 
-### Day 01
+### day 01
 
 Arrived early morning at 0500 at Gokarna Cross via bus from hyderabad.
 Saw beautiful sunrise while waiting for the ferry to Kumta.
@@ -12,9 +12,9 @@ a small ferry
 Reached kumta, a cabbie dropped us to camp
 we relaxed
 
-### Day 02
+### day 02
 
-### Day 03
+### day 03
 
     zostel
 

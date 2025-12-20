@@ -1,12 +1,12 @@
-# The Van Plan
+# the van plan
 
 Van life, often celebrated for its freedom and flexibility, is a concept that's yet to fully take root in India. As I prepare to embark on my own van life journey, I’m facing a series of unique challenges that are inherent to this lifestyle in my country. Here's a glimpse into my plans and the hurdles I anticipate, along with how I intend to overcome them.
 
-## Beginning of a Journey
+## beginning of a journey
 
 I'm thinking to get a Suzuki Super Carry which I plan to transform into a micro camper to start my van life adventure. The cargo bed will be converted to create a cozy living space, making this compact van my new home on wheels. The dream is to explore different parts of India, experience the freedom of the open road, and embrace the simplicity of van life.
 
-## Challenges of Van Life in India
+## challenges of van life in india
 
 **1. Scarcity of Camper Grounds**:
 In India, the infrastructure for camper grounds is virtually nonexistent. There are no designated spaces where you can park and stay overnight comfortably. This lack of facilities means that van lifers often need to find alternative spots, which can be both challenging and uncertain.
@@ -20,7 +20,7 @@ Safety is a significant concern when parking a van overnight. The risk of theft 
 **4. Social Perceptions**:
 In India, the idea of living in a van is still somewhat unconventional and often met with skepticism. The social stigma associated with this lifestyle can make it challenging to find support and understanding from the community.
 
-### The Solution
+### the solution
 
 To tackle these challenges, I’m focusing on creative solutions:
 
@@ -36,7 +36,7 @@ My van will be equipped with window panels that double as advertising spaces. Th
 **4. Community and Networking**:
 I plan to connect with other van life enthusiasts and local communities to share experiences and tips. Building a network of like-minded individuals can provide valuable insights and support, helping to navigate the unique challenges of van life in India.
 
-### **A Future Venture: [VADE](https://yree.io/vade)**
+### **a future venture: [vade](https://yree.io/vade)**
 
 As part of my van life plans, I'm also working on a future project called **[VADE](https://yree.io/vade)**—a mobile advertising company. Once I hit the road with my Suzuki Super Carry, VADE will aim to address parking and safety challenges by partnering with local businesses. The idea is to offer advertising space on my van in exchange for parking, providing a practical solution to the challenges of van life while supporting local brands.
 

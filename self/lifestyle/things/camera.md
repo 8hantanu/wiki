@@ -1,6 +1,6 @@
-# Camera
+# camera
 
-## Ricoh GR IIIx HDF
+## ricoh gr iiix hdf
 
 I finally bought the Ricoh GR IIIx HDF.
 

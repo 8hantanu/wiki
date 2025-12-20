@@ -1,10 +1,10 @@
-# Log 05 - Dynamic Simplification and Plotting
+# log 05 - dynamic simplification and plotting
 
 This is GSoC'18 log-05. Here I will cover on what I have done in week 10-11. Link to the [previous log](log-04). The work during this period is mostly done in [visma/gui](https://github.com/aerospaceresearch/visma/blob/master/visma/gui).
 
 ![visma-banner](assets/banner.jpg)
 
-## Done so far
+## done so far
 
 A quick solver ([visma/gui/qsolver.py](https://github.com/aerospaceresearch/visma/blob/master/visma/gui/qsolver.py)) has been implemented which dynamically simplifies the expression as the user inputs. Instead of implementing the _logger_ which was supposed to report if the input expression is invalid, I have implemented this feature in the _qsolver_ itself. It lets the user know what is missing in the input or if the input syntax is wrong.
 
@@ -35,7 +35,7 @@ Below the _qsolver_ and _plotter_ can be seen in action.
 
 ![visma-demo5](demos/log-05.gif)
 
-## What I will be doing next
+## what i will be doing next
 
 Almost all of the basic work related to GUI is finished. I will try to enhance the UI by adding settings menu and options to enable or disable certain UI elements. A simple option for enabling/disabling _qsolver_ has been already added.
 
