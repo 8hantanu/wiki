@@ -1,3 +1,0 @@
-# Distill
-
-`#draft`

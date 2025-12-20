@@ -9,32 +9,28 @@
 - iPhone 16e
 - Garmin Instinct 2 Solar -> Garmin Instinct Crossover
 - Moondrop Chu II IEM
-- Airpods Pro
 - Keyring
 
-### Daily Backpack 🎒
+### Backpack 🎒
 
-- Leather backpack -> Wool&Oak Weekender
+- Alpaka Metro Backpack 12L
 - MacBook Air M2
 - Kindle Scribe
 - Ricoh GR IIIx HDF -> Ricoh GR Vx HDF
+- Mini Tripod
+- GameSir X5 Lite Gamepad
 - Portronics Luxcell 10k mAH
 
 ## Travel 🗺
 
-### Travel Backpack 🎒
-
-- Nike Utility Power backpack -> Patagonia Black Hole Mini MLC
 - Chargers
 - Umbrella
-- Water Bottle
+- Bottle
 - Bidet
+- Passport
 
 ## Desk Setup 🖥
 
-- Malm Desk
-- Bleckberget Chair -> Långfjäll chair
-- LG Ultra-wide 29” Monitor -> Studio Display
 - HomePod mini -> HomePod Pro
 - Keychron K2 -> Keychron Q60 Max
 - Logitech Pebble Mouse -> LoFree Touch PBT Mouse (block)
@@ -57,7 +53,7 @@
 
 - 4 Levi’s trunks
 - Levi’s 511/512 jeans
-- 2 Ardeur shorts
+- 2 Shorts
 - 2 Pants
 - 1 Cargos
 
@@ -65,7 +61,7 @@
 
 - 3 ankle socks
 - 3 long socks
-- Nike Pegasus Trail 5 -> Altra Lone Peak 9
+- Nike Pegasus Trail 5 -> Nike Pegasus Trail 6
 - Birkenstock Arizona EVA -> Teva Hurricane XLT2 Sandal
 
 ## Fitness 💪
@@ -74,16 +70,15 @@
 
 - Yoga Mat
 - Yoga Blocks
-- 5kg Dumbbells
+- Dumbbells
 - Pull-up Bar
-- Jump Rope
+- Weighted Jump Rope
 
 ### Sports 🏸
 
 - Badminton Racket
 - Nivia Football Shoes -> Nike Academy Football Turf
 - Nivia Badminton Shoes
-- Nike Court Vision -> Nike Air Force 1
 
 ### Apparel 🏃
 
@@ -95,37 +90,21 @@
 ## Home 🏠
 
 - Bulb
-- Mulig Clothes Rack -> Turbo Rack
-- Knapper Standing Mirror
 - Spruttig Hangers
 - Bathrobe
 - Towel
 - Tusk toothbrush
 - Phillips Oneblade Trimmer -> USB-C Trimmer
-- FreshUp Sofa-Bed
 - Evali Throw
 - 2 Dvala Fitted Bedsheets
-- Pillows
 - Fjällmott Picnic blanket
 - Stone Mat
-- Containers
-- Plate Set
-- Bowl Set
-- Mugs
-- Knife Set
-- Chopping Board
-- Mixer
-- Stove
-- Pan
-- Kettle
-- Cooker
 
 ## Garage 🛞
 
 ### Wheels 🚴
 
 - Ninety One Defeatr 29T cycle -> Fiido Titan
-- Ola S1 Pro scooter
 
 ### Gear 🧢
 
@@ -133,20 +112,3 @@
 - 2 Bandanas
 
 **Note:** _->_ denotes an upgrade in future when current item reaches EoL.
-
-<hr>
-
-## Wishlist 🛍️
-
-- Lenscap for Ricoh GR IIIx
-- Closest Ally Belt Bag (classic)
-- Peak Design Camera Strap Cuff (sage)
-- Osprey Daylite 26+6 (black)
-- Craft&Glory Himalayan Hikers (black)
-- Mudita Bell 2 (charcoal black)
-- BambuLab A1 Mini
-- Chompi sampler
-- Dyson V8
-- La Boulle
-- LADA Niva/Suzuki Jimny
-- Porsche 911 Targa

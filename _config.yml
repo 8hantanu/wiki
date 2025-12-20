@@ -16,4 +16,4 @@ goat_counter: 8hantanu
 
 theme_config:
   appearance: "auto"
-  color_emoji: false
+  color_emoji: true

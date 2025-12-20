@@ -4,9 +4,8 @@
 
 ## Apple iPhone 12 mini
 
-## Nokia
+## Nokia 4.2
 
 ## Lava Iris Win1
 
 ## Micromax Canvas 2
-
