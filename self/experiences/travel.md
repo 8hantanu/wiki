@@ -1,28 +1,34 @@
 # travel
 
-See all [destinations](places)
+See all [places](places)
 
-- **2025-12** Thailand Tripception
-- **2025-11** Bath 
-- **2025-10** Ely 
-- **2025-08** Birthday weekend at London
-- **2025-08** Leeds Music Festival
-- **2025-07** The Ashtavinayak Circuit
-- **2025-05** Dubai and Albania
-- **2025-04** Southern Soujourn in the Nilgiris
-- **2025-03** Laos and Cambodia
-- **2025-02** Rajasthan — Beyond the Registan
-- **2025-01** Panchmarhi Diaries
+## 2026
+- [York: Of chocolates, trains and ghosts](places/york#2025-01-10)
+- Scottish Highlands
 
-- **2024-12** The Türkiye Trip
-- **2024-12** Karnataka's Rich Ruins
-- **2024-10** [The Spiti-Kinnaur Trail](places/delhi#2024-10-11)
-- **2024-07** North of North Goa
-- **2024-07** Bidar — A Fortress of Faith
-- **2024-06** Pune Monsoon Trek
-- **2024-05** A Bay-Area Business Retreat
-- **2024-03** The Capital Pursuit
+## 2025
+- The Thailand Tripception
+- Bath
+- A day out in Ely
+- Leeds Music Festival
+- The Ashtavinayak Circuit
+- Dubai and Albania
+- Southern Soujourn in the Nilgiris
+- Laos and Cambodia
+- Rajasthan — Beyond the Registan
+- Panchmarhi Diaries
 
-- **2023-12** From Calangute to Kochi
-- **2023-04** The Pondi Pastels
-- **2023-03** A Getaway at Gokarna
+## 2024
+- The Türkiye Trip
+- Karnataka's Rich Ruins
+- The Spiti-Kinnaur Trail
+- North of North Goa
+- Bidar — A Fortress of Faith
+- Pune Monsoon Trek
+- A Bay-Area Business Retreat
+- The Capital Pursuit
+
+## 2023
+- From Calangute to Kochi
+- The Pondi Pastels
+- A Getaway to Gokarna

@@ -36,8 +36,10 @@
     <li><a href="ely">Ely</a></li>
     <li><a href="leeds">Leeds</a></li>
     <li><a href="london">London</a></li>
+    <li><a href="nottingham">Nottingham</a></li>
+    <li><a href="york">York</a></li>
   </ul>
-  </details>
+</details>
 
 <details>
   <summary><strong>🇮🇳 India</strong></summary>
@@ -74,6 +76,22 @@
     <li>Pakse</li>
     <li>Vang Vieng</li>
     <li>Vientiane</li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland</strong></summary>
+  <ul>
+    <li>Culloden</li>
+    <li>Edinburgh</li>
+    <li>Fort William</li>
+    <li>Glasgow</li>
+    <li>Glencoe</li>
+    <li>Inverness</li>
+    <li>Kyle of Lochalsh</li>
+    <li>Luss</li>
+    <li>Pitlochry</li>
+    <li>Portree</li>
   </ul>
 </details>
 
