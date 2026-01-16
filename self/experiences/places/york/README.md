@@ -44,9 +44,11 @@ We head towards the city center. The sun is shining bright, its rays beautifully
 ![sunshine](sunshine.avif)
 *Over Ouse bridge*
 
-![ye_olde_starre](ye_olde_starre.avif)
-
 ![walk](walk.avif)
+*St. Helen’s Square*
+
+![ye_olde_starre](ye_olde_starre.avif)
+*Stonegate*
 
 We see the York Chocolate Story and enter. We had booked our tour the previous day, so we wander the store waiting for it to start.
 
@@ -57,6 +59,7 @@ Our tour begins, and we're greeted by Ivy, a professional chocolate connoisseur.
 It's a fascinating history lesson, I'm surprised to learn that Kit Kats and Polos originate from York. We also make white chocolate lollies (the best white chocolate I have had till date). We get so many chocolates that my pockets are overflowing with them.
 
 ![lollies](lollies.avif)
+*The York Chocolate Story*
 
 #### 1200
 
@@ -77,11 +80,12 @@ With our bellies full of soup and pudding, we start strolling through the market
 Tired from all the walking, I look up the way to the Museum Gardens to relax a bit. We walk towards it, and as we enter, we can see the ruins of the abbeys in the distance. We find a bench and relax there for a couple of minutes while looking up the bus schedule.
 
 ![garden](garden.avif)
-*St.Mary Abbey's ruins and The Yorkshire Museum*
+*The Museum Gardens*
 
 We stroll for a while before taking the next bus to our stay outside the city, a glamping site called The Little Hide.
 
 ![ruins](ruins.avif)
+*St.Mary Abbey's ruins*
 
 #### 1420
 
@@ -94,12 +98,14 @@ It's a small walk to the campsite from the stop, and we see a small fence with l
 We reach the campsite and find our pod. The sun is setting, and we can see it from our small window. We lay down to rest for some time.
 
 ![sunset](sunset.avif)
+*From the Kite pod*
 
 #### 1630
 
 I wake up and decide to do a quick 5K before we head out again. I lap around the caravan park nearby, and I can see the stars so clearly that evening. It's a beautiful place to run.
 
 ![starry](starry.avif)
+*Willow Caravan Park*
 
 #### 1800
 
@@ -182,13 +188,14 @@ After sipping our tea, Mixi decides to check out some shops on the street, and I
 When I'm back, I see Mixi gobbling a cheesecake she couldn't resist from a cheesecake shop on the street.
 
 ![cheesecake](cheesecake.avif)
-*read fine print*
+*read fine print[^print]*
 
 #### 1300
 
 We head to York Minster. We go in and see the grand hall, admiring some of the stained glass windows. We decide not to pay to view the entirety of the building as Mixi isn't interested, and I feel it would be a similar experience to [Ely](../ely). We decide to spend more time at the Railway Museum instead.
 
 ![york_minster](york_minster.avif)
+*York Minster*
 
 #### 1400
 
@@ -199,11 +206,12 @@ We enter the Station Hall, and again, like the medieval streets, it feels as if 
 ![signs](signs.avif)
 
 ![station_then](station_then.avif)
+*The Station Hall*
 
 There are so many things from that period like the ticket booths, weighing machines, candy dispensers, signs, advertisements, notice boards, book stores, luggage trolleys and much more.
 
 ![whsmith_then](whsmith_then.avif)
-*WH Smith then*
+*W.H.Smith then*
 
 ![board](board.avif)
 *A fine piece of equipment*
@@ -252,10 +260,12 @@ We're running out of time as the museum is closing, so we can't do the *Flying S
 We head back into the city center for some food.
 
 ![ye_olde_starre_night](ye_olde_starre_night.avif)
+*Stonegate*
 
 The streets are glistening, and although the day has been gloomy, the night redeems it. Almost everything is closed, or pubs are just serving drinks. We stroll around the pretty reflective streets, looking for something to eat.
 
 ![glisten](glisten.avif)
+*Low Petergate*
 
 As we wander, Mixi comes across a nice little Japanese place called *Peko Peko* (which aptly describes our hunger). Mixi decides to have dinner here because it's cat-themed, so we sit down to have some prawn and crab roe nigiri, tonkotsu ramen, and tempura shrimp curry omurice paired with Moscato (which goes quite well, actually). The shrimp omurice is one of the best, and Mixi finds her new favorite, the Moscato.
 
@@ -277,3 +287,6 @@ We head out towards the train station to catch our trains. We pass by York Minst
 And finally cross the Ouse bridge, where I take one of my favorite pictures from the trip.
 
 ![shadows](shadows.avif)
+*Queen's Staith*
+
+[^print]: *"I'm a member of weight watchers. I wait until no one is watching and I fill my face with chocolate!"*
