@@ -4,52 +4,57 @@
 
 ### 2024-10-12
 
-- arrived from [Shimla](../shimla#2024-10-12) 
-- stayed at Eskape Camps at Rakchham a few km before Chitkul
-- sat around campfire and heard war stories
-- had a scrumptious dinner of healthy soup and homely made food
+We arrive from [Shimla](../shimla#2024-10-12) and stay at Eskape Camps at Rakchham, a few kilometers before Chitkul. We sit around the campfire and hear war stories. We have a scrumptious dinner of healthy soup and homely made food.
 
-![First starry night](night.avif)
+![night](night.avif)
+*First starry night*
 
 ### 2024-10-13
 
-An early morning walk with PS Negi
+I go for an early morning walk with PS Negi.
 
-![Walk the walk](walk.avif)
+![walk](walk.avif)
+*Walk the walk*
 
-He talked about many things, stories, plants, stuff etc
+He talks about many things about his stories, plants, life. We pass an old cottage along the way.
 
-![An old cottage](hut.avif)
+![hut](hut.avif)
+*An old cottage*
 
-Saw the first light hitting the mountain top.
+I see the first light hitting the mountain top.
 
-![First Light](light.avif)
+![light](light.avif)
+*First Light*
 
-Fluffy mountain doggos around.
+There are fluffy mountain dogs around.
 
-![Doggo](doggo.avif)
+![doggo](doggo.avif)
+*Doggo*
 
-explored around the camp
+I explore around the camp and find a glacial stream.
 
-![The glacial stream](stream.avif)
+![stream](stream.avif)
+*The glacial stream*
 
-- had parathas, toasts, fruits, 
-- headed towards chitkul termed "india's last village" for the day trip
-- the highlights
-  - the baspa river bridge
-  ![Baspa river](baspa.avif)
-  - the indo-tibet border
-  - momos from a small village shop
-- back to camp for a late-afternoon siesta
-  ![Camp site](camp.avif)
-- had some fun banter with the group in the tent late into the night
+We have parathas, toast, and fruits for breakfast. Then we head towards Chitkul, termed "India's last village," for a day trip. The highlights are the Baspa River bridge, the Indo-Tibet border, and momos from a small village shop.
+
+![baspa](baspa.avif)
+*Baspa river*
+
+We return to camp for a late-afternoon siesta.
+
+![camp](camp.avif)
+*Camp site*
+
+We have some fun banter with the group in the tent late into the night.
 
 ### 2024-10-14
 
-- left for Spiti in the morning
-- had a sore throat
-- saw the khab sangam on the way the confluence of spiti and sutlej rivers
-  - had maggi and siddu (a traditional himachali bun) at the sangam
-  ![Sangam Bridge](sangam.avif)
-- amazing roads and views along the way
-- made a pit stop at [Nako](../nako#2024-10-14)
+We leave for Spiti in the morning. I have a sore throat.
+
+We see the Khab Sangam on the way—the confluence of the Spiti and Sutlej rivers. We have maggi and siddu (a traditional Himachali bun) at the sangam.
+
+![sangam](sangam.avif)
+*Sangam Bridge*
+
+The roads and views along the way are amazing. We make a pit stop at [Nako](../nako#2024-10-14).

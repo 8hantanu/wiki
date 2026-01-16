@@ -4,36 +4,42 @@
 
 ### 2024-10-15
 
-coming from [dhankar](../dhankar#2024-10-15)
+We come from [dhankar](../dhankar#2024-10-15). At 1930, we reach Zostel Kaza, our stay for the next three nights. I have a lemon honey ginger tea since my fever and throat are getting worse.
 
-- At 1930 we reached Zostel Kaza out stay for the next three nights
-  - had a lemon honey ginger tea since my fever and throat was getting worse
-- The sky was pretty at night
-  ![Night Sky](night.avif)
+The sky is pretty at night.
 
-## 2024-10-16
+![night](night.avif)
+*Night Sky*
 
-- I decided to stay back while the group went on to visit the hikkim post office and the Langza buddha statue
-- I soaked in the sun all day, with the street dog by my side to which I had fed earlier my breakfast toasts that I couldnt finish 
-- Also had load of the lemon honey ginger tea and long siestas
+### 2024-10-16
 
-## 2024-10-17
+I decide to stay back while the group goes to visit the Hikkim post office and the Langza Buddha statue. 
 
-- I started feeling a little better but still not completely recovered, I decided to join the group
-- We headed for [Chicham](../chicham#2024-10-17), our guide Gyallson's village
+I soak in the sun all day, with the street dog by my side to which I had fed my breakfast toast that I couldn't finish earlier.
+
+I also have loads of lemon honey ginger tea and long siestas.
+
+### 2024-10-17
+
+I start feeling a little better but am still not completely recovered. I decide to join the group. We head for [chicham](../chicham#2024-10-17), our guide Gyallson's village.
 
 ---
 
-- On our way back we went to the Kaza market
-  ![Kaza market](market.avif)
-  - bought a set of little porcelain cups and a Tibetan singing bowl
-  - had our dinner at Himalayan Cafe, had tingmo with shapta and hot chocolate
-- Surprisingly the kaza market was quite near to the Zostel, came back and slept
+On our way back, we go to the Kaza market.
 
-## 2024-10-18
+![market](market.avif)
+*Kaza market*
 
-- A new day and I was feeling the best I had felt since I fell sick
-- By 10:30 I had my breakfast sandwiches and we headed for Kalpa
-- In between when the van stopped for a break, I just started towards Kalpa, and at one point I looked around there was no sight of van, any other vehicles, it was just me and the mountains, it was serene, peaceful.
-- At around 2 we stopped for lunch and I had some momos 
-- in the late afternoon we were in [Kalpa](../kalpa#2024-10-18)
+I buy a set of little porcelain cups and a Tibetan singing bowl. We have our dinner at Himalayan Cafe—tingmo with shapta and hot chocolate.
+
+Surprisingly, the Kaza market is quite near the Zostel. I come back and sleep.
+
+### 2024-10-18
+
+A new day, and I'm feeling the best I've felt since I fell sick. By 10:30, I've had my breakfast sandwiches, and we head for Kalpa.
+
+When the van stops for a break, I just start walking towards Kalpa. At one point, I look around—there's no sight of the van or any other vehicles. It's just me and the mountains. It's serene, peaceful.
+
+At around 1400, we stop for lunch, and I have some momos.
+
+In the late afternoon, we're in [Kalpa](../kalpa#2024-10-18).

@@ -4,33 +4,59 @@
 
 ### 2024-10-17
 
-coming from [kaza](../kaza#2024-10-17)
+We come from [kaza](../kaza#2024-10-17) and head to Chicham. The rivers wind like a caduceus.
 
-- We headed to chicham
-  ![The rivers be like...](caduceus.avif)
-- On the way there was the highest bridge in India called the Chicham bridge
-  ![Highest Bridge](chicham_bridge.avif)
-  - On top of it
-  ![On top](above.avif)
-  - The roads around chicham were beautiful
-  ![Finding waldo (chicham bridge edition)](roads.avif)
-- We reached Gyalli's village
-  - I noticed most homes there have a cozy dining layout where everyone is seated around the fireplace
-  ![Living area](cozy.avif)
-  - Gyalli served us some hot tea, a relief to my sore throat
-  ![Utilities](decor.avif)
-  - they had also had a pooja room which was very well decorated and sacred
-  ![The shrine](shrine.avif)
-- Then we headed to Key monastery the largest in the Spiti valley
-  ![Yellow](autumn.avif)
-  - It was a small climb but with my health state I dreaded that climb
-  ![Entry](monastery.avif)
-  - After reaching the top I relaxed in one of the meditation rooms
-  - There was also a tea room adjacent to the meditation room where I had some herbal tea served by the monks there
-  - From a gift shop there I bought some solid fragrances along with a postcard
-  - Behind the monastery is a beautiful "three buddha statue" 
-  ![Three Buddhas](buddhas.avif)
-  - and just above it a beautiful view point(again a dreaded climb) which was on the postcard
-  ![The Postcard](postcard.avif)
+![caduceus](caduceus.avif)
+*The rivers be like...*
 
-back to [kaza](../kaza#2024-10-17)
+On the way, there's the highest bridge in India, called the Chicham bridge.
+
+![chicham_bridge](chicham_bridge.avif)
+*Highest Bridge*
+
+![above](above.avif)
+*On top*
+
+The roads around Chicham are beautiful.
+
+![roads](roads.avif)
+*Finding Waldo (Chicham bridge edition)*
+
+We reach Gyalli's village. I notice most homes there have a cozy dining layout where everyone is seated around the fireplace.
+
+![cozy](cozy.avif)
+*Living area*
+
+Gyalli serves us some hot tea—a relief to my sore throat.
+
+![decor](decor.avif)
+*Utilities*
+
+They also have a pooja room that is very well decorated and sacred.
+
+![shrine](shrine.avif)
+*The shrine*
+
+Then we head to Key monastery, the largest in the Spiti valley. The autumn colors are stunning.
+
+![autumn](autumn.avif)
+*Yellow*
+
+It's a small climb, but with my health state, I dread it.
+
+![monastery](monastery.avif)
+*Entry*
+
+After reaching the top, I relax in one of the meditation rooms. There's also a tea room adjacent to the meditation room where I have some herbal tea served by the monks there. From a gift shop, I buy some solid fragrances along with a postcard.
+
+Behind the monastery is a beautiful "three Buddha statue."
+
+![buddhas](buddhas.avif)
+*Three Buddhas*
+
+Just above it is a beautiful viewpoint (again, a dreaded climb) that's featured on the postcard.
+
+![postcard](postcard.avif)
+*The Postcard*
+
+We head back to [kaza](../kaza#2024-10-17).

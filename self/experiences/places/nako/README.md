@@ -4,22 +4,41 @@
 
 ### 2024-10-14
 
-came from [Chitkul](../chitkul#2024-10-14)
-- made a pitstop to see the Nako lake in the Hangreng valley
-    - the elderly were doing their bhajan
-    ![Meditations](meditations.avif)
-    - the way to nako lake was through the nako village
-    ![The village](village.avif)
-    - the nako lake is pristine
-    ![Nako Lake](lake.avif)
-    - cant even make out if there is a lake
-    ![Catch me if you can](mirror.avif)
-    - made a friend with a cow and did some nice bird watching
-    ![Little Cow Big Boop](boop.avif)
-    - their bhajan ended and were heading to the villages
-    - along the way the elderly greeted with Juley (means hello in their native tongue of )
-    ![WIP](wip.avif)
-    - there was beautiful nako monastery overseeing the valley views
-    ![Monastery](monastery.avif)
+We come from [Chitkul](../chitkul#2024-10-14) and make a pit stop to see the Nako lake in the Hangreng valley.
 
-next to [Tabo](../tabo#2024-10-14)
+The elderly are doing their bhajan.
+
+![meditations](meditations.avif)
+*Meditations*
+
+The way to Nako lake is through the Nako village.
+
+![village](village.avif)
+*The village*
+
+The Nako lake is pristine.
+
+![lake](lake.avif)
+*Nako Lake*
+
+I can't even make out if there's a lake—the reflection is so perfect.
+
+![mirror](mirror.avif)
+*Catch me if you can*
+
+I make a friend with a cow and do some nice bird watching.
+
+![boop](boop.avif)
+*Little Cow Big Boop*
+
+Their bhajan ends, and they head back to the villages. Along the way, the elderly greet us with "Juley" (which means hello in their native tongue).
+
+![wip](wip.avif)
+*WIP*
+
+There's a beautiful Nako monastery overseeing the valley views.
+
+![monastery](monastery.avif)
+*Monastery*
+
+Next, we head to [Tabo](../tabo#2024-10-14).

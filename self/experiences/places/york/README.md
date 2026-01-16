@@ -1,6 +1,6 @@
-# York
+# york
 
-## Of chocolates, trains and ghosts
+## of chocolates, trains and ghosts
 
 ### 2026-01-10
 
@@ -9,28 +9,32 @@
 I board the train to Stevenage, then catch the 0755 to York. I'm so sleepy, but as the sun starts rising, I don't want to miss the beautiful views from the train window. I force myself to stay awake.
 
 ![window](window.avif)
+*The British Sugar factory, Newark*
 
 #### 0930
 
 I arrive at York and meet Mixi at the station.
 
 ![station](station.avif)
+*York Station*
 
 ![whsmith_today](whsmith_today.avif)
+*W.H.Smith today*
 
 As we step out, the Minster's tower greets us immediately, rising above the city.
 
 ![york](york.avif)
+*Station Road*
 
 We head over the Ouse bridge, and I'm taking some photos when Mixi suddenly perks up, she hears one of her favorite songs, "I like it when it rains".
 
 ![ouse](ouse.avif)
-*The river Ouse*
+*The Ouse River*
 
 She follows the tune, and we find a nice café called the Perky Peacock in a 14th century tower.
 
 ![peacock](peacock.avif)
-*The Barker tower*
+*The Barker Tower*
 
 As I sip my mocha, I'm grateful we found our [blue table](/wiki/over/dictionary#blue-table) so soon.
 
@@ -70,7 +74,14 @@ We're famished (even though after having so many chocolates, I'm surprised I sti
 
 As I first put my knife to the pudding, I realize its texture is so intricate, layers of crispiness on the outside, with my knife just slipping through the soft insides. Paired with the onion gravy, it hints at the taste of onion rings. This is the best dish I've ever had in the UK (or maybe I'm just really hungry, as it's my first meal of the day). 
 
-With our bellies full of soup and pudding, we start strolling through the market and nearby streets. The York streets are getting busy, and we see many cute cat stores. We discover a cat shop giving out maps of a cat trail (I save it for my next visit to York), and Mixi gets some itsy bitsy cat goodies. We also stop at Boots and Waterstones, where we have to stop each other from splurging mindlessly.
+#### 1245
+
+With our bellies full of soup and pudding, we start strolling through the market and nearby streets. The York streets are getting busy, and we see many cute cat stores. We discover a cat shop giving out maps of a cat trail (I save it for my next visit to York), and Mixi gets some itsy bitsy cat goodies.
+
+![cats](cats.avif)
+*York Lucky Cat Shop*
+
+We also make stops at Boots and Waterstones, where we have to stop each other from splurging mindlessly.
 
 ![waterstones](waterstones.avif)
 *This book has really pretty illustrations.*
@@ -91,9 +102,10 @@ We stroll for a while before taking the next bus to our stay outside the city, a
 
 We take the bus and arrive at Wigginton. 
 
-It's a small walk to the campsite from the stop, and we see a small fence with little goats in it. A big goat comes to us and welcomes us with such a charmingly cute smile that at one point, Mixi comes to the conclusion that, for this moment at least, goats are cuter than cats. There are also some horses and ducks on the opposite side.
+It's a small walk to the campsite from the stop, and we see a small fence with little goats in it. A big goat comes to us and welcomes us with such a cute smile that at one point, Mixi comes to the conclusion that, for this moment at least, goats are cuter than cats. There are also some horses and ducks on the opposite side.
 
 ![the_goat](the_goat.avif)
+*This distinguished gentleman was charming us with his smile*
 
 We reach the campsite and find our pod. The sun is setting, and we can see it from our small window. We lay down to rest for some time.
 
@@ -168,12 +180,14 @@ We have the Shambles on the plan today, so we walk to Shambles Street.
 The street looks like a busy medieval thoroughfare, and with the rain and people all covered in their dark hooded raincoats, it actually feels more so. (not me though, I stick out like a sore thumb)
 
 ![orange](orange.avif)
+*The imposter*
 
 #### 1215
 
 We couldn't get any coffee from York Roast Co, so we decide to hit the Earl Grey Tea Room in the Shambles.
 
 ![earl_grey](earl_greys.avif)
+*The Earl Grey Tea Room*
 
 Mixi has her first English tea and scone; at first disgusted with the idea of drinking tea, she slurps the whole pot of Earl Grey in the next few minutes, completely changing her opinion.
 
@@ -204,6 +218,7 @@ We walk to the National Railway Museum. It's a short walk, made longer because t
 We enter the Station Hall, and again, like the medieval streets, it feels as if we've stepped into a train station from the 1900s.
 
 ![signs](signs.avif)
+*Signs and Boards*
 
 ![station_then](station_then.avif)
 *The Station Hall*
@@ -219,10 +234,10 @@ There are so many things from that period like the ticket booths, weighing machi
 One thing I realize while looking at the cockpit of the steam locomotives is that the steampunk era actually existed, and it existed during this period.
 
 ![punk_era](punk_era.avif)
-
-The controls are so beautiful, intricate, and so steampunk-coded.
+*choo choo*
 
 ![steam_punk](steam_punk.avif)
+*The controls are so beautiful, intricate, and so steampunk-coded.*
 
 We spend more than an hour here. Also, I feel the first/business class of today is nothing compared to the coaches of trains from that era. They just exude detail and luxury.
 

@@ -4,29 +4,35 @@
 
 ### 2024-10-12
 
-- arrived from [Delhi](../delhi#2024-10-11) at dawn
+I arrive from [Delhi](../delhi#2024-10-11) at dawn.
 
-![Shimla at dawn](dawn.avif)
+![dawn](dawn.avif)
+*Shimla at dawn*
 
-- met the gang here with whom I would spend the rest of this trip
+I meet the gang here, the group I'll spend the rest of this trip with.
 
-![Gang at the Gate](kinnaur_gate.avif)
+![kinnaur_gate](kinnaur_gate.avif)
+*Gang at the Gate*
 
-- headed to [chitkul](../chitkul#2024-10-12)
+We head to [chitkul](../chitkul#2024-10-12). The valley views on the way are stunning.
 
-![Valley views on the way to Chitkul](valleys.avif)
+![valleys](valleys.avif)
+*Valley views on the way to Chitkul*
 
 ---
 
 ### 2024-10-19
 
-- Reached back Shimla at 18:00 from [Kalpa](../kinnaur#2024-10-19)
+We reach back to Shimla at 1800 from [Kalpa](../kinnaur#2024-10-19).
 
-Saw many rocks falling/blocking the roa throughout the trip, but this one was the biggest.
-![...there is a way](blocks.avif)
+I see many rocks falling and blocking the road throughout the trip, but this one is the biggest.
 
-- Bid farewell to the group
+![blocks](blocks.avif)
+*...there is a way*
 
-![The Dusk Bids Adieu](dusk.avif)
+I bid farewell to the group.
 
-- Boarded the bus to [Delhi](../delhi#2024-10-20) (another long tiring journey) at 21:00
+![dusk](dusk.avif)
+*The Dusk Bids Adieu*
+
+I board the bus to [Delhi](../delhi#2024-10-20) (another long, tiring journey) at 2100.

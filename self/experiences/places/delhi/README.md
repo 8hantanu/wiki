@@ -6,32 +6,34 @@ A place which has always been grounds for multiple layovers.
 
 ### 2024-10-11
 
-- a flight to delhi from [hyderabad](../hyderabad)
+I take a flight to Delhi from [Hyderabad](../hyderabad). It's a pleasant day to fly.
 
 It was a pleasant day to take this flight.
 
-![The Runway](runway.avif)
+![runway](runway.avif)
+*The Runway*
 
-During mid-flight I saw this weird cloud.
+During mid-flight, I see this weird cloud formation.
 
-![Weird cloud](weird.avif)
+![weird](weird.avif)
+*Weird cloud*
 
-The sky was flamboyant mid-flight
+The sky is flamboyant mid-flight.
 
-![Flamboyant Sky](sky.avif)
+![sky](sky.avif)
+*Flamboyant Sky*
 
-Took the tube to the Kashmere Gate bus station
+I take the tube to the Kashmere Gate bus station.
 
-![Tube Boy?](tube.avif)
+![tube](tube.avif)
+*Tube Boy?*
 
-Then a bus to [Shimla](../shimla#2024-10-12)
+Then I board a bus to [Shimla](../shimla#2024-10-12).
 
 ---
 
 ### 2024-10-20
 
-- returned from [Shimla](../shimla#2024-10-19)
-- shared a cab from Kashmere gate to the Delhi Airport
-- back to [Hyderabad](../hyderabad)
+I return from [Shimla](../shimla#2024-10-19). I share a cab from Kashmere Gate to the Delhi Airport.
 
-`#draft`
+Back to [Hyderabad](../hyderabad).
