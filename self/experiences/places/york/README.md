@@ -25,20 +25,24 @@ As we step out, the Minster's tower greets us immediately, rising above the city
 We head over the Ouse bridge, and I'm taking some photos when Mixi suddenly perks up, she hears one of her favorite songs, "I like it when it rains".
 
 ![ouse](ouse.avif)
+*The river Ouse*
 
 She follows the tune, and we find a nice café called the Perky Peacock in a 14th century tower.
 
 ![peacock](peacock.avif)
+*The Barker tower*
 
 As I sip my mocha, I'm grateful we found our [blue table](/wiki/over/dictionary#blue-table) so soon.
 
 ![blue table](blue_table.avif)
+*Inside the Perky Peacock*
 
 #### 1010
 
 We head towards the city center. The sun is shining bright, its rays beautifully separating the highlights and shadows, making every corner present itself as an opportunity to click a beautiful picture.
 
 ![sunshine](sunshine.avif)
+*Over Ouse bridge*
 
 ![ye_olde_starre](ye_olde_starre.avif)
 
@@ -59,6 +63,7 @@ It's a fascinating history lesson, I'm surprised to learn that Kit Kats and Polo
 We're famished (even though after having so many chocolates, I'm surprised I still feel this way). I see a huge placard advertising Yorkshire pudding. It catches my eye, and I enter Gert and Henry's. Mixi orders the spicy carrot soup (though we can't figure out which part is supposed to be spicy), and I get a Yorkshire pudding with onion gravy. 
 
 ![gert_and_henry](gert_and_henry.avif)
+*Inside Gert and Henry's*
 
 As I first put my knife to the pudding, I realize its texture is so intricate, layers of crispiness on the outside, with my knife just slipping through the soft insides. Paired with the onion gravy, it hints at the taste of onion rings. This is the best dish I've ever had in the UK (or maybe I'm just really hungry, as it's my first meal of the day). 
 
@@ -72,6 +77,7 @@ With our bellies full of soup and pudding, we start strolling through the market
 Tired from all the walking, I look up the way to the Museum Gardens to relax a bit. We walk towards it, and as we enter, we can see the ruins of the abbeys in the distance. We find a bench and relax there for a couple of minutes while looking up the bus schedule.
 
 ![garden](garden.avif)
+*St.Mary Abbey's ruins and The Yorkshire Museum*
 
 We stroll for a while before taking the next bus to our stay outside the city, a glamping site called The Little Hide.
 
@@ -126,6 +132,7 @@ No buses back to our place (unfortunately, we can't use our dayrider pass). We b
 I wake up in a nice warm room, looking outside at the landscape now all covered in snow from the night before. It's pretty.
 
 ![snow_pod](snow_pod.avif)
+*The pods at The Little Hide*
 
 I stroll around the campsite and the trailer park in my pajamas, soaking in the views, until the cold starts to hit me. After an hour, it starts raining, and the forecast for the rest of the day is more rain, a gloomy contrast to yesterday's nice sunny weather.
 
@@ -136,6 +143,7 @@ We lazily get ready, check out, and take a cab into the city.
 We decide to get the famous York Pud Wrap from York Roast Co for brunch.
 
 ![york_roast_co](york_roast_co.avif)
+*The York Roast Co at Low Petergate*
 
 I opt for the spicy option with the horseradish sauce in my pud wrap. It hits me in my throat the same way I can't remember a certain spice does. I realise it exactly hurts like wasabi but with an aftertaste of radish.
 
@@ -149,6 +157,7 @@ I sigh and scoff.
 We have the Shambles on the plan today, so we walk to Shambles Street.
 
 ![shambles](shambles.avif)
+*Shambles Street*
 
 The street looks like a busy medieval thoroughfare, and with the rain and people all covered in their dark hooded raincoats, it actually feels more so. (not me though, I stick out like a sore thumb)
 
@@ -163,14 +172,17 @@ We couldn't get any coffee from York Roast Co, so we decide to hit the Earl Grey
 Mixi has her first English tea and scone; at first disgusted with the idea of drinking tea, she slurps the whole pot of Earl Grey in the next few minutes, completely changing her opinion.
 
 ![tea_room](tea_room.avif)
+*Inside the Earl Grey Tea Room*
 
 After sipping our tea, Mixi decides to check out some shops on the street, and I go to take some photos.
 
 ![fancy](fancy.avif)
+*The York Ghost Merchant shop*
 
 When I'm back, I see Mixi gobbling a cheesecake she couldn't resist from a cheesecake shop on the street.
 
 ![cheesecake](cheesecake.avif)
+*read fine print*
 
 #### 1300
 
@@ -194,6 +206,7 @@ There are so many things from that period like the ticket booths, weighing machi
 *WH Smith then*
 
 ![board](board.avif)
+*A fine piece of equipment*
 
 One thing I realize while looking at the cockpit of the steam locomotives is that the steampunk era actually existed, and it existed during this period.
 
@@ -213,8 +226,10 @@ We spend more than an hour here. Also, I feel the first/business class of today 
 We move to the Great Hall, filled with all the greatest engines. I like the layout of the Station Hall more, this feels more chaotic, as if some giant dropped their bag of toy engines.
 
 ![kf7](kf7.avif)
+*The grand KF7*
 
 ![mallard](mallard.avif)
+*The majestic Mallard*
 
 Here we see some of the legendary and majestic train engines like the KF7, Flying Scotsman, Mallard, Shinkansen, Evening Star, and so many more.
 
@@ -230,6 +245,7 @@ Here we see some of the legendary and majestic train engines like the KF7, Flyin
 We're running out of time as the museum is closing, so we can't do the *Flying Scotsman VR experience* sadly. We quickly explore the North Shed warehouse, which contains even more railway artifacts.
 
 ![shed](shed.avif)
+*The North Shed*
 
 #### 1725
 
@@ -244,16 +260,19 @@ The streets are glistening, and although the day has been gloomy, the night rede
 As we wander, Mixi comes across a nice little Japanese place called *Peko Peko* (which aptly describes our hunger). Mixi decides to have dinner here because it's cat-themed, so we sit down to have some prawn and crab roe nigiri, tonkotsu ramen, and tempura shrimp curry omurice paired with Moscato (which goes quite well, actually). The shrimp omurice is one of the best, and Mixi finds her new favorite, the Moscato.
 
 ![peko-peko](peko_peko.avif)
+*Inside Peko Peko*
 
 We sit there watching Demon Slayer on the TV to pass the time.
 
 ![posters](posters.avif)
+*Pretty posters in Peko Peko*
 
 #### 1900
 
 We head out towards the train station to catch our trains. We pass by York Minster one more time.
 
 ![stained-glass](stained_glass.avif)
+*The stained glass of York Minster*
 
 And finally cross the Ouse bridge, where I take one of my favorite pictures from the trip.
 
