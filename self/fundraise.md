@@ -4,8 +4,6 @@ Cancer has touched the lives of many people I love. Like many of you, I've watch
 
 Globally, approximately 322,000 people are diagnosed with brain and central nervous system cancers each year; that's nearly 900 people every single day. Every pound donated helps fund groundbreaking research into better ways to prevent, detect and treat brain cancer, supports patients and their families, and brings us closer to a world where this devastating disease can be beaten. This cause is deeply personal to me, and I'm grateful for any support you can offer.
 
-<a href="https://fundraise.cancerresearchuk.org/page/8hantanu"><button>Donate to "Shantanu's Run to Raise"</button></a>
-
 ---
 
 # Ongoing
@@ -28,9 +26,17 @@ The Brighton 10k offers a fast, flat course along the stunning Brighton seafront
 
 ---
 
+## How to Donate
+
+Use the below button or the QR code at the bottom of this page to donate:
+
+<a href="https://fundraise.cancerresearchuk.org/page/8hantanu"><button>Donate to "Shantanu's Run to Raise"</button></a>
+
 Every contribution, no matter the size, makes a real difference.
 
 Thank you for being part of this journey with me. Let's make every mile run and donation count for something truly meaningful.
 
 Best,
 Shantanu.
+
+<img src="fundraise.png" alt="Donate QR Code">
