@@ -36,6 +36,7 @@
     <li><a href="ely">Ely</a></li>
     <li><a href="leeds">Leeds</a></li>
     <li><a href="london">London</a></li>
+    <li><a href="norwich">Norwich</a></li>
     <li><a href="nottingham">Nottingham</a></li>
     <li><a href="york">York</a></li>
   </ul>

@@ -18,7 +18,7 @@
 - Kindle Scribe
 - Ricoh GR IIIx HDF -> Ricoh GR Vx HDF
 - Mini Tripod
-- GameSir X5 Lite Gamepad
+- GameSir X5 Lite Controller
 - Portronics Luxcell 10k mAH
 
 ## travel
@@ -31,7 +31,7 @@
 
 ## desk
 
-- HomePod mini -> HomePod Pro
+- HomePod mini -> Beats Pill
 - Keychron K2 -> Keychron Q60 Max
 - Logitech Pebble Mouse -> LoFree Touch PBT Mouse (block)
 - Casiotone CT-S100

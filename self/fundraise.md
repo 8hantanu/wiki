@@ -1,4 +1,4 @@
-# Fundraise
+# Fundraising
 
 Cancer has touched the lives of many people I love. Like many of you, I've watched loved ones face this disease with incredible courage, and I've seen firsthand the difference that research and support can make. That's why I'm raising money for **[Cancer Research UK](https://www.cancerresearchuk.org/)**, specifically for [brain cancer research](https://www.cancerresearchuk.org/our-research/our-research-by-cancer-type/our-research-into-brain-and-nerve-cell-tumours).
 
@@ -6,9 +6,7 @@ Globally, approximately 322,000 people are diagnosed with brain and central nerv
 
 ---
 
-# Ongoing
-
-## Running
+## Upcoming Events
 
 ### [Cambridge Half Marathon](https://cambridgehalfmarathon.com)
 **8th March 2026**
@@ -32,6 +30,7 @@ Use the below button or the QR code at the bottom of this page to donate:
 
 <a href="https://fundraise.cancerresearchuk.org/page/8hantanu"><button>Donate to "Shantanu's Run to Raise"</button></a>
 
+<br>
 Every contribution, no matter the size, makes a real difference.
 
 Thank you for being part of this journey with me. Let's make every mile run and donation count for something truly meaningful.
@@ -39,4 +38,4 @@ Thank you for being part of this journey with me. Let's make every mile run and 
 Best,
 Shantanu.
 
-<img src="fundraise.png" alt="Donate QR Code">
+<img class="ioda" src="fundraise.png" alt="Donate QR Code">
