@@ -81,6 +81,18 @@
 </details>
 
 <details>
+  <summary><strong>🇬🇧 Northern Ireland</strong></summary>
+  <ul>
+    <li>Belfast</li>
+    <li>Carrickfergus</li>
+    <li>Larne</li>
+    <li>Ballycastle</li>
+    <li>Bushmills</li>
+    <li>Ballymoney</li>
+  </ul>
+</details>
+
+<details>
   <summary><strong>🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland</strong></summary>
   <ul>
     <li>Culloden</li>
