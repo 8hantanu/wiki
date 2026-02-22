@@ -148,3 +148,16 @@
     <li>San Jose</li>
   </ul>
 </details>
+
+<details>
+  <summary><strong>🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales</strong></summary>
+  <ul>
+    <li>Cardiff</li>
+    <li>Swansea</li>
+    <li>Llandeilo</li>
+    <li>Llandovery</li>
+    <li>Cynghordy</li>
+    <li>Llanwrtyd Wells</li>
+    <li>Llandrindod Wells</li>
+  </ul>
+</details>
