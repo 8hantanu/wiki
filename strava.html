@@ -1,0 +1,171 @@
+<!-- Add this CSS to your stylesheet or in a <style> tag -->
+<style>
+.running-counter {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border-radius: 12px;
+  padding: 30px;
+  color: white;
+  text-align: center;
+  margin: 30px 0;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.running-counter h3 {
+  margin: 0 0 20px 0;
+  font-size: 1.5em;
+  font-weight: 600;
+}
+
+.km-display {
+  font-size: 3.5em;
+  font-weight: bold;
+  margin: 10px 0;
+  line-height: 1;
+}
+
+.km-display .unit {
+  font-size: 0.4em;
+  opacity: 0.9;
+  margin-left: 5px;
+}
+
+.progress-bar-container {
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 10px;
+  height: 20px;
+  margin: 20px 0;
+  overflow: hidden;
+}
+
+.progress-bar {
+  background: rgba(255, 255, 255, 0.9);
+  height: 100%;
+  border-radius: 10px;
+  transition: width 1s ease-out;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding-right: 10px;
+  font-size: 0.8em;
+  font-weight: bold;
+  color: #667eea;
+}
+
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  gap: 15px;
+  margin-top: 20px;
+}
+
+.stat-item {
+  background: rgba(255, 255, 255, 0.1);
+  padding: 15px;
+  border-radius: 8px;
+}
+
+.stat-value {
+  font-size: 1.8em;
+  font-weight: bold;
+  display: block;
+}
+
+.stat-label {
+  font-size: 0.9em;
+  opacity: 0.9;
+  margin-top: 5px;
+}
+
+.last-updated {
+  font-size: 0.85em;
+  opacity: 0.8;
+  margin-top: 15px;
+}
+
+.loading {
+  opacity: 0.6;
+}
+</style>
+
+<!-- Add this HTML where you want the counter to appear on your fundraising page -->
+<div class="running-counter" id="running-counter">
+  <h3>🏃‍♂️ 2026 Running Challenge Progress</h3>
+
+  <div class="km-display loading" id="km-display">
+    <span id="km-value">-</span><span class="unit">km</span>
+  </div>
+
+  <div class="progress-bar-container">
+    <div class="progress-bar" id="progress-bar" style="width: 0%">
+      <span id="progress-text"></span>
+    </div>
+  </div>
+
+  <div class="stats-grid">
+    <div class="stat-item">
+      <span class="stat-value" id="run-count">-</span>
+      <div class="stat-label">Total Runs</div>
+    </div>
+    <div class="stat-item">
+      <span class="stat-value" id="goal-km">1000</span>
+      <div class="stat-label">Goal (km)</div>
+    </div>
+    <div class="stat-item">
+      <span class="stat-value" id="remaining-km">-</span>
+      <div class="stat-label">Remaining</div>
+    </div>
+  </div>
+
+  <div class="last-updated">
+    Last updated: <span id="last-updated">Loading...</span>
+  </div>
+</div>
+
+<!-- Add this JavaScript at the end of your page, before </body> -->
+<script>
+async function updateRunningStats() {
+  try {
+    const response = await fetch('running-stats.json');
+    const data = await response.json();
+
+    // Update main counter
+    const kmDisplay = document.getElementById('km-display');
+    const kmValue = document.getElementById('km-value');
+    kmValue.textContent = data.total_km.toLocaleString('en-GB', {
+      minimumFractionDigits: 1,
+      maximumFractionDigits: 1
+    });
+    kmDisplay.classList.remove('loading');
+
+    // Update progress bar
+    const progressPercent = Math.min((data.total_km / data.goal_km) * 100, 100);
+    const progressBar = document.getElementById('progress-bar');
+    const progressText = document.getElementById('progress-text');
+
+    setTimeout(() => {
+      progressBar.style.width = progressPercent + '%';
+      if (progressPercent > 15) {
+        progressText.textContent = progressPercent.toFixed(1) + '%';
+      }
+    }, 100);
+
+    // Update stats
+    document.getElementById('run-count').textContent = data.run_count;
+    document.getElementById('goal-km').textContent = data.goal_km;
+
+    const remaining = Math.max(data.goal_km - data.total_km, 0);
+    document.getElementById('remaining-km').textContent = remaining.toFixed(0);
+
+    // Update timestamp
+    document.getElementById('last-updated').textContent = data.last_updated;
+
+  } catch (error) {
+    console.error('Error loading running stats:', error);
+    document.getElementById('km-display').innerHTML =
+      '<span style="font-size: 0.5em;">Unable to load stats</span>';
+  }
+}
+
+// Load stats when page loads
+updateRunningStats();
+</script>

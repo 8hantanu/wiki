@@ -43,6 +43,13 @@
 </details>
 
 <details>
+  <summary><strong>🇬🇮 Gibraltar</strong></summary>
+  <ul>
+    <li><a href="gibraltar">Gibraltar</a></li>
+  </ul>
+</details>
+
+<details>
   <summary><strong>🇮🇳 India</strong></summary>
   <ul>
     <li>Alleppey</li>
