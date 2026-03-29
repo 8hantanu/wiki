@@ -14,7 +14,7 @@
 ### backpack
 
 - Alpaka Metro Backpack 12L
-- MacBook Air M2
+- MacBook Air M2 -> Mac Mini
 - Kindle Scribe
 - Ricoh GR IIIx HDF -> Ricoh GR Vx HDF
 - Mini Tripod
@@ -31,11 +31,12 @@
 
 ## desk
 
-- HomePod mini -> Beats Pill
 - Keychron K2 -> Keychron Q60 Max
 - Logitech Pebble Mouse -> LoFree Touch PBT Mouse (block)
 - Casiotone CT-S100
 - Vault Soprano Ukulele -> Kala Makala MK-T Tenor Ukulele (low-G)
+- XGIMI Vibe One Projector
+- HomePod mini -> Beats Pill
 
 ## wardrobe
 
@@ -62,7 +63,7 @@
 - 3 ankle socks
 - 3 long socks
 - Nike Pegasus Trail 5 -> Nike Pegasus Trail 6
-- Birkenstock Arizona EVA -> Teva Hurricane XLT2 Sandal
+- Birkenstock Arizona EVA
 
 ## fitness
 
@@ -73,6 +74,7 @@
 - Dumbbells
 - Pull-up Bar
 - Weighted Jump Rope
+- Garmin Index S2 Scale
 
 ### sports
 
@@ -82,7 +84,7 @@
 
 ### apparel
 
-- Running shorts
+- -> Running shorts
 - Running top
 - Sweatshirt
 - Head band
@@ -104,11 +106,13 @@
 
 ### wheels
 
-- Ninety One Defeatr 29T cycle -> Fiido Titan
+- Ninety One Defeatr 29T cycle
+- -> Triumph Thruxton 400
+- -> Toyota MR2 W20
 
 ### gear
 
 - Helmet
 - 2 Bandanas
 
-**Note:** _->_ denotes an upgrade in future when current item reaches EoL.
+**Note:** _->_  a wishlist item or an upgrade in future when current item reaches EoL.
