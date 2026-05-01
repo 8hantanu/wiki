@@ -1,35 +1,35 @@
 # places
 
 <details>
-  <summary><strong>🇦🇱 Albania</strong></summary>
+  <summary><strong>🇦🇱 <a href="albania">Shqipëria</a></strong></summary>
   <ul>
-    <li>Berat</li>
-    <li>Divjakë</li>
-    <li>Durrës</li>
-    <li>Gjirokastër</li>
-    <li>Himarë</li>
-    <li>Ksamil</li>
-    <li>Sarandë</li>
-    <li>Shkodër</li>
-    <li>Theth</li>
-    <li>Tiranë</li>
-    <li>Valbonë</li>
-    <li>Vlorë</li>
+    <li><a href="berat">Berat</a></li>
+    <li><a href="divjake">Divjakë</a></li>
+    <li><a href="durres">Durrës</a></li>
+    <li><a href="gjirokaster">Gjirokastër</a></li>
+    <li><a href="himare">Himarë</a></li>
+    <li><a href="ksamil">Ksamil</a></li>
+    <li><a href="sarande">Sarandë</a></li>
+    <li><a href="shkoder">Shkodër</a></li>
+    <li><a href="theth">Theth</a></li>
+    <li><a href="tirana">Tiranë</a></li>
+    <li><a href="valbone">Valbonë</a></li>
+    <li><a href="vlore">Vlorë</a></li>
   </ul>
 </details>
 
 <details>
-  <summary><strong>🇰🇭 Cambodia</strong></summary>
+  <summary><strong>🇰🇭 <a href="cambodia">កម្ពុជា</a></strong></summary>
   <ul>
-    <li>Chong Khneas</li>
-    <li>Phnom Penh</li>
-    <li>Siem Reap</li>
-    <li>Trapeang Kreal</li>
+    <li><a href="chong-khneas">ចុងឃ្នាស</a></li>
+    <li><a href="phnom-penh">ភ្នំពេញ</a></li>
+    <li><a href="siem-reap">សៀមរាប</a></li>
+    <li><a href="stung-treng">ស្ទឹងត្រែង</a></li>
   </ul>
 </details>
 
 <details>
-  <summary><strong>🏴󠁧󠁢󠁥󠁮󠁧󠁿 England</strong></summary>
+  <summary><strong>🏴󠁧󠁢󠁥󠁮󠁧󠁿 <a href="england">England</a></strong></summary>
   <ul>
     <li><a href="bath">Bath</a></li>
     <li><a href="cambridge">Cambridge</a></li>
@@ -43,128 +43,128 @@
 </details>
 
 <details>
-  <summary><strong>🇬🇮 Gibraltar</strong></summary>
+  <summary><strong>🇬🇮 <a href="gibraltar">Gibraltar</a></strong></summary>
   <ul>
     <li><a href="gibraltar">Gibraltar</a></li>
   </ul>
 </details>
 
 <details>
-  <summary><strong>🇮🇳 India</strong></summary>
+  <summary><strong>🇮🇳 <a href="india">भारत</a></strong></summary>
   <ul>
-    <li>Alleppey</li>
-    <li>Bidar</li>
-    <li><a href="chicham">Chicham</a></li>
-    <li><a href="chitkul">Chitkul</a></li>
-    <li>Coimbatore</li>
-    <li><a href="delhi">Delhi</a></li>
-    <li><a href="dhankar">Dhankar</a></li>
-    <li>Gokarna</li>
-    <li>Gurgaon</li>
-    <li><a href="hyderabad">Hyderabad</a></li>
-    <li><a href="kaza">Kaza</a></li>
-    <li><a href="kalpa">Kalpa</a></li>
-    <li>Kochi</li>
-    <li>Munnar</li>
-    <li><a href="nako">Nako</a></li>
-    <li>Ooty</li>
-    <li>Periyar</li>
-    <li>Pondicherry</li>
-    <li>Pune</li>
-    <li><a href="shimla">Shimla</a></li>
-    <li><a href="tabo">Tabo</a></li>
+    <li><a href="alappuzha">ആലപ്പുഴ</a></li>
+    <li><a href="bidar">ಬೀದರ್</a></li>
+    <li><a href="chicham">चिचम</a></li>
+    <li><a href="chitkul">चितकुल</a></li>
+    <li><a href="coimbatore">கோயம்புத்தூர்</a></li>
+    <li><a href="delhi">दिल्ली</a></li>
+    <li><a href="dhankar">ढंकर</a></li>
+    <li><a href="gokarna">ಗೋಕರ್ಣ</a></li>
+    <li><a href="gurugram">गुरुग्राम</a></li>
+    <li><a href="hyderabad">హైదరాబాద్</a></li>
+    <li><a href="kaza">काजा</a></li>
+    <li><a href="kalpa">कल्पा</a></li>
+    <li><a href="kochi">കൊച്ചി</a></li>
+    <li><a href="munnar">മൂന്നാർ</a></li>
+    <li><a href="nako">नाको</a></li>
+    <li><a href="ooty">உதகமண்டலம்</a></li>
+    <li><a href="periyar">പെരിയാർ</a></li>
+    <li><a href="puducherry">புதுச்சேரி</a></li>
+    <li><a href="pune">पुणे</a></li>
+    <li><a href="shimla">शिमला</a></li>
+    <li><a href="tabo">ताबो</a></li>
   </ul>
 </details>
 
 <details>
-  <summary><strong>🇱🇦 Laos</strong></summary>
+  <summary><strong>🇱🇦 <a href="laos">ລາວ</a></strong></summary>
   <ul>
-    <li>4000 Islands</li>
-    <li>Luang Prabang</li>
-    <li>Pakse</li>
-    <li>Vang Vieng</li>
-    <li>Vientiane</li>
+    <li><a href="4000-islands">ສີ່ພັນດອນ</a></li>
+    <li><a href="luang-prabang">ຫຼວງພະບາງ</a></li>
+    <li><a href="pakse">ປາກເຊ</a></li>
+    <li><a href="vang-vieng">ວັງວຽງ</a></li>
+    <li><a href="vientiane">ວຽງຈັນ</a></li>
   </ul>
 </details>
 
 <details>
-  <summary><strong>🇬🇧 Northern Ireland</strong></summary>
+  <summary><strong>🇬🇧 <a href="northern-ireland">Northern Ireland</a></strong></summary>
   <ul>
-    <li>Belfast</li>
-    <li>Carrickfergus</li>
-    <li>Larne</li>
-    <li>Ballycastle</li>
-    <li>Bushmills</li>
-    <li>Ballymoney</li>
+    <li><a href="belfast">Belfast</a></li>
+    <li><a href="carrickfergus">Carrickfergus</a></li>
+    <li><a href="larne">Larne</a></li>
+    <li><a href="ballycastle">Ballycastle</a></li>
+    <li><a href="bushmills">Bushmills</a></li>
+    <li><a href="ballymoney">Ballymoney</a></li>
   </ul>
 </details>
 
 <details>
-  <summary><strong>🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland</strong></summary>
+  <summary><strong>🏴󠁧󠁢󠁳󠁣󠁴󠁿 <a href="scotland">Alba</a></strong></summary>
   <ul>
-    <li>Culloden</li>
-    <li>Edinburgh</li>
-    <li>Fort William</li>
-    <li>Glasgow</li>
-    <li>Glencoe</li>
-    <li>Inverness</li>
-    <li>Kyle of Lochalsh</li>
-    <li>Luss</li>
-    <li>Pitlochry</li>
-    <li>Portree</li>
+    <li><a href="culloden">Cùl Lodair</a></li>
+    <li><a href="edinburgh">Dùn Èideann</a></li>
+    <li><a href="fort-william">An Gearasdan</a></li>
+    <li><a href="glasgow">Glaschu</a></li>
+    <li><a href="glencoe">Gleann Comhann</a></li>
+    <li><a href="inverness">Inbhir Nis</a></li>
+    <li><a href="kyle-of-lochalsh">Caol Loch Aillse</a></li>
+    <li><a href="luss">Lus</a></li>
+    <li><a href="pitlochry">Baile Chloichridh</a></li>
+    <li><a href="portree">Port Rìgh</a></li>
   </ul>
 </details>
 
 <details>
-  <summary><strong>🇹🇭 Thailand</strong></summary>
+  <summary><strong>🇹🇭 <a href="thailand">ประเทศไทย</a></strong></summary>
   <ul>
-    <li>Ao Nang</li>
-    <li>Bangkok</li>
-    <li>Krabi</li>
-    <li>Phi Phi</li>
-    <li>Phuket</li>
+    <li><a href="ao-nang">อ่าวนาง</a></li>
+    <li><a href="bangkok">กรุงเทพมหานคร</a></li>
+    <li><a href="krabi">กระบี่</a></li>
+    <li><a href="phi-phi">หมู่เกาะพีพี</a></li>
+    <li><a href="phuket">ภูเก็ต</a></li>
   </ul>
 </details>
 
 <details>
-  <summary><strong>🇹🇷 Turkey</strong></summary>
+  <summary><strong>🇹🇷 <a href="turkey">Türkiye</a></strong></summary>
   <ul>
-    <li>Antalya</li>
-    <li>Cappadocia</li>
-    <li>Çanakkale</li>
-    <li>Ephesus</li>
-    <li>Istanbul</li>
-    <li>Marmaris</li>
-    <li>Pamukkale</li>
+    <li><a href="antalya">Antalya</a></li>
+    <li><a href="cappadocia">Kapadokya</a></li>
+    <li><a href="canakkale">Çanakkale</a></li>
+    <li><a href="ephesus">Efes</a></li>
+    <li><a href="istanbul">İstanbul</a></li>
+    <li><a href="marmaris">Marmaris</a></li>
+    <li><a href="pamukkale">Pamukkale</a></li>
   </ul>
 </details>
 
 <details>
-  <summary><strong>🇦🇪 United Arab Emirates</strong></summary>
+  <summary><strong>🇦🇪 <a href="united-arab-emirates">الإمارات العربية المتحدة</a></strong></summary>
   <ul>
-    <li>Abu Dhabi</li>
-    <li>Dubai</li>
+    <li><a href="abu-dhabi">أبو ظبي</a></li>
+    <li><a href="dubai">دبي</a></li>
   </ul>
 </details>
 
 <details>
-  <summary><strong>🇺🇸 United States</strong></summary>
+  <summary><strong>🇺🇸 <a href="united-states">United States</a></strong></summary>
   <ul>
-    <li>Half-Moon Bay</li>
-    <li>San Francisco</li>
-    <li>San Jose</li>
+    <li><a href="half-moon-bay">Half Moon Bay</a></li>
+    <li><a href="san-francisco">San Francisco</a></li>
+    <li><a href="san-jose">San Jose</a></li>
   </ul>
 </details>
 
 <details>
-  <summary><strong>🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales</strong></summary>
+  <summary><strong>🏴 <a href="wales">Cymru</a></strong></summary>
   <ul>
-    <li>Cardiff</li>
-    <li>Swansea</li>
-    <li>Llandeilo</li>
-    <li>Llandovery</li>
-    <li>Cynghordy</li>
-    <li>Llanwrtyd Wells</li>
-    <li>Llandrindod Wells</li>
+    <li><a href="cardiff">Caerdydd</a></li>
+    <li><a href="swansea">Abertawe</a></li>
+    <li><a href="llandeilo">Llandeilo</a></li>
+    <li><a href="llandovery">Llanymddyfri</a></li>
+    <li><a href="cynghordy">Cynghordy</a></li>
+    <li><a href="llanwrtyd-wells">Llanwrtyd</a></li>
+    <li><a href="llandrindod-wells">Llandrindod</a></li>
   </ul>
 </details>
