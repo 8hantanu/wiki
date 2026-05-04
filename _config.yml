@@ -7,6 +7,10 @@ baseurl: /wiki
 
 remote_theme: yree/mold
 
+exclude:
+  - AGENTS.md
+  - "**/AGENTS.md"
+
 footer_content: >
   [8hantanu](https://8hantanu.net) — [comment](javascript:window.location='mailto:wiki@8hantanu.net?subject='+encodeURIComponent(document.title)) — [previous](..)
 

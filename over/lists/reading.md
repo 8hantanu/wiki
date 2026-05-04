@@ -5,7 +5,9 @@
 - **Nuclear War**, by _Annie Jacobsen_
 - **Heads You Win**, by _Jeffrey Archer_
 
-## 2025
+## read
+
+### 2025
 
 - **The Glucose Revolution**, by _Jessie Inchauspé_ 3.5/5
 - **The Alchemist**, by _Paulo Coelho_ — 3.5/5
@@ -13,12 +15,12 @@
 - **A Thousand Splendid Suns**, by _Khaled Hosseini_ — 4.5/5
 - **The Courage to be Disliked**, by _Fumitake Koga and Ichiro Kishimi_ — 4.5/5
 
-## 2024
+### 2024
 
 - **Educated**, by _Tara Westover_ — 3.5/5
 - **Deathnote**, by _Tsugumi Ohba_ — 4.5/5
 
-## 2021
+### 2021
 
 - **Kitchen**, by _Banana Yoshimoto_ — 4/5
 - **The Great Mental Models**, by _Shane Parrish_ — 3/5
@@ -46,7 +48,7 @@
 - **Convict Conditioning**, by _Paul Wade_ — 3/5
 - **Fahrenheit 451**, by _Ray Bradbury_ — 2/5
 
-## 2020
+### 2020
 
 - **Defending Jacob**, by _William Landay_ — 4/5
 - **Sapiens**, by _Yuval Noah Harari_ — 4/5
@@ -73,12 +75,12 @@
 - **World War Z**, by _Max Brooks_ — 4/5
 - **I, Robot**, by _Isaac Asimov_ — 4/5
 
-## 2019
+### 2019
 
 - **The Girl on the Train**, by _Paula Hawkins_ — 3/5
 - **Cari Mora**, by _Thomas Harris_ — 1/5
 
-## 2018
+### 2018
 
 - **Gone Girl**, by _Gillian Flynn_ — 4/5
 - **Dirk Gently's Holistic Detective Agency**, by _Douglas Adams_ — 3/5
@@ -86,7 +88,7 @@
 - **Catch**, by _Joseph Heller_ — 2/5
 - **A Mathematician's Apology**, by _G.H. Hardy_ — 3/5
 
-## 2017
+### 2017
 
 - **Hyperspace**, by _Michio Kaku_ — 5/5
 - **Hannibal**, by _Thomas Harris_ — 4/5
@@ -95,17 +97,19 @@
 - **Hannibal Rising**, by _Thomas Harris_ — 2/5
 - **Candide**, by _Voltaire_ — 2/5
 
-## 2016
+### 2016
 
 - **The Shining**, by _Stephen King_ — 5/5
 - **11/22/63**, by _Stephen King_ — 3/5
 
-## 2015
+### 2015
 
 - **The Kite Runner**, by _Khaled Hosseini_ — 3/5
 
-## 2013
+### 2013
 
 - **The Da Vinci Code**, by _Dan Brown_ — 3/5
 - **Angels & Demons**, by _Dan Brown_ — 2/5
 - **Deception Point**, by _Dan Brown_ — 4/5
+
+## to read
