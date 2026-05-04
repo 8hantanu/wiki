@@ -1,12 +1,24 @@
 # Deep Learning
 
-These are the common building blocks that show up before architecture-specific details.
-
 - [Transformers](transformers)
 - [Mamba](mamba)
 - [Quantization](quantization)
 - [Vision](vision)
 - [Diffusion](diffusion)
+
+## Notation
+
+- $$\mathbf{X}$$ : input tensor or token sequence
+- $$\mathbf{H}$$ : hidden representation
+- $$\mathbf{Z}$$ : latent or token embedding sequence
+- $$\hat{y}$$ : model prediction
+- $$\mathcal{L}$$ : training objective / loss
+- $$\mathbf{I}$$ : identity matrix
+- $$\mathcal{N}(\mathbf{x}; \mu, \Sigma)$$ : Gaussian distribution with mean $$\mu$$ and covariance $$\Sigma$$
+- $$\epsilon_\theta$$ : learned noise predictor
+- $$\varnothing$$ : null / unconditional conditioning token
+- $$\mathbf{x}_t$$ : noisy sample or state at step $$t$$
+- $$\alpha_t, \beta_t, \bar{\alpha}_t$$ : diffusion schedule terms
 
 ## Autoregressive Modeling
 
