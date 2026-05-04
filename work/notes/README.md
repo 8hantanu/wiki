@@ -1,5 +1,5 @@
 # notes
 
-- [computers](computers)
-- [math](math)
-- [finance](finance)
+- [subjects](subjects)
+- [courses](courses)
+- [formulas](formulas)

@@ -1,4 +1,4 @@
-# academia
+# courses
 
 ## computer science
 
