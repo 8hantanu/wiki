@@ -12,3 +12,6 @@ See all [places](places)
 - Pink Duck Race UK
 - Leeds Music Festival
 - Hyderabad Literary Festival
+
+## 2023
+- Hyderabad ePrix

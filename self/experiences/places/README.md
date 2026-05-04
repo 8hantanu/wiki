@@ -53,6 +53,7 @@
   <summary><strong>🇮🇳 <a href="india">भारत</a></strong></summary>
   <ul>
     <li><a href="alappuzha">ആലപ്പുഴ</a></li>
+    <li><a href="ajmer">अजमेर</a></li>
     <li><a href="bidar">ಬೀದರ್</a></li>
     <li><a href="chicham">चिचम</a></li>
     <li><a href="chitkul">चितकुल</a></li>
@@ -62,6 +63,9 @@
     <li><a href="gokarna">ಗೋಕರ್ಣ</a></li>
     <li><a href="gurugram">गुरुग्राम</a></li>
     <li><a href="hyderabad">హైదరాబాద్</a></li>
+    <li><a href="jaipur">जयपुर</a></li>
+    <li><a href="jaisalmer">जैसलमेर</a></li>
+    <li><a href="jodhpur">जोधपुर</a></li>
     <li><a href="kaza">काजा</a></li>
     <li><a href="kalpa">कल्पा</a></li>
     <li><a href="kochi">കൊച്ചി</a></li>
@@ -71,8 +75,10 @@
     <li><a href="periyar">പെരിയാർ</a></li>
     <li><a href="puducherry">புதுச்சேரி</a></li>
     <li><a href="pune">पुणे</a></li>
+    <li><a href="pushkar">पुष्कर</a></li>
     <li><a href="shimla">शिमला</a></li>
     <li><a href="tabo">ताबो</a></li>
+    <li><a href="udaipur">उदयपुर</a></li>
   </ul>
 </details>
 

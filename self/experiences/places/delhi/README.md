@@ -8,8 +8,6 @@ A place which has always been grounds for multiple layovers.
 
 I take a flight to Delhi from [Hyderabad](../hyderabad). It's a pleasant day to fly.
 
-It was a pleasant day to take this flight.
-
 ![runway](runway.avif)
 *The Runway*
 
