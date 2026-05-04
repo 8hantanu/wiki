@@ -5,6 +5,8 @@ These are the common building blocks that show up before architecture-specific d
 - [Transformers](transformers)
 - [Mamba](mamba)
 - [Quantization](quantization)
+- [Vision](vision)
+- [Diffusion](diffusion)
 
 ## Autoregressive Modeling
 
