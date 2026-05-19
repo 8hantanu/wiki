@@ -8,7 +8,7 @@
 ## personal
 
 - [plug](/plug)
-- [dock](/dock)
+- [pods](/pods)
 - [dots](/dots)
 
 ## archived

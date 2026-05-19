@@ -23,7 +23,7 @@ We head to [chitkul](../chitkul#2024-10-12). The valley views on the way are stu
 
 ### 2024-10-19
 
-We reach back to Shimla at 1800 from [Kalpa](../kinnaur#2024-10-19).
+We reach back to Shimla at 1800 from [Kalpa](../kalpa#2024-10-19).
 
 I see many rocks falling and blocking the road throughout the trip, but this one is the biggest.
 

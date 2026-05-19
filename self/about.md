@@ -10,11 +10,11 @@ Emerging technologies and research in high performance computing, artificial int
 
 I like graphic design and create logos, illustrations, and UIs. My go to web stack is the [mash](https://yree.io/mash) stack. Also, I love spending time on perfecting little details.
 
-Even though most of my professional and spare time is spent in front of a screen, but whenever I can find a reason to I love to [travel]((experiences/travel) and experience new things.
+Even though most of my professional and spare time is spent in front of a screen, but whenever I can find a reason to I love to [travel](experiences/travel) and experience new things.
 
 I [sketch](https://8hantanu.net/over/art) whenever I find a good scape or subject. If too busy I snap it and then maybe recreate it later.
 
-I am a keen reader and always in need of good [book recommendations](experiences/books). Genres like thriller, psychology, and sci-fi are my favorites.
+I am a keen reader and always in need of good [book recommendations](../over/lists/reading). Genres like thriller, psychology, and sci-fi are my favorites.
 
 I often find myself dusting off music instruments whenever I pick them to play. I surge cycle between playing the ukulele and piano (mediocre at best).
 

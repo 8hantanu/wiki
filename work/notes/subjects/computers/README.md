@@ -1,6 +1,5 @@
 # computers
 - topics
-  - [architecture](arch)
   - [compilers](compilers)
 
 - polyglot
