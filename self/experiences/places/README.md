@@ -94,6 +94,14 @@
 </details>
 
 <details>
+  <summary><strong>🇲🇦 <a href="morocco">المغرب</a></strong></summary>
+  <ul>
+    <li><a href="chefchaouen">شفشاون</a></li>
+    <li><a href="fes">فاس</a></li>
+  </ul>
+</details>
+
+<details>
   <summary><strong>🇬🇧 <a href="northern-ireland">Northern Ireland</a></strong></summary>
   <ul>
     <li><a href="belfast">Belfast</a></li>

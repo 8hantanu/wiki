@@ -1,26 +1,28 @@
-## Fes
+# فاس
 
-### 21 May – London → Fes
+## Morocco
 
-No sleep the night before — the excitement for the trip didn't allow it. Mahmoud helped get to the web check-in at the airport, and we were 35 minutes early. It was cold, barefoot dogs out, waiting in the quiet before the bus arrived.
+### 2026-05-21
 
-Slept throughout the flight, as usual. Woken by the thud of landing. Stepped out and was immediately hit by the Moroccan sun.
+No sleep the night before — the excitement for the trip doesn't let me. Mahmoud helps with the web check-in. We get to the airport 35 minutes early. It's cold, barefoot dogs wandering about, waiting in the quiet before the bus arrives.
 
-Did the formalities and got out. Took a cab to the hostel for 120 MAD — seemed a lot, but we went for it.
+Sleep through the flight, as usual. Woken by the thud of landing. Step out and am immediately hit by the Moroccan sun.
 
-Arrived at the plaza in front of **Bab Boujloud** and had my first proper look at a Moroccan café — full of men. This was Café Granada. Still needed to make it to the hostel.
+Do the formalities and get out. Take a cab to the hostel for 120 MAD — seems a lot, but we go for it.
 
-Met **Naseem** at the rooftop. Very friendly guy. Check-in wasn't until 15:00, so we dropped our bags and headed into the medina for our first meal in Morocco.
+We arrive at the plaza in front of **باب بوجلود** (Bab Boujloud) and I get my first real look at a Moroccan café — full of men. Café Granada. Still need to get to the hostel.
 
-We entered through **Bab Boujloud** — the Blue Gate, blue on the inside, green on the outside. It feels like a whole new world out there.
+Meet **Naseem** at the rooftop. Friendly guy. Check-in isn't until 15:00, so we drop our bags and head into the medina for our first meal in Morocco.
+
+We enter through Bab Boujloud — the Blue Gate, blue on the inside, green on the outside. It feels like a whole new world out there.
 
 #### Café Clock
 
-Walked through the medina towards **Café Clock**. I had the *poulet r'fissa*; Mahmoud had the lamb tajine.
+Walk through the medina towards **Café Clock**. I have the *poulet r'fissa*; Mahmoud has the lamb tajine.
 
-#### Back into the Chaos
+#### Back into the chaos
 
-Headed deeper into the medina. Too much to take in:
+Head deeper into the medina. Too much to take in all at once:
 
 - Handcarts piled with garlic, snails
 - Cats everywhere
@@ -29,24 +31,26 @@ Headed deeper into the medina. Too much to take in:
 - Mules weaving through the lanes
 - Tourists dragging their suitcases
 
-Passed through **Souk el Henna**, then **Place Seffarine** — the copper souk, full of metalworkers hammering away. Then came across the Kissaria — the covered souk of fine fabrics and caftans, near the **Moulay Idriss II Mausoleum**.
+Pass through **Souk el Henna**, then **Place Seffarine** — the copper souk, full of metalworkers hammering away. Then come across the Kissaria — the covered souk of fine fabrics and caftans, near the **ضريح مولاي إدريس الثاني** (Moulay Idriss II Mausoleum).
 
 #### Chouara Tannery
 
-Could tell we were close before we even saw it — the stench of the tannery gives it away. Came upon the **Chouara Tannery**. Quite a sight.
+Can tell we're close before we even see it — the stench gives it away. The **Chouara Tannery**. Quite a sight.
 
-Had fresh orange juice and *corne de gazelle aux amandes* on the spot — it was nice.
+Have fresh orange juice and *corne de gazelle aux amandes* on the spot. Nice.
 
-Decided to head back. Navigating back was like being inside a maze.
+Decide to head back. Navigating back is like being inside a maze.
 
 ---
 
-Checked in and slept so well.
+Check in and sleep so well.
 
-Woke at 19:30 and headed up to the rooftop — still hot out.
+Wake at 19:30 and head up to the rooftop — still hot out.
 
-Mahmoud wasn't feeling well. Suggested he try to be sick, and after that he felt a lot better. Almost got the Moroccan belly.
+Mahmoud isn't feeling well. Suggest he try to be sick; after that he feels a lot better. Almost got the Moroccan belly.
 
-We lounged on the rooftop, drinking mint tea as Naseem kept bringing round after round.
+Lounge on the rooftop drinking mint tea as Naseem keeps bringing round after round.
 
-Went back to bed — next day: day trip to **Chefchaouen**.
+Go back to bed — tomorrow: day trip to [Chefchaouen](../chefchaouen).
+
+#draft

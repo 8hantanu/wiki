@@ -3,6 +3,7 @@
 See all [places](places)
 
 ## 2026
+- [Morocco — Into the Medina](places/fes#2026-05-21)
 - Gibraltar's Cliffs, Caves and Coasts
 - The Heart of Wales
 - Northern Ireland
