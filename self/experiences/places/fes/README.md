@@ -1,4 +1,4 @@
-# فاس
+# Fes
 
 ## Morocco
 
@@ -10,7 +10,7 @@ Sleep through the flight, as usual. Woken by the thud of landing. Step out and a
 
 Do the formalities and get out. Take a cab to the hostel for 120 MAD — seems a lot, but we go for it.
 
-We arrive at the plaza in front of **باب بوجلود** (Bab Boujloud) and I get my first real look at a Moroccan café — full of men. Café Granada. Still need to get to the hostel.
+We arrive at the plaza in front of **Bab Boujloud** and I get my first real look at a Moroccan café — full of men. Café Granada. Still need to get to the hostel.
 
 Meet **Naseem** at the rooftop. Friendly guy. Check-in isn't until 15:00, so we drop our bags and head into the medina for our first meal in Morocco.
 
@@ -31,7 +31,7 @@ Head deeper into the medina. Too much to take in all at once:
 - Mules weaving through the lanes
 - Tourists dragging their suitcases
 
-Pass through **Souk el Henna**, then **Place Seffarine** — the copper souk, full of metalworkers hammering away. Then come across the Kissaria — the covered souk of fine fabrics and caftans, near the **ضريح مولاي إدريس الثاني** (Moulay Idriss II Mausoleum).
+Pass through **Souk el Henna**, then **Place Seffarine** — the copper souk, full of metalworkers hammering away. Then come across the Kissaria — the covered souk of fine fabrics and caftans, near the **Moulay Idriss II Mausoleum**.
 
 #### Chouara Tannery
 
