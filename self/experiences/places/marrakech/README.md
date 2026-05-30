@@ -50,7 +50,7 @@ Suddenly awoken by the heat of the sun on my face — out the window is the wild
 
 #### 1545
 
-Arrive at Marrakech. Get the currency exchanged and head out to have some lunch (more like breakfast 2.0) at **Chez Llhaj**. We have the *ftour beldi* — both the local and the northern one, the difference being the jben (goat's cheese) in the northern one. The salade assortie comes with five salads — zaalouk, taktouka, and more.
+Arrive at Marrakech. Get the currency exchanged and head out to have some lunch (more like breakfast 2.0) at **Chez Llhaj**. We have the *ftour beldi* — both the *ftour beldi* and the *ftour chamali*, the difference being the jben (goat's cheese) in the northern one. The salade assortie comes with six salads — zaalouk, taktouka, carottes caramalisées, salade marocaine, lentilles, and haricots.
 
 Quickly eat as we have to get back to catch our bus to Essaouira.
 
