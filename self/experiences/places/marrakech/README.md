@@ -46,7 +46,7 @@ Start reading and doze off to sleep.
 
 #### 1400
 
-Suddenly awoken by the heat of the sun on my face — out the window is the wild open desert, passing along the Oum Er-Rbia river.
+Suddenly awoken by the heat of the sun on my face — out the window is the wild open desert, passing along the oued Rdom.
 
 #### 1545
 
