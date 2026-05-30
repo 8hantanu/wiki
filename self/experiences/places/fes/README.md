@@ -57,7 +57,7 @@ Back at the hostel. Check in and sleep so well.
 
 Wake and head up to the rooftop — still hot out.
 
-Mahmoud isn't feeling well. Suggest he try to be sick; after that he feels a lot better. Almost got the Moroccan belly.
+Mahmoud isn't feeling well. Suggest he vomit and get it out of his system; after that he feels a lot better. Almost got the Moroccan belly.
 
 Lounge on the rooftop drinking mint tea as Naseem keeps bringing round after round.
 
