@@ -3,6 +3,7 @@
 See all [places](places)
 
 ## 2026
+- Morocco: A Reverie through Riffs, Riads and Ramparts
 - Gibraltar's Cliffs, Caves and Coasts
 - The Heart of Wales
 - Northern Ireland
