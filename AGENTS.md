@@ -2,7 +2,7 @@
 
 Default rules for the repo. Local `AGENTS.md` files override this when they are more specific.
 
-- keep all headings lowercase
+- keep heading hierarchy shallow — three levels max; if a section needs an h4, reorganize instead of nesting deeper
 - find the relevant file first, then read the nearest `AGENTS.md`
 - prefer the most local guide when folders are nested
 - do not create or delete files without explicit user permission
