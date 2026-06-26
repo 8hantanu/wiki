@@ -8,7 +8,6 @@ My mantra! - [**_"Work over self (and rest)!_**](work-over-self)
 ## stuff
 
 - [Minima(xi)lism](minimaxilism) - less is more
-- [What I have and want](things)
 
 ## health
 

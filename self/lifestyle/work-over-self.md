@@ -69,7 +69,7 @@ The home, a space where I can come to anytime and its ready to embrace me in whi
 
 ### minimize your matter
 
-I consider myself a minimalist. I try to have as less of things as possible (and yes I keep [count](things) of it).
+I consider myself a minimalist. I try to have as less of things as possible (and yes I keep [count](/wiki/over/matter/things) of it).
 
 I organize my stuff both physical and digital into these categories (as seen in my [wiki](https://8hantanu.net/wiki)).
 

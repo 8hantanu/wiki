@@ -14,12 +14,13 @@
 ### backpack
 
 - Alpaka Metro Backpack 12L
-- MacBook Air M2 -> Mac Mini
+- Macbook Pro M4 14"
 - Kindle Scribe
 - Ricoh GR IIIx HDF -> Ricoh GR Vx HDF
 - Mini Tripod
 - GameSir X5 Lite Controller
 - Portronics Luxcell 10k mAH
+- Mini Satchel
 
 ## travel
 
@@ -31,12 +32,14 @@
 
 ## desk
 
+- -> Steam Machine/Mac Mini
 - Keychron K2 -> Keychron Q60 Max
-- Logitech Pebble Mouse -> LoFree Touch PBT Mouse (block)
+- Logitech Pebble Mouse -> LoFree Touch PBT Mouse
 - Casiotone CT-S100
-- Vault Soprano Ukulele -> Kala Makala MK-T Tenor Ukulele (low-G)
-- XGIMI Vibe One Projector
-- HomePod mini -> Beats Pill
+- Vault Soprano Ukulele -> Kala Makala MK-T Tenor Ukulele
+- XGIMI Vibe One
+- Beats Pill
+- -> rOtring 800 Ballpoint Pen
 
 ## wardrobe
 
@@ -62,8 +65,9 @@
 
 - 3 ankle socks
 - 3 long socks
-- Nike Pegasus Trail 5 -> Nike Pegasus Trail 6
+- Nike Kiger 10
 - Birkenstock Arizona EVA
+- -> Vans Old Skool
 
 ## fitness
 
@@ -71,10 +75,10 @@
 
 - Yoga Mat
 - Yoga Blocks
-- Dumbbells
+- 5kg Dumbbells
 - Pull-up Bar
 - Weighted Jump Rope
-- Garmin Index S2 Scale
+- -> 10kg Kettlebell
 
 ### sports
 
@@ -84,22 +88,28 @@
 
 ### apparel
 
-- -> Running shorts
+- Running shorts
 - Running top
 - Sweatshirt
-- Head band
+- Swim Shorts
+- Swim Goggles
+- Swim Cap
+- -> Head band
 
 ## home
 
 - Bulb
-- Spruttig Hangers
-- Bathrobe
-- Towel
-- Tusk toothbrush
-- Phillips Oneblade Trimmer -> USB-C Trimmer
+- Strandad Floor Lamp
 - Evali Throw
-- 2 Dvala Fitted Bedsheets
 - Fjällmott Picnic blanket
+
+- Mulig Clothes Rack
+- Spruttig Hangers
+
+- Tusk toothbrush
+- Phillips Oneblade Trimmer -> Merker 34C
+- Towel
+- Bathrobe
 - Stone Mat
 
 ## garage
@@ -107,12 +117,13 @@
 ### wheels
 
 - Ninety One Defeatr 29T cycle
-- -> Triumph Thruxton 400
+- -> Triumph Thruxton
 - -> Toyota MR2 W20
 
 ### gear
 
 - Helmet
-- 2 Bandanas
+- Bandanas
+- -> Leatherman Multitool
 
 **Note:** _->_  a wishlist item or an upgrade in future when current item reaches EoL.
