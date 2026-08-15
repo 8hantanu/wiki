@@ -7,7 +7,7 @@ See all [places](places)
 - Gibraltar's Cliffs, Caves and Coasts
 - The Heart of Wales
 - Northern Ireland
-- [York: Of chocolates, trains and ghosts](places/york#2025-01-10)
+- [York: Of chocolates, trains and ghosts](places/york#2026-01-10)
 - Scottish Highlands
 
 ## 2025
@@ -18,8 +18,8 @@ See all [places](places)
 - The Ashtavinayak Circuit
 - Dubai and Albania
 - Southern Soujourn in the Nilgiris
-- [Laos and Cambodia](places/luang-prabang#2025-03-28)
-- [Rajasthan — Beyond the Registan](places/jaipur#2025-02-22)
+- Laos and Cambodia
+- Rajasthan — Beyond the Registan
 - Panchmarhi Diaries
 
 ## 2024
