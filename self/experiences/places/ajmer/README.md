@@ -1,18 +1,18 @@
-# ajmer
+# Ajmer
 
-## rajasthan - beyond the registan
+## Rajasthan - Beyond the Registan
 
 ### 2025-02-23
 
 I break the journey from [Jaipur](../jaipur#2025-02-23) and get down at Ajmer instead of staying on to Pushkar because the Jain temple closes early.
 
-#### afternoon
+#### Afternoon
 
 We visit the Jain museum, where there is an entire city made of gold. We are not allowed into the main temple because it is reserved for Jain worshippers, but we insist enough to at least get a look from outside.
 
 From Ajmer we continue on to [Pushkar](../pushkar#2025-02-23) for a few hours before coming back in the evening.
 
-#### evening
+#### Evening
 
 On the way back we stop at Seven Wonder Park. The real highlight, though, is the sunset over the lake with the hills behind it.
 

@@ -1,5 +1,5 @@
-# wheels
+# Wheels
 
-## ola s1 pro
+## Ola S1 Pro
 
-## ninety one defeatr pro 29t
+## Ninety One Defeatr Pro 29T

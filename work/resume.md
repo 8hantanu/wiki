@@ -1,8 +1,8 @@
-# shantanu mishra
+# Shantanu Mishra
 
 **[Website](https://8hantanu.net) — [Github](https://github.com/8hantanu) — [Linkedin](https://linkedin.com/in/8hantanu)**
 
-## experience
+## Experience
 
 **Advanced Micro Devices**\
 Sr. Software Engineer, Hyderabad\
@@ -55,7 +55,7 @@ Summer Intern, Bangalore\
 - Learned about the control systems based on the Strap-down Inertial Navigation system used in the third stage of GSLV.
 - Produced a project report on the potential of harnessing solar energy at HAL.
 
-## projects
+## Projects
 
 **CytoCube**\
 Dept of Instrumentation & Applied Physics, IISc\
@@ -95,7 +95,7 @@ Hindustan Aeronautics Ltd\
 - Completed a report on the Usage of Sustainable Renewable Resources.
 - The report expands on the various solar technologies available and how to integrate and optimize them to power machinery and facilities at HAL.
 
-## patents
+## Patents
 
 - **LLVM-Based Core Model for Functional Simulation of the AI Engine**\
 2024 (pending)
@@ -104,7 +104,7 @@ Hindustan Aeronautics Ltd\
 - **Compiler-Based Generation of Transaction Accurate Models from High-Level Languages**\
 2021
 
-## skills
+## Skills
 
 - **main**: C, C++, Rust
 - **scripting**: Python, Bash
@@ -112,7 +112,7 @@ Hindustan Aeronautics Ltd\
 - **tools**: Git, Perforce, Docker, Linux, Qemu
 - **libraries**: SystemC, UVM, OpenMP, LLVM
 
-## education
+## Education
 
 **World Quant University**\
 *2020-2022*

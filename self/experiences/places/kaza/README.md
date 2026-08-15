@@ -1,6 +1,6 @@
-# kaza
+# Kaza
 
-## the spiti-kinnaur trail
+## The Spiti-Kinnaur Trail
 
 ### 2024-10-15
 

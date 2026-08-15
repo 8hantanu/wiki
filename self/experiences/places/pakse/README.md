@@ -1,6 +1,6 @@
-# pakse
+# Pakse
 
-## laos and cambodia
+## Laos and Cambodia
 
 ### 2025-04-02
 
@@ -12,7 +12,7 @@ I arrive from [Vang Vieng](../vang-vieng#2025-03-31) at Pakse, half asleep and u
 
 I go for a short stroll near the river by the bus stand, walking to the point where it meets the Mekong.
 
-#### morning
+#### Morning
 
 I pick up some groceries for breakfast while waiting.
 
@@ -20,7 +20,7 @@ I pick up some groceries for breakfast while waiting.
 
 The minivan leaves for Nakasong. The journey is long and rough.
 
-#### midday
+#### Midday
 
 At Nakasong I look around for a boat to Don Det. It is hot, but the river breeze makes it bearable. I eat a spicy fried rice and meet someone who has been volunteering on the island for five weeks, who tells me oil bins are surprisingly useful there.
 

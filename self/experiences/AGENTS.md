@@ -1,4 +1,4 @@
-# experiences
+# Experiences
 
 This folder is a small travel-writing system: `travel.md` is the trip index, `events.md` is the event index, and `places/` holds the actual narrative pages. `places/README.md` is the geography browser.
 

@@ -1,4 +1,4 @@
-# notes
+# Notes
 
 - [subjects](subjects)
 - [courses](courses)

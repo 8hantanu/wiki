@@ -1,4 +1,4 @@
-# events
+# Events
 
 See all [places](places)
 

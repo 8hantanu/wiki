@@ -1,4 +1,4 @@
-# formulas
+# Formulas
 
 Compact formula notebook, not a textbook.
 

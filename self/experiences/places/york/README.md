@@ -1,6 +1,6 @@
-# york
+# York
 
-## of chocolates, trains and ghosts
+## Of Chocolates, Trains and Ghosts
 
 ### 2026-01-10
 

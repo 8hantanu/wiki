@@ -1,28 +1,28 @@
-# jaipur
+# Jaipur
 
-## rajasthan - beyond the registan
+## Rajasthan - Beyond the Registan
 
 ### 2025-02-22
 
-#### morning
+#### Morning
 
 I barely sleep the previous night, too busy with last-minute planning and too excited to switch off properly.
 
 At the airport I board on last call and sleep through the entire flight from [Hyderabad](../hyderabad).
 
-#### arrival
+#### Arrival
 
 I wake up in the Pink City, take a cab to the hostel, ask the driver to stop at the gate, drop my luggage, and immediately get into paratha, butter, and lassi.
 
 The city feels different from the versions of Jaipur I had built in my head from pictures. Outside, I even spot a snake charmer.
 
-#### daytime
+#### Daytime
 
 I go into the Hawa Mahal area, though I miss the main entrance, and then continue to Jantar Mantar. The whole place feels like an absurdly ambitious scientific installation, with the giant sundial being the obvious standout.
 
 From there I go to the City Palace, where one of the paintings holds my attention much longer than expected.
 
-#### evening
+#### Evening
 
 I head to Masala Chowk for chole bhature and end up chatting with a guide who offers to show us around.
 
@@ -34,7 +34,7 @@ I head to Masala Chowk for chole bhature and end up chatting with a guide who of
 
 I wake up a little late but in a good mood, get ready, and head out.
 
-#### morning
+#### Morning
 
 I go to Panna Meena ka Kund. It is calm, beautiful, and exactly the sort of place that makes me want to linger.
 

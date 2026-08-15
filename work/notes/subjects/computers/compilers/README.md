@@ -1,3 +1,3 @@
-# compilers
+# Compilers
 
 - [LLVM](llvm)

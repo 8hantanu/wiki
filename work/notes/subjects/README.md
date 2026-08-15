@@ -1,3 +1,3 @@
-# subjects
+# Subjects
 
 - [computers](computers)

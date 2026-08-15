@@ -1,11 +1,11 @@
-# the coprime capsule closet
+# The Coprime Capsule Closet
 **2020-12-20**
 
 Daily fashion has always been hard for me. Standing in front of my closet every morning, trying to come up with good outfits, making combinations with whatever I had available. The decision fatigue was real. I'd spend way too much mental energy on something that should be simple.
 
 I tried traditional capsule wardrobe advice, but I was never able to get the number of clothes down, neither was able to find good combos or ended up using my favorites for most of the time. There was still too much thinking involved.
 
-## keep it simple silly (with math)
+## Keep It Simple Silly (with Math)
 
 **NERD ALERT!!!**
 
@@ -25,7 +25,7 @@ I arranged my clothes on a simple rack - all tops together, then all bottoms. My
 
 The math happens automatically through this physical rotation. I cycle through every possible combination exactly once before repeating.
 
-## how i scale it to different situations
+## How I Scale It to Different Situations
 
 I've found this system works for various scenarios:
 
@@ -38,7 +38,7 @@ Usually I stick with the above, but if you're adventurous then add in some layer
 
 I choose my numbers based on how long I'll be away and how often I want to do laundry.
 
-## why this works for me!
+## Why This Works for Me!
 
 So I use 4 tops and 3 bottoms combo. For me, I go out 6 out of 7 days in a week, so this system works for a two weeks period perfectly!
 
@@ -48,7 +48,7 @@ The hardest decision I make is choosing my initial 4 tops and 3 bottoms at the s
 
 After the end of the period, everything needs washing at the same time. It's like having a built-in laundry schedule. (Also I put aside pieces in laundry if I think they are due for one. Me no stinky!)
 
-## my approach for too many clothes
+## My Approach for Too Many Clothes
 
 Since I had way more than 4 tops and 3 bottoms when I started, I treat this system like A/B testing for my wardrobe.
 
@@ -56,7 +56,7 @@ Every two weeks, I pick any 4 tops and 3 bottoms from my collection and run the 
 
 Also for *seasonal adaptation*, when seasons change, I simply swap out my rotation pieces. Tank tops and shorts for summer, sweaters and warm pants for winter. The mathematical framework stays the same, but my comfort adapts to the weather.
 
-## my experience until now
+## My Experience Until Now
 
 I've been using my 4×3 system for months now. Sometimes the combinations look unexpected, but that's actually become one of my favorite parts, I've discovered outfit pairings I never would have tried otherwise.
 

@@ -1,19 +1,19 @@
-# lifestyle
+# Lifestyle
 
 My mantra! - [**_"Work over self (and rest)!_**](work-over-self)
 
 - [Journal](journal) - here I breathe in
 - [Fashion](fashion) - work in progress
 
-## stuff
+## Stuff
 
 - [Minima(xi)lism](minimaxilism) - less is more
 
-## health
+## Health
 
 - [Self-care routine](self-care)
 - [Fitness regime](fitness)
 
-## dreams and experiments
+## Dreams and Experiments
 
 - [Van life?!](van-plan)

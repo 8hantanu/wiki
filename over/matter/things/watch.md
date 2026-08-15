@@ -1,7 +1,7 @@
-# watches
+# Watches
 
-## garmin instinct 2 solar
+## Garmin Instinct 2 Solar
 
-## apple watch se (2020)
+## Apple Watch SE (2020)
 
-## casio youth db28 db-e30
+## Casio Youth DB28 DB-E30

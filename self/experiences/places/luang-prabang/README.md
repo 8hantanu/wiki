@@ -1,6 +1,6 @@
-# luang prabang
+# Luang Prabang
 
-## laos and cambodia
+## Laos and Cambodia
 
 ### 2025-03-28
 
@@ -10,7 +10,7 @@ I take a late-night flight from [Hyderabad](../hyderabad) to Luang Prabang via B
 
 I arrive at Bangkok. No lounge access, so I wait it out and board the onward flight.
 
-#### morning
+#### Morning
 
 I reach Luang Prabang to hazy mountain views after immigration. I take a tuk-tuk to the hostel, exchange $150 for 32K, and get a physical SIM with generous data.
 
@@ -24,7 +24,7 @@ I have a breakfast of eggs, bacon, bread, and a mango shake.
 
 I head towards the Pak Ou Caves, around 30 km away. The roads are mostly good, and along the way I pass junkyards and modern trucks that make the whole stretch feel oddly industrial.
 
-#### afternoon
+#### Afternoon
 
 At the caves I pay 15K for the boat ride and hop on. The lower caves are quiet and peaceful, packed with Buddha idols. The upper cave is stuffier and harder to reach, but it has larger Buddha statues.
 
@@ -32,7 +32,7 @@ At the caves I pay 15K for the boat ride and hop on. The lower caves are quiet a
 
 I come back down and find the boat already waiting for the return ride.
 
-#### evening
+#### Evening
 
 Back in the city, I wander around and catch sight of a full moon over Luang Prabang.
 
@@ -64,7 +64,7 @@ On the way I stop for breakfast at Paddy Pod Omelette and then again at the Meko
 
 I reach the falls and take a buggy in. There are young bears playing around in the sanctuary, and the falls themselves are gorgeous.
 
-#### midday
+#### Midday
 
 We swim in the pools below the falls for a while, but cut it short so we can get back in time for the train.
 

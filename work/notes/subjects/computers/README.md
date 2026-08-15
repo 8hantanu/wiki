@@ -1,4 +1,4 @@
-# computers
+# Computers
 - topics
   - [compilers](compilers)
 

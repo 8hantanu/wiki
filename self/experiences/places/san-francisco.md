@@ -1,13 +1,13 @@
-# san francisco
+# San Francisco
 
-## a late afternoon road trip
+## A Late Afternoon Road Trip
 
 ### 2023-05-11
 
 - from [San Jose](san-jose#2024-05-10)
 - to [San Jose](san-jose#2024-05-10)
 
-## the city bus tour
+## The City Bus Tour
 
 ### 2023-05-19
 

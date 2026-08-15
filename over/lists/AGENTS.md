@@ -1,4 +1,4 @@
-# lists
+# Lists
 
 Lightweight queues and histories only. Keep these files easy to scan.
 

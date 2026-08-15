@@ -1,6 +1,6 @@
-# stung treng
+# Stung Treng
 
-## laos and cambodia
+## Laos and Cambodia
 
 ### 2025-04-03
 
@@ -22,13 +22,13 @@ I realise our boat pickup is actually at a different spot. While figuring it out
 
 A buggy takes us to the bus.
 
-#### midday
+#### Midday
 
 At the border, the bus host warns us about some "questioning." An officer asks random questions and demands proof of cash, saying we need $500 to proceed.
 
 We have about $509 in total, explain ourselves, and then wait around for half an hour. Good thing we do not end up paying any penalty.
 
-#### after
+#### After
 
 Back on the bus, only our bags get drilled for documents. If it were not for our host Jovan, I do not think we would have made it out of Laos without paying a bribe.
 

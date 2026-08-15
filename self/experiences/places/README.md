@@ -1,4 +1,4 @@
-# places
+# Places
 
 <details>
   <summary><strong>🇦🇱 <a href="albania">Shqipëria</a></strong></summary>

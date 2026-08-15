@@ -1,8 +1,8 @@
-# things
+# Things
 
-## edc
+## EDC
 
-### self
+### Self
 
 - Glasses
 - Wallet
@@ -11,7 +11,7 @@
 - Moondrop Chu II IEM
 - Keyring
 
-### backpack
+### Backpack
 
 - Alpaka Metro Backpack 12L
 - Macbook Pro M4 14"
@@ -22,7 +22,7 @@
 - Portronics Luxcell 10k mAH
 - Mini Satchel
 
-## travel
+## Travel
 
 - Chargers
 - Umbrella
@@ -30,7 +30,7 @@
 - Bidet
 - Passport
 
-## desk
+## Desk
 
 - -> Steam Machine/Mac Mini
 - Keychron K2 -> Keychron Q60 Max
@@ -41,9 +41,9 @@
 - Beats Pill
 - -> rOtring 800 Ballpoint Pen
 
-## wardrobe
+## Wardrobe
 
-### tops
+### Tops
 
 - 3 Jackets (Denim/Corduroy/Leather)
 - 3 DNMX polos
@@ -53,7 +53,7 @@
 - Levi's white tank
 - White Oxford shirt
 
-### bottoms
+### Bottoms
 
 - 4 Levi’s trunks
 - Levi’s 511/512 jeans
@@ -61,7 +61,7 @@
 - 2 Pants
 - 1 Cargos
 
-### footwear
+### Footwear
 
 - 3 ankle socks
 - 3 long socks
@@ -69,9 +69,9 @@
 - Birkenstock Arizona EVA
 - -> Vans Old Skool
 
-## fitness
+## Fitness
 
-### equipment
+### Equipment
 
 - Yoga Mat
 - Yoga Blocks
@@ -80,13 +80,13 @@
 - Weighted Jump Rope
 - -> 10kg Kettlebell
 
-### sports
+### Sports
 
 - Badminton Racket
 - Nivia Football Shoes -> Nike Academy Football Turf
 - Nivia Badminton Shoes
 
-### apparel
+### Apparel
 
 - Running shorts
 - Running top
@@ -96,7 +96,7 @@
 - Swim Cap
 - -> Head band
 
-## home
+## Home
 
 - Bulb
 - Strandad Floor Lamp
@@ -112,15 +112,15 @@
 - Bathrobe
 - Stone Mat
 
-## garage
+## Garage
 
-### wheels
+### Wheels
 
 - Ninety One Defeatr 29T cycle
 - -> Triumph Thruxton
 - -> Toyota MR2 W20
 
-### gear
+### Gear
 
 - Helmet
 - Bandanas

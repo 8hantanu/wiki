@@ -1,10 +1,10 @@
-# research
+# Research
 
-## math
+## Math
 
 - [Hypercake Numbers](hypercake-number)
 
-## [patents](https://patents.google.com/?inventor=shantanu+mishra)
+## [Patents](https://patents.google.com/?inventor=shantanu+mishra)
 
 - Adaptive Simulation Framework for Switching Between Functional and Cycle-accurate Execution in Real-Time (pending)
 - Compiler-based Core Model for Functional Simulation of the AI Engine (pending)

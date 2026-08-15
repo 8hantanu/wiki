@@ -1,9 +1,9 @@
-# tmux
+# Tmux
 
 - See my `.tmux.conf` [here](https://github.com/8hantanu/dots/blob/main/.tmux.conf)
 - [Tmux cheatsheet](https://tmuxcheatsheet.com/)
 
-## common issues
+## Common Issues
 
 - UTF chars and symbols not loading correctly.
   - Start tmux in UTF-8 support enabled mode.

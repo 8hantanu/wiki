@@ -1,4 +1,4 @@
-# shantanu's wiki
+# Shantanu's Wiki
 
 This wiki documents my notes and some useful stuff I come across. I also curate some of my ideas, experiences, and creations here as well.
 

@@ -1,10 +1,10 @@
-# minima(xi)lism
+# Minima(xi)lism
 
 For a long time I wanted to pursue minimalism.
 Minimalism doesn’t mean to have the best of each.
 Even if I already had something functional, if it wasn’t aesthetically pleasing or didn’t match with my existing gear, I always looked out for replacing that item with a better one. Be it shoes or an office chair.
 
-## going furniture-free
+## Going Furniture-Free
 
 One fine day I was looking for the best ergonomic chair, I came across a floor desk setup. This intrigued me as I had multiple reasons to try this out.
 
@@ -16,6 +16,6 @@ Now all that I have in my room is a tiny floor desk, a floor mat, a cushion, a m
 
 > Don’t go for the best
 
-## ditching the check-in luggage
+## Ditching the Check-In Luggage
 
 `#draft`

@@ -1,4 +1,4 @@
-# self
+# Self
 
 - [about](about)
 - [experiences](experiences)

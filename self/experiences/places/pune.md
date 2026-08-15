@@ -1,4 +1,4 @@
-# pune
+# Pune
 
 
 ### Day 1
@@ -17,7 +17,7 @@ Shivam drove for the first half-day, headed to Bhimashankar Jyotirlinga.
 
 At around 17:30 took a snacks break—had dosa. The road was pretty, with wet roads and scenic views. We stopped at a gorge for a quick photo break. We resumed the drive now ETA at 2000. It was getting dark and visibility was low with heavy rains.
 
-### Day 1 (continued – Bhimashankar)
+### Day 1 (Continued – Bhimashankar)
 
 #### 20:30
 

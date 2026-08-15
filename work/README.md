@@ -1,4 +1,4 @@
-# work
+# Work
 
 - [projects](projects)
 - [design](design)

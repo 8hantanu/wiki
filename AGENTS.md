@@ -1,4 +1,4 @@
-# wiki
+# Wiki
 
 Default rules for the repo. Local `AGENTS.md` files override this when they are more specific.
 

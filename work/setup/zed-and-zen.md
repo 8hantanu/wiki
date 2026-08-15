@@ -1,11 +1,11 @@
-# zed and zen
+# Zed and Zen
 **2026-02-23**
 
 When setting up a new work computer, I need just two things:
 - a terminal to edit and execute
 - a browser to explore.
 
-## a(tom) to zed
+## A(tom) to Zed
 
 My primary workflow happens with tmux + nvim + opencode in a terminal. Usually when I am pair-programming or sharing my work with others, people find it difficult to navigate the terminal, so I prefer opening my project folder in a GUI code editor.
 
@@ -17,7 +17,7 @@ Soon I got rid of VS Code and used Zed as the replacement for both: a GUI editor
 
 One caveat is that Zed doesn't support rendering equations in markdown preview mode. Hopefully that gets added.
 
-## zen and the art of the browser
+## Zen and the Art of the Browser
 
 Before I was happy with the default browser apps that shipped with the respective OS, but this changed after I tried Zen and found its tab and session management so superior. I liked the concepts of spaces — I know it's all derived from Arc browser (credit where it's due) but Zen being open-sourced and Mozilla based made it my choice.
 
@@ -27,7 +27,7 @@ One cool feature of Zen is that ephemeral tabs — usually opened from within ap
 
 Another benefit of using these apps in the browser is I can use extensions like Vimium across all of them, making keyboard navigation a breeze.
 
-## zed, zen, repeat
+## Zed, Zen, Repeat
 
 The setup is simple. As my machine boots up, there are just two apps to open: Zed and Zen.
 

@@ -29,23 +29,23 @@ $$
 ### FlashAttention
 
 $$
-\mathbf{S}_i = \frac{\mathbf{Q}\mathbf{K}_i^\top}{\sqrt{d_k}} \quad (\text{block } i \text{ of } \mathbf{K}, \mathbf{V})
+\mathbf{S}_{j,i} = \frac{\mathbf{Q}_j\mathbf{K}_i^\top}{\sqrt{d_k}}
 $$
 
 $$
-m_i = \max(m_{i-1}, \max_j \mathbf{S}_{i,j})
+m_i = \max(m_{i-1}, \max_k \mathbf{S}_{j,i,k})
 $$
 
 $$
-\ell_i = e^{m_{i-1}-m_i}\ell_{i-1} + \sum_j e^{\mathbf{S}_{i,j}-m_i}
+\ell_i = e^{m_{i-1}-m_i}\ell_{i-1} + \sum_k e^{\mathbf{S}_{j,i,k}-m_i}
 $$
 
 $$
-\mathbf{O}_i = e^{m_{i-1}-m_i}\mathbf{O}_{i-1} + e^{\mathbf{S}_i - m_i}\mathbf{V}_i
+\mathbf{O}_i = e^{m_{i-1}-m_i}\mathbf{O}_{i-1} + e^{\mathbf{S}_{j,i} - m_i}\mathbf{V}_i
 $$
 
 $$
-\mathbf{O} = \mathbf{O}_T / \ell_T \quad (\text{after the last block } T\text{, full } N\times N \text{ matrix never materialized})
+\mathbf{O}_j = \mathbf{O}_{T_k} / \ell_{T_k} \quad (\text{full } N\times N \text{ matrix never materialized})
 $$
 
 ### QK Normalization

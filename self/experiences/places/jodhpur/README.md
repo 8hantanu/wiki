@@ -1,6 +1,6 @@
-# jodhpur
+# Jodhpur
 
-## rajasthan - beyond the registan
+## Rajasthan - Beyond the Registan
 
 ### 2025-02-25
 
@@ -8,17 +8,17 @@
 
 I arrive from [Udaipur](../udaipur#2025-02-24) and crash at Zostel Ratnada until 0800.
 
-#### morning
+#### Morning
 
 We rent a vehicle, head to an artsy cafe for breakfast, and then go to the kund. Breakfast is a vegan omelette, a club sandwich, soy milk hot chocolate, and cappuccino. Near the kund I watch a boy jump into water that looks at least five storeys deep.
 
 From there we continue to the cenotaphs. We get a little lost on the way back to the main road and need help from locals, but the climb rewards us with a great view of the blue city.
 
-#### afternoon
+#### Afternoon
 
 We go on to Mandore, a beautiful old area full of temples, cenotaphs, fort walls, monkeys, and ruins. Some passages are so tight we have to crawl through them. Lunch is dahi kachori and bhel.
 
-#### evening
+#### Evening
 
 We then head to Mehrangarh Fort. Much of it is closed, but the museum still gives us plenty to see, and from up there we catch the sunset under cloudy skies.
 

@@ -1,6 +1,6 @@
 # Dictionary
 
-## blue table
+## Blue Table
 
 ***/bluː ˈteɪbəl/***
 

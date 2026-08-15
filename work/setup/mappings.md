@@ -1,4 +1,4 @@
-# mappings
+# Mappings
 
 I use [Karabiner](https://karabiner-elements.pqrs.org/) on macOS and [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/) on Windows to remap two keys that always felt wasteful in their default positions:
 

@@ -1,11 +1,11 @@
-# books
+# Books
 
-## currently reading
+## Currently Reading
 
 - **Nuclear War**, by _Annie Jacobsen_
 - **Heads You Win**, by _Jeffrey Archer_
 
-## read
+## Read
 
 ### 2025
 
@@ -112,4 +112,4 @@
 - **Angels & Demons**, by _Dan Brown_ — 2/5
 - **Deception Point**, by _Dan Brown_ — 4/5
 
-## to read
+## To Read

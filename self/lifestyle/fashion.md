@@ -1,4 +1,4 @@
-# the fashion
+# The Fashion
 
 **The way I fashion!**
 

@@ -1,4 +1,4 @@
-# experiences
+# Experiences
 
 - [travel](travel)
 - [events](events)

@@ -1,8 +1,8 @@
-# pondicherry
+# Pondicherry
 
-## 2023-05-23 - pondicherry (3d/2n)
+## 2023-05-23 - Pondicherry (3D/2n)
 
-### day 01
+### Day 01
 
 Visited Auroville Bakery and Auroville Restaurant
 Headed to French colony
@@ -13,7 +13,7 @@ Went for some water activities
 Returned back to guest house
 Went to bikes and barrels for dinner
 
-### day 02
+### Day 02
 
 Had an awesome breakfast spread
 Drove to Auroville Ashram
@@ -27,7 +27,7 @@ Mixi got stung by a Jellyfish
 Went to the Bay of Buddha for dinner
 Walked along the beach on the footpath
 
-### day 03
+### Day 03
 
 Awesome breakfast once again
 Went to the shopping street

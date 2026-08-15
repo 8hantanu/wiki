@@ -415,7 +415,7 @@ Returned to the hotel, showered, and slept too much (restoring the complete ener
 
 ---
 
-## Marmaris (continued)
+## Marmaris (Continued)
 
 ### 21 December
 

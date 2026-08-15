@@ -1,16 +1,16 @@
-# pushkar
+# Pushkar
 
-## rajasthan - beyond the registan
+## Rajasthan - Beyond the Registan
 
 ### 2025-02-23
 
 I arrive from [Ajmer](../ajmer#2025-02-23), still taking in how the surrounding hills completely change the feel of the place.
 
-#### midday
+#### Midday
 
 Before darshan, I stop for lunch and try tamatar sev for the first time. It is excellent.
 
-#### afternoon
+#### Afternoon
 
 I walk through the streets to the Brahma temple, passing artisans at work in leather and stone. Inside, I notice that the tiles all seem to have been donated by devotees.
 
