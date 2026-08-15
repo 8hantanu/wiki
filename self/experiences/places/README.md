@@ -32,12 +32,20 @@
   <summary><strong>🏴󠁧󠁢󠁥󠁮󠁧󠁿 England</strong></summary>
   <ul>
     <li>Bath</li>
+    <li>Bourn</li>
+    <li>Burnham Overy Staithe</li>
     <li>Cambridge</li>
+    <li>Clacton-on-Sea</li>
+    <li>Deal</li>
+    <li>Dover</li>
     <li><a href="ely">Ely</a></li>
+    <li>Holkham</li>
     <li>Leeds</li>
     <li>London</li>
     <li>Norwich</li>
     <li>Nottingham</li>
+    <li>Saffron Walden</li>
+    <li>Wells-next-the-Sea</li>
     <li><a href="york">York</a></li>
   </ul>
 </details>

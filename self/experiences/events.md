@@ -3,6 +3,9 @@
 See all [places](places)
 
 ## 2026
+- Aurora Orchestra Concert
+- Bourn Windmill
+- Pitbull Concert
 - Brighton and Hove 10K
 - Cambridge Half Marathon
 

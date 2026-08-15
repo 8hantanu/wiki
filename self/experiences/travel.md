@@ -3,6 +3,9 @@
 See all [places](places)
 
 ## 2026
+- Coffee, Coast and Cod
+- A Day at Clacton-on-Sea
+- The White Cliffs Walk
 - Morocco: A Reverie through Riffs, Riads and Ramparts
 - Gibraltar's Cliffs, Caves and Coasts
 - The Heart of Wales
