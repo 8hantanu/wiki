@@ -39,12 +39,18 @@
     <li>Deal</li>
     <li>Dover</li>
     <li><a href="ely">Ely</a></li>
+    <li>Exeter</li>
     <li>Holkham</li>
     <li>Leeds</li>
     <li>London</li>
     <li>Norwich</li>
     <li>Nottingham</li>
+    <li>Penzance</li>
+    <li>Plymouth</li>
+    <li>Porthcurno</li>
     <li>Saffron Walden</li>
+    <li>St Erth</li>
+    <li>St Ives</li>
     <li>Wells-next-the-Sea</li>
     <li><a href="york">York</a></li>
   </ul>

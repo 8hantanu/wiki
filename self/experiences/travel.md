@@ -3,6 +3,7 @@
 See all [places](places)
 
 ## 2026
+- Closing Summer in Cornwall
 - Coffee, Coast and Cod
 - A Day at Clacton-on-Sea
 - The White Cliffs Walk
